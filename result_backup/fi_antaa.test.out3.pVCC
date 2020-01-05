@@ -1,0 +1,19 @@
+["nsubj", null, "obj", null, "obl", null]	121	3	pVCC
+["nsubj", null, "obj", "asetus"]	16	3	pVCC
+["nsubj", null, "obj", "mahdollisuus", "obl", null]	14	4	pVCC
+["nsubj", null, "obj", "tieto", "obl", null]	11	4	pVCC
+["nsubj", null, "obl", "22"]	5	3	pVCC
+["nsubj", null, "obj", "asetus", "obl", null]	4	4	pVCC
+["nsubj", null, "obj", null, "obl", "vuosi"]	4	4	pVCC
+["nsubj", null, "obj", "käsitys", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "lausunto", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "lupa"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "komissio"]	3	4	pVCC
+["nsubj", null, "obj", "tilasto#tieto", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "tunnustus", "obl", null]	3	4	pVCC
+["nsubj", "jäsen#valtio", "obj", null, "obl", null]	2	4	pVCC
+["nsubj", "komissio", "obl", null]	2	3	pVCC
+["nsubj", "neuvosto", "obj", null, "obl", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl", "mieli"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl", "toinen"]	2	4	pVCC
+["nsubj", "valtio", "obj", "sijoitus"]	2	4	pVCC

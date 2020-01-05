@@ -1,0 +1,4 @@
+["nsubj", null, "obl", null]	53	2	pVCC
+["nsubj", null, "obl", "raha#liitto"]	6	3	pVCC
+["nsubj", null, "obl", "toiminta"]	4	3	pVCC
+["nsubj", null, "obl", "kilpailu"]	3	3	pVCC

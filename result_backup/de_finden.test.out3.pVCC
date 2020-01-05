@@ -1,0 +1,19 @@
+["nsubj", null]	155	1	pVCC
+["nsubj", null, "obj", null]	90	2	pVCC
+["Acc", "sich", "nsubj", null]	37	3	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	35	3	pVCC
+["Acc", "sich", "nsubj", null, "obl=in", null]	17	4	pVCC
+["nsubj", null, "obl=auf", "server"]	7	3	pVCC
+["nsubj", "information", "obl=auf", null]	6	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "telepolis"]	6	4	pVCC
+["nsubj", "unknown"]	5	2	pVCC
+["nsubj", null, "obj", "bericht"]	4	3	pVCC
+["Acc", "sich", "nsubj", "information", "obl=auf", null]	3	5	pVCC
+["Acc", "sich", "nsubj", null, "obl=auf", "seite"]	3	5	pVCC
+["nsubj", null, "obj", "datei"]	3	3	pVCC
+["nsubj", null, "obl=in", "internet"]	3	3	pVCC
+["nsubj", "antrag", "obj", "mehrheit"]	2	4	pVCC
+["nsubj", null, "obj", "eingang", "obl=in", "datenbank"]	2	5	pVCC
+["nsubj", null, "obj", "information", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=auf", "website"]	2	4	pVCC
+["nsubj", null, "obj", "version", "obl=in", null]	2	4	pVCC

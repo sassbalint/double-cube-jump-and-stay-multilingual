@@ -1,0 +1,10 @@
+["nsubj", null, "obj", null]	68	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	29	3	pVCC
+["nsubj", null, "obj", "kysymys"]	6	3	pVCC
+["nsubj", "komissio"]	4	2	pVCC
+["nsubj", "jäsen#valtio"]	3	2	pVCC
+["nsubj", null, "obj", "huomio"]	3	3	pVCC
+["nsubj", null, "obj", "kanta"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "liite"]	3	4	pVCC
+["Nom", "tarvita", "nsubj", null, "obl", null]	2	4	pVCC
+["nsubj", null, "obj", "ehdotus", "obl", null]	2	4	pVCC

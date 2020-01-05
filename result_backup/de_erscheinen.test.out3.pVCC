@@ -1,0 +1,6 @@
+["nsubj", null]	76	1	pVCC
+["nsubj", null, "obl=in", null]	29	2	pVCC
+["nsubj", "version"]	10	2	pVCC
+["nsubj", null, "obl=in", "usa"]	4	3	pVCC
+["nsubj", "version", "obl=in", null]	4	3	pVCC
+["nsubj", "bericht", "obl=an", null, "obl=in", null]	2	4	pVCC

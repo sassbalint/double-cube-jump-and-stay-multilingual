@@ -1,0 +1,6 @@
+["nsubj", null]	148	1	pVCC
+["nsubj", null, "obj", null, "obl=om", null]	7	3	pVCC
+["iobj", "seg", "nsubj", null]	3	3	pVCC
+["nsubj", "rektor"]	3	2	pVCC
+["nsubj", null, "obl", "gang", "obl=på", null]	2	4	pVCC
+["nsubj", null, "obl=i", "dag", "obl=på", null]	2	4	pVCC

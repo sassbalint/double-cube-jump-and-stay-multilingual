@@ -1,0 +1,10 @@
+["nsubj", null, "obj", null]	131	2	pVCC
+["nsubj", null, "obj", "penge"]	8	3	pVCC
+["nsubj", null, "obj", "tid"]	8	3	pVCC
+["nsubj", null, "obj", "ord"]	5	3	pVCC
+["nsubj", null, "obj", "tid", "obl=på", null]	4	4	pVCC
+["nsubj", null, "obl=i", "grad"]	4	3	pVCC
+["nsubj", null, "obj", "penge", "obl=på", null]	3	4	pVCC
+["nsubj", null, "obj", "oljepenger", "obl", "år"]	2	5	pVCC
+["nsubj", null, "obj", "tid", "obl=i", null, "obl=på", null]	2	5	pVCC
+["nsubj", null, "obl=i", "dag", "obl=til", null]	2	4	pVCC

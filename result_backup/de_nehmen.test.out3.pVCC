@@ -1,0 +1,15 @@
+["nsubj", null, "obj", null]	76	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	19	3	pVCC
+["nsubj", null, "obj", "stellung"]	7	3	pVCC
+["nsubj", null, "obl=in", "betrieb"]	7	3	pVCC
+["nsubj", null, "obj", null, "obl=von", "netz"]	6	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "anspruch"]	5	4	pVCC
+["nsubj", null, "obj", "einfluß"]	4	3	pVCC
+["nsubj", null, "obj", "stellung", "obl=zu", null]	4	4	pVCC
+["nsubj", null, "obj", "abstand"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "betrieb"]	3	4	pVCC
+["nsubj", "behörde", "obj", "stellung"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=aus", "angebot"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=für", null, "obl=in", "anspruch"]	2	5	pVCC
+["nsubj", null, "obl=aus", null, "obl=nach", "angabe", "obl=vor", null]	2	5	pVCC
+["nsubj", null, "obl", "woche", "obl=in", "betrieb"]	2	5	pVCC

@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	29	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	8	3	pVCC
+["nsubj", null, "obl=in", "usa"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "jahr"]	3	4	pVCC
+["nsubj", "apple", "obj", null, "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=in", null, "obl=mit", null]	2	4	pVCC

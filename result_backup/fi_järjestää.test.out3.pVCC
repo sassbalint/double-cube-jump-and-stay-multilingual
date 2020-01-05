@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null, "obl", null]	33	3	pVCC
+["nsubj", null, "obl", "vuosi"]	4	3	pVCC
+["nsubj", "yli#opisto"]	4	2	pVCC
+["nsubj", null, "obj", null, "obl", "kerta"]	3	4	pVCC
+["nsubj", "laitos", "obj", null, "obl", "yhteis#työ"]	2	5	pVCC
+["nsubj", "oppi#aine", "obj", null, "obl", null]	2	4	pVCC

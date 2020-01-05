@@ -1,0 +1,85 @@
+["nsubj", null, "obj", null]	1020	2	pVCC
+["nsubj", null, "obj", "problem"]	27	3	pVCC
+["nsubj", null, "obj", "time"]	22	3	pVCC
+["nsubj", null, "obj", "experience"]	17	3	pVCC
+["nsubj", null, "obj", "idea"]	13	3	pVCC
+["nsubj", null, "obj", "fun"]	11	3	pVCC
+["nsubj", null, "obj", "chance"]	10	3	pVCC
+["nsubj", null, "obj", "issue"]	10	3	pVCC
+["nsubj", null, "xcomp=to", "do"]	10	3	pVCC
+["nsubj", null, "xcomp=to", "have"]	10	3	pVCC
+["nsubj", null, "obj", "money"]	9	3	pVCC
+["nsubj", null, "xcomp=to", "go"]	9	3	pVCC
+["nsubj", null, "xcomp=to", "wait"]	9	3	pVCC
+["nsubj", null, "obj", "option"]	8	3	pVCC
+["nsubj", null, "xcomp=to", "pay"]	8	3	pVCC
+["nsubj", null, "xcomp=to", "say"]	8	3	pVCC
+["nsubj", null, "obj", "comment"]	7	3	pVCC
+["nsubj", null, "obj", "lot"]	7	3	pVCC
+["nsubj", null, "obj", "kind"]	6	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "do"]	6	4	pVCC
+["nsubj", null, "obj", "number"]	6	3	pVCC
+["nsubj", null, "obj", "one"]	6	3	pVCC
+["nsubj", null, "obj", "service"]	6	3	pVCC
+["nsubj", null, "xcomp=to", "deal"]	6	3	pVCC
+["nsubj", "people", "obj", null]	6	3	pVCC
+["nsubj", "country", "obj", null]	5	3	pVCC
+["nsubj", "menu", "obj", null]	5	3	pVCC
+["nsubj", null, "obj", "connection"]	5	3	pVCC
+["nsubj", null, "obj", "conversation"]	5	3	pVCC
+["nsubj", null, "obj", "interest"]	5	3	pVCC
+["nsubj", null, "obj", "meeting"]	5	3	pVCC
+["nsubj", null, "obj", "power"]	5	3	pVCC
+["nsubj", null, "obj", "room"]	5	3	pVCC
+["nsubj", null, "obj", "trouble"]	5	3	pVCC
+["nsubj", null, "xcomp=to=down", "put"]	5	3	pVCC
+["nsubj", null, "xcomp=to", "take"]	5	3	pVCC
+["nsubj", "qaeda", "obj", null]	5	3	pVCC
+["nsubj", "bush"]	4	2	pVCC
+["nsubj", "cat", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "child"]	4	3	pVCC
+["nsubj", null, "obj", "couple"]	4	3	pVCC
+["nsubj", null, "obj", "dinner"]	4	3	pVCC
+["nsubj", null, "obj", "effect"]	4	3	pVCC
+["nsubj", null, "obj", "food"]	4	3	pVCC
+["nsubj", null, "obj", "hair"]	4	3	pVCC
+["nsubj", null, "obj", "hand"]	4	3	pVCC
+["nsubj", null, "obj", "knowledge"]	4	3	pVCC
+["nsubj", null, "obj", "memory"]	4	3	pVCC
+["nsubj", null, "obj", "more"]	4	3	pVCC
+["nsubj", null, "obj", "much"]	4	3	pVCC
+["nsubj", null, "obj", "need"]	4	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "come"]	4	4	pVCC
+["nsubj", null, "obj", "people"]	4	3	pVCC
+["nsubj", null, "obj", "place"]	4	3	pVCC
+["nsubj", null, "obj", "population"]	4	3	pVCC
+["nsubj", null, "obj", "program"]	4	3	pVCC
+["nsubj", null, "obj", "record"]	4	3	pVCC
+["nsubj", null, "obj", "skill"]	4	3	pVCC
+["nsubj", null, "obj", "type"]	4	3	pVCC
+["nsubj", null, "obj", "way"]	4	3	pVCC
+["nsubj", null, "xcomp=to", "cancel"]	4	3	pVCC
+["nsubj", "one", "obj", null]	4	3	pVCC
+["nsubj", "silky", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "authority"]	3	3	pVCC
+["nsubj", null, "obj", "bit"]	3	3	pVCC
+["nsubj", null, "obj", "call"]	3	3	pVCC
+["nsubj", null, "obj", "capability"]	3	3	pVCC
+["nsubj", null, "obj", "contact"]	3	3	pVCC
+["nsubj", null, "obj", "difficulty"]	3	3	pVCC
+["nsubj", null, "obj", "feather"]	3	3	pVCC
+["nsubj", null, "obj", "filter"]	3	3	pVCC
+["nsubj", null, "obj", "fun", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obj", "means"]	3	3	pVCC
+["nsubj", null, "obj", "motive"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=by", "end"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "year"]	3	4	pVCC
+["nsubj", null, "obj", "pedicure"]	3	3	pVCC
+["nsubj", null, "obj", "plenty"]	3	3	pVCC
+["nsubj", null, "obj", "point"]	3	3	pVCC
+["nsubj", null, "obj", "response"]	3	3	pVCC
+["nsubj", null, "obj", "time", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obj", "toe"]	3	3	pVCC
+["nsubj", null, "obj", "website"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "make"]	3	3	pVCC
+["nsubj", "sussex", "obj", null]	3	3	pVCC

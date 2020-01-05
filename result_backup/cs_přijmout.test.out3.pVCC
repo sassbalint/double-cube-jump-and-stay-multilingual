@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	31	2	pVCC
+["nsubj", null, "obj", "pozvání"]	3	3	pVCC
+["nsubj", null, "obj", "uprchlík"]	3	3	pVCC
+["nsubj", "parlament", "obj", "zákon"]	2	4	pVCC

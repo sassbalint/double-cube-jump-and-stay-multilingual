@@ -1,0 +1,8 @@
+["nsubj", null, "obj", null]	99	2	pVCC
+["nsubj", null, "obj", "sted"]	8	3	pVCC
+["nsubj", null, "obj", "glede"]	3	3	pVCC
+["nsubj", null, "obj", "løsning"]	3	3	pVCC
+["nsubj", null, "obj", "sted", "obl=i", null]	3	4	pVCC
+["nsubj", null, "obj", "vei"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=til", "tekst"]	2	4	pVCC
+["nsubj", null, "obl=om", "morgen"]	2	3	pVCC

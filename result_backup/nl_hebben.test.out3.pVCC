@@ -1,0 +1,42 @@
+["nsubj", null, "obj", null]	550	2	pVCC
+["nsubj", null, "obj", null, "xcomp", "nodig"]	18	4	pVCC
+["nsubj", null, "obj", "inwoner"]	12	3	pVCC
+["nsubj", null, "obj", "recht"]	10	3	pVCC
+["nsubj", null, "obj", "zin"]	10	3	pVCC
+["nsubj", null, "obj", "kleur"]	9	3	pVCC
+["nsubj", null, "obj", "tijd"]	9	3	pVCC
+["nsubj", null, "obj", "geld"]	8	3	pVCC
+["nsubj", null, "obj", "invloed"]	8	3	pVCC
+["nsubj", null, "obj", "nationaliteit"]	8	3	pVCC
+["nsubj", null, "obj", "kans"]	7	3	pVCC
+["nsubj", null, "obj", "ervaring"]	6	3	pVCC
+["nsubj", null, "obj", "naam"]	6	3	pVCC
+["nsubj", null, "obj", "behoefte"]	5	3	pVCC
+["nsubj", null, "obj", "gelijk"]	5	3	pVCC
+["nsubj", null, "obj", "indruk"]	5	3	pVCC
+["nsubj", null, "obj", "kind"]	5	3	pVCC
+["nsubj", null, "obj", "vertrouwen"]	5	3	pVCC
+["nsubj", "kind", "obj", null]	4	3	pVCC
+["nsubj", "land", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "begrip"]	4	3	pVCC
+["nsubj", null, "obj", "hoop"]	4	3	pVCC
+["nsubj", null, "obj", "leiding"]	4	3	pVCC
+["nsubj", null, "obj", "moeite"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=van", "daar"]	4	4	pVCC
+["nsubj", null, "obj", "probleem"]	4	3	pVCC
+["nsubj", null, "obj", "profijt", "obl=van", null]	4	4	pVCC
+["nsubj", null, "obj", "punt"]	4	3	pVCC
+["nsubj", null, "obj", "spijt"]	4	3	pVCC
+["nsubj", null, "obj", "succes"]	4	3	pVCC
+["nsubj", null, "obj", "voordeel"]	4	3	pVCC
+["nsubj", null, "obj", "woord"]	4	3	pVCC
+["nsubj", "mens", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "invloed", "obl=op", null]	3	4	pVCC
+["nsubj", null, "obj", "moeilijkheid"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=bij", "er"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "moeilijk"]	3	4	pVCC
+["nsubj", null, "obj", "plan"]	3	3	pVCC
+["nsubj", null, "obj", "respect"]	3	3	pVCC
+["nsubj", "bedrijf", "obj", null, "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", "gevolg", "obl=voor", "personeel"]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=voor", "verandering", "xcomp", "nodig"]	2	6	pVCC

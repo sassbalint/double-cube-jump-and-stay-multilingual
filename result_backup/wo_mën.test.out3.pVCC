@@ -1,0 +1,12 @@
+["nsubj", null, "xcomp", null]	97	2	pVCC
+["nsubj", null, "obj", null, "xcomp", null]	32	3	pVCC
+["nsubj", "nit", "xcomp", null]	4	3	pVCC
+["nsubj", null, "xcomp", "am"]	4	3	pVCC
+["nsubj", null, "xcomp", "jàpp"]	4	3	pVCC
+["nsubj", null, "xcomp", "jur"]	4	3	pVCC
+["nsubj", null, "xcomp", "wax"]	4	3	pVCC
+["nsubj", "jabet", "xcomp", null]	3	3	pVCC
+["nsubj", null, "xcomp", "gis"]	3	3	pVCC
+["nsubj", null, "xcomp", "jëli"]	3	3	pVCC
+["nsubj", null, "xcomp", "jëriñoo"]	3	3	pVCC
+["nsubj", null, "xcomp", "ñàkk"]	3	3	pVCC

@@ -1,0 +1,7 @@
+["nsubj", null]	61	1	pVCC
+["nsubj", null, "obj", null]	29	2	pVCC
+["nsubj", "linie"]	4	2	pVCC
+["nsubj", null, "obj", "strafe"]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl=als", null]	2	3	pVCC
+["nsubj", "gesetz", "obj", null, "obl=für", null]	2	4	pVCC
+["nsubj", "plan", "xcomp", null]	2	3	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	37	2	pVCC
+["nsubj", null, "obj", "time"]	8	3	pVCC
+["nsubj", null, "obj", "$"]	4	3	pVCC
+["nsubj", null, "obj", "day"]	3	3	pVCC

@@ -1,0 +1,5 @@
+["nsubj", null]	37	1	pVCC
+["nsubj", null, "obj", null]	10	2	pVCC
+["nsubj", "ministr"]	4	2	pVCC
+["nsubj", null, "obj", "ten"]	4	3	pVCC
+["nsubj", "prezident", "obl=v", null]	2	3	pVCC

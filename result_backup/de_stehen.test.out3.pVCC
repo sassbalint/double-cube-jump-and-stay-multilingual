@@ -1,0 +1,24 @@
+["nsubj", null]	215	1	pVCC
+["nsubj", null, "obl=in", null]	88	2	pVCC
+["nsubj", null, "obl=zu", "verfügung"]	34	3	pVCC
+["nsubj", null, "obj", null, "obl=zu", "verfügung"]	9	4	pVCC
+["nsubj", null, "obl=für", null, "obl=zu", "verfügung"]	9	4	pVCC
+["nsubj", "version"]	7	2	pVCC
+["nsubj", null, "obl=auf", "ordnung"]	5	3	pVCC
+["nsubj", null, "obl=auf", "server"]	5	3	pVCC
+["nsubj", null, "obl=in", "zentrum"]	5	3	pVCC
+["nsubj", null, "obl=zu", "wahl"]	5	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "weg"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=zu", "seite"]	4	4	pVCC
+["nsubj", null, "obl=auf", "liste"]	4	3	pVCC
+["nsubj", null, "obl=auf", "seite"]	4	3	pVCC
+["nsubj", null, "obl=in", "punkt"]	4	3	pVCC
+["nsubj", null, "obl=in", "vordergrund"]	4	3	pVCC
+["nsubj", null, "obl=in", "zusammenhang"]	4	3	pVCC
+["nsubj", "modell"]	3	2	pVCC
+["nsubj", null, "obj", "nutzer"]	3	3	pVCC
+["nsubj", null, "obl=in", "regal"]	3	3	pVCC
+["nsubj", null, "obl=in", "widerspruch"]	3	3	pVCC
+["nsubj", null, "obl=auf", "ordnung", "obl=in", null]	2	4	pVCC
+["nsubj", "system", "obl=in", null, "obl=zu", "verfügung"]	2	5	pVCC
+["nsubj", "version", "obl=auf", "server"]	2	4	pVCC

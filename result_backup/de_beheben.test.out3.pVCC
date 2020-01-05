@@ -1,0 +1,6 @@
+["nsubj", null]	32	1	pVCC
+["nsubj", null, "obj", null]	18	2	pVCC
+["Nom", null, "nsubj", null]	10	2	pVCC
+["nsubj", null, "obj", "fehler"]	9	3	pVCC
+["Nom", "problem", "nsubj", null]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl=in", "lauf", "obl=nach", "angabe"]	2	6	pVCC

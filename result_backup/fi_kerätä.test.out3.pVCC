@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	35	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	17	3	pVCC
+["nsubj", null, "obj", "tieto"]	7	3	pVCC
+["nsubj", null, "obj", "tilasto#tieto", "obl", null]	3	4	pVCC
+["Ade", "tehdä", "nsubj", null, "obj", "tieto"]	2	5	pVCC
+["nsubj", null, "obj", "tieto", "obl", "jäsen#valtio"]	2	5	pVCC

@@ -1,0 +1,16 @@
+["nsubj", null, "obj", null]	144	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	46	3	pVCC
+["nsubj", null, "obj", null, "obl=auf", "markt"]	23	4	pVCC
+["nsubj", null, "obj", null, "obl=auf", "markt", "obl=in", null]	7	5	pVCC
+["nsubj", null, "obl=in", "erfahrung"]	5	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "umlauf"]	4	4	pVCC
+["nsubj", "unknown", "obj", null]	4	3	pVCC
+["nsubj", "microsoft", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "gewinn"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "spiel"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=zu", "absturz"]	3	4	pVCC
+["nsubj", "apple", "obj", null, "obl=auf", "markt", "obl=in", null]	2	6	pVCC
+["nsubj", null, "obj", null, "obl=an", "börse", "obl=in", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=auf", "markt", "obl=in", null, "obl=mit", null]	2	6	pVCC
+["nsubj", null, "obj", null, "obl=auf", "markt", "obl=in", null, "obl=unter", null]	2	6	pVCC
+["nsubj", null, "obj", "sich", "obl=in", null]	2	4	pVCC

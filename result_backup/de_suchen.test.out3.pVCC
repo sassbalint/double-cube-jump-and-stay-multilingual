@@ -1,0 +1,5 @@
+["nsubj", null]	53	1	pVCC
+["nsubj", null, "obj", null]	20	2	pVCC
+["Dat=nach", "partner", "nsubj", null]	3	3	pVCC
+["iobj", "sich", "nsubj", null, "obj", null]	3	4	pVCC
+["Dat=nach", null, "nsubj", "kirchgruppe"]	2	3	pVCC

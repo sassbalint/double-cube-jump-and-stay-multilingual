@@ -1,0 +1,37 @@
+["nsubj", null, "obj", null]	240	2	pVCC
+["nsubj", null, "obj", null, "xcomp", null]	109	3	pVCC
+["iobj", "sich", "nsubj", null, "obj", null]	16	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "zugänglich"]	12	4	pVCC
+["nsubj", null, "obj", "sich", "xcomp", null]	12	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "verantwortlich"]	11	4	pVCC
+["nsubj", null, "obj", "angabe"]	9	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "möglich"]	9	4	pVCC
+["nsubj", null, "xcomp", "aufmerksam"]	9	3	pVCC
+["iobj", null, "nsubj", null, "obj", "konkurrenz"]	6	4	pVCC
+["nsubj", "hersteller", "obj", null]	6	3	pVCC
+["nsubj", "provider", "obj", null]	6	3	pVCC
+["nsubj", "unknown", "obj", null]	6	3	pVCC
+["nsubj", null, "obj", null, "obl=für", null, "xcomp", "verantwortlich"]	5	5	pVCC
+["nsubj", null, "obj", "rückzieher"]	5	3	pVCC
+["nsubj", null, "xcomp", "deutlich"]	5	3	pVCC
+["iobj", "sich", "nsubj", null, "obj", "gedanke"]	4	5	pVCC
+["Nom", null, "nsubj", null, "xcomp", "verantwortlich"]	4	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "abhängig"]	4	4	pVCC
+["nsubj", null, "obj", "vorschlag"]	4	3	pVCC
+["nsubj", null, "xcomp", "verfügbar"]	4	3	pVCC
+["nsubj", "industrie", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "gebrauch", "obl=von", null]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "ausfindig"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "gut"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "interessant"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "unmöglich"]	3	4	pVCC
+["nsubj", null, "obj", "verlust"]	3	3	pVCC
+["nsubj", null, "xcomp", "dicht"]	3	3	pVCC
+["iobj", "sich", "nsubj", null, "obj", "name", "obl=als", null]	2	6	pVCC
+["iobj", "sich", "nsubj", "unknown", "obj", null, "obl=zu", null]	2	6	pVCC
+["nsubj", "chef", "obj", null, "xcomp", null]	2	4	pVCC
+["nsubj", "internet", "obj", null, "xcomp", null]	2	4	pVCC
+["nsubj", null, "obj", "erfahrung", "obl=in", null, "obl=mit", null]	2	5	pVCC
+["nsubj", null, "obj", "geschäft", "obl=mit", null]	2	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "rückgängig"]	2	4	pVCC
+["nsubj", "provider", "obj", "sich", "xcomp", "strafbar"]	2	6	pVCC

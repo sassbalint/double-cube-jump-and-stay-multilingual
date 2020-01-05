@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	75	2	pVCC
+["nsubj", null, "obj", "problem"]	4	3	pVCC
+["nsubj", null, "obj", "zugang"]	3	3	pVCC
+["nsubj", "kunde", "obj", "gebühr"]	2	4	pVCC
+["nsubj", null, "obj", "meldung", "obl=bei", null]	2	4	pVCC

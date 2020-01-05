@@ -1,0 +1,4 @@
+["nsubj", null]	118	1	pVCC
+["nsubj", null, "obl=i", null]	34	2	pVCC
+["nsubj", "kulturminne"]	3	2	pVCC
+["nsubj", null, "obl=i", "norge"]	3	3	pVCC

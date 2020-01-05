@@ -1,0 +1,4 @@
+["nsubj", null]	53	1	pVCC
+["nsubj", null, "obl=auf", "nachfrage"]	5	3	pVCC
+["nsubj", "sprecher"]	4	2	pVCC
+["nsubj", "unternehmen"]	3	2	pVCC

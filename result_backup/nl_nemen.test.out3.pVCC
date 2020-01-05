@@ -1,0 +1,11 @@
+["nsubj", null, "obj", null]	84	2	pVCC
+["nsubj", null, "obj", "maatregel"]	8	3	pVCC
+["nsubj", null, "obj", "beslissing"]	7	3	pVCC
+["nsubj", null, "obj", "besluit"]	5	3	pVCC
+["nsubj", null, "obj", "afscheid"]	3	3	pVCC
+["nsubj", null, "obj", "leiding"]	3	3	pVCC
+["nsubj", null, "obj", "proef"]	3	3	pVCC
+["nsubj", null, "obj", "voorsprong"]	3	3	pVCC
+["nsubj", null, "obj", "genoegen", "obl=met", "plaats"]	2	5	pVCC
+["nsubj", null, "obj", "kennis", "obl=van", null]	2	4	pVCC
+["nsubj", null, "obj", "risico", "obl=na", null]	2	4	pVCC

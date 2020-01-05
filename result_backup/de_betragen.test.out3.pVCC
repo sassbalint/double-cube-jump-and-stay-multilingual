@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	31	2	pVCC
+["nsubj", null, "obj", "mark"]	10	3	pVCC
+["nsubj", "gebühr", "obj", "mark"]	5	4	pVCC
+["nsubj", null, "obj", "prozent"]	4	3	pVCC

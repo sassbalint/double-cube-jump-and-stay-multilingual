@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	97	2	pVCC
+["nsubj", null, "obj", null, "obl=to", null]	32	3	pVCC
+["nsubj", null, "obj", "copy"]	4	3	pVCC
+["nsubj", null, "obj", "email"]	4	3	pVCC
+["nsubj", null, "obl=in", "connection"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "to"]	2	4	pVCC
+["nsubj", null, "obj", "troops", "obl=to", "iraq"]	2	5	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null]	27	1	pVCC
+["nsubj", null, "obl=gegen", null]	15	2	pVCC
+["nsubj", null, "obl=gegen", "betreiber"]	3	3	pVCC
+["nsubj", "american", "obl=gegen", "gesetz"]	2	4	pVCC

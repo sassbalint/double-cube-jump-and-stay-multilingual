@@ -1,0 +1,3 @@
+["Dat", "se", "nsubj", null]	28	3	pVCC
+["Dat", "se", "Nom", null, "nsubj", null]	8	4	pVCC
+["Dat", "se", "Loc=o", null, "nsubj", null, "obj", null]	2	5	pVCC

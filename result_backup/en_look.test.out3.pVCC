@@ -1,0 +1,4 @@
+["nsubj", null]	214	1	pVCC
+["nsubj", null, "xcomp", "good"]	9	3	pVCC
+["nsubj", null, "obl", "like"]	4	3	pVCC
+["nsubj", null, "xcomp", "great"]	3	3	pVCC

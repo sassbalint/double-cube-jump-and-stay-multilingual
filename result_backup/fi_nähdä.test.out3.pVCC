@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	118	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	51	3	pVCC
+["nsubj", null, "obl", "silmä"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl", "yö"]	3	4	pVCC
+["nsubj", null, "obj", "uni"]	3	3	pVCC

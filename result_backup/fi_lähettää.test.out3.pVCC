@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null, "obl", null]	19	3	pVCC
+["nsubj", null, "obj", "viesti"]	4	3	pVCC
+["nsubj", "mithridates", "obj", null, "obl", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl", "vuosi"]	2	4	pVCC

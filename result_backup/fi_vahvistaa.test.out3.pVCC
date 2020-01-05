@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	54	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	31	3	pVCC
+["nsubj", null, "obj", "enimmäis#määrä", "obl", null]	5	4	pVCC
+["nsubj", null, "obl", "asetus"]	5	3	pVCC
+["Ins", "noudattaa", "nsubj", null, "obj", null, "obl", null]	3	5	pVCC
+["nsubj", null, "obj", "sääntö"]	3	3	pVCC

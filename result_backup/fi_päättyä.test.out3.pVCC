@@ -1,0 +1,4 @@
+["nsubj", null]	38	1	pVCC
+["nsubj", null, "obl", null]	22	2	pVCC
+["nsubj", null, "obl", "vuosi"]	5	3	pVCC
+["nsubj", null, "obl", "voitto"]	3	3	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null]	52	1	pVCC
+["nsubj", null, "obl=über", null]	19	2	pVCC
+["nsubj", "abrechnung"]	3	2	pVCC
+["nsubj", "wahl", "obl=über", "nummer"]	2	4	pVCC

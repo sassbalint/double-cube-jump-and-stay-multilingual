@@ -1,0 +1,10 @@
+["nsubj", null]	256	1	pVCC
+["nsubj", null, "xcomp=to", null]	116	2	pVCC
+["nsubj", null, "obj", null]	115	2	pVCC
+["nsubj", null, "xcomp=to", "do"]	12	3	pVCC
+["nsubj", null, "obj", "help"]	9	3	pVCC
+["nsubj", null, "xcomp=to", "get"]	6	3	pVCC
+["nsubj", null, "xcomp=to", "have"]	4	3	pVCC
+["nsubj", null, "obj", "horse"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "update"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "work"]	3	3	pVCC

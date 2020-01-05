@@ -1,0 +1,14 @@
+["nsubj", null]	456	1	pVCC
+["nsubj", null, "obl", null]	230	2	pVCC
+["nsubj", null, "obl", "vuosi"]	11	3	pVCC
+["nsubj", null, "obl", "mieli"]	7	3	pVCC
+["nsubj", "nimi", "obl", null]	4	3	pVCC
+["nsubj", null, "obl", "lapsi"]	4	3	pVCC
+["Tra", "tunnettu", "nsubj", null, "obl", null]	4	4	pVCC
+["nsubj", null, "obl", "aika"]	3	3	pVCC
+["nsubj", null, "obl", "ohje"]	3	3	pVCC
+["Ill", "opiskella", "nsubj", null, "obl", "yli#opisto"]	2	5	pVCC
+["nsubj", "ihminen", "obl", "maailma"]	2	4	pVCC
+["nsubj", "muutos", "obl", null]	2	3	pVCC
+["nsubj", null, "obl", "toimi", "obl=kanssa", null]	2	4	pVCC
+["Tra", "hyväksyä", "nsubj", null, "obl", null]	2	4	pVCC

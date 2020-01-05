@@ -1,0 +1,8 @@
+["nsubj", null, "obj", "preis"]	19	3	pVCC
+["nsubj", null, "obj", "kosten"]	6	3	pVCC
+["nsubj", null, "obj", "preis", "obl=um", null]	6	4	pVCC
+["nsubj", null, "obj", null, "obl=auf", null, "obl=von", null]	4	4	pVCC
+["nsubj", "apple", "obj", "preis", "obl=um", "mark"]	3	6	pVCC
+["nsubj", "apple", "obj", null, "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=auf", "mark", "obl=von", null]	2	5	pVCC
+["nsubj", null, "obj", "preis", "obl=um", "prozent"]	2	5	pVCC

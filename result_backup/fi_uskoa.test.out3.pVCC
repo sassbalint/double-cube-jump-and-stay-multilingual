@@ -1,0 +1,5 @@
+["nsubj", null]	50	1	pVCC
+["Gen", null, "nsubj", null]	17	2	pVCC
+["nsubj", "prosentti"]	6	2	pVCC
+["Gen", "tulla", "nsubj", null]	3	3	pVCC
+["nsubj", "sijoittaja"]	3	2	pVCC

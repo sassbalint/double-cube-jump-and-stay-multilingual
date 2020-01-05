@@ -1,0 +1,7 @@
+["nsubj", null]	27	1	pVCC
+["nsubj", null, "obj", null]	14	2	pVCC
+["nsubj", null, "obl=von", null]	7	2	pVCC
+["nsubj", null, "obj", null, "obl=auf", null]	5	3	pVCC
+["nsubj", null, "obj", null, "obl=über", "internet"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=von", "server"]	2	4	pVCC
+["nsubj", null, "obl=bei", "start"]	2	3	pVCC

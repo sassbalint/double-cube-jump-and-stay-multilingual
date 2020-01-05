@@ -1,0 +1,8 @@
+["nsubj", null, "xcomp", null]	93	2	pVCC
+["nsubj", null, "xcomp", "abwarten"]	11	3	pVCC
+["nsubj", null, "xcomp", "offen"]	7	3	pVCC
+["nsubj", null, "xcomp", "fraglich"]	5	3	pVCC
+["nsubj", null, "xcomp", "unklar"]	5	3	pVCC
+["nsubj", null, "xcomp", "anonym"]	3	3	pVCC
+["nsubj", "zeit"]	3	2	pVCC
+["nsubj", null, "xcomp=zu", "hoffen"]	2	3	pVCC

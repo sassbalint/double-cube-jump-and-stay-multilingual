@@ -1,0 +1,29 @@
+["nsubj", null, "obj", null]	385	2	pVCC
+["nsubj", null, "obj", "jobb"]	11	3	pVCC
+["nsubj", null, "obj", "seg", "xcomp", null]	11	4	pVCC
+["nsubj", null, "obj", "feil"]	10	3	pVCC
+["nsubj", null, "xcomp", "vanskelig"]	10	3	pVCC
+["nsubj", null, "obj", "mye"]	9	3	pVCC
+["nsubj", null, "obj", "valg"]	8	3	pVCC
+["nsubj", null, "obj", "inntrykk"]	6	3	pVCC
+["nsubj", null, "obj", "ting"]	6	3	pVCC
+["nsubj", null, "xcomp", "mulig"]	6	3	pVCC
+["nsubj", null, "xcomp", "vanskelig", "xcomp=å", null]	5	4	pVCC
+["nsubj", "regjeringen", "obj", null]	5	3	pVCC
+["nsubj", null, "obj", "innsats"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl", "gang"]	4	4	pVCC
+["nsubj", null, "xcomp", "god"]	4	3	pVCC
+["case", "om", "nsubj", null]	3	3	pVCC
+["nsubj", null, "obj", "annen"]	3	3	pVCC
+["nsubj", null, "obj", "god"]	3	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "frisk"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "tilgjengelig"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "vanskelig"]	3	4	pVCC
+["nsubj", null, "obj", "verden", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obj", "vurdering"]	3	3	pVCC
+["nsubj", null, "xcomp", "bra"]	3	3	pVCC
+["nsubj", null, "xcomp", "klar"]	3	3	pVCC
+["nsubj", null, "xcomp", "mulig", "xcomp=å", null]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "løp"]	2	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "oppmerksom"]	2	4	pVCC
+["nsubj", "obama", "obj", null]	2	3	pVCC

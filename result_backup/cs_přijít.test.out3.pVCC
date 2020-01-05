@@ -1,0 +1,4 @@
+["nsubj", null]	78	1	pVCC
+["Acc=o", null, "nsubj", null, "obl", null]	3	3	pVCC
+["nsubj", "který"]	3	2	pVCC
+["Gen=na", "milión", "nsubj", null, "obj", null]	2	4	pVCC

@@ -1,0 +1,7 @@
+["nsubj", null]	344	1	pVCC
+["nsubj", "heer"]	12	2	pVCC
+["nsubj", "minister"]	8	2	pVCC
+["nsubj", "mr."]	6	2	pVCC
+["nsubj", null, "obl", null, "obl=in", null]	5	3	pVCC
+["nsubj", "heer", "xcomp=te", null]	4	3	pVCC
+["nsubj", "minister", "obl=in", null]	3	3	pVCC

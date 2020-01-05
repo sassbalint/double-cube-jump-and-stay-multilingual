@@ -1,0 +1,50 @@
+["nsubj", null, "obj", null]	213	2	pVCC
+["nsubj", null, "obj", null, "obl=zu", "download"]	20	4	pVCC
+["nsubj", null, "obj", "dienst"]	12	3	pVCC
+["nsubj", null, "obj", "zugang"]	12	3	pVCC
+["nsubj", null, "obj", "version", "obl=zu", "download"]	8	5	pVCC
+["nsubj", "unternehmen", "obj", null]	8	3	pVCC
+["nsubj", "apple", "obj", null]	7	3	pVCC
+["nsubj", null, "obj", "unknown"]	7	3	pVCC
+["nsubj", "hersteller", "obj", null]	6	3	pVCC
+["nsubj", null, "obj", "service"]	6	3	pVCC
+["nsubj", null, "obj", null, "obl=ab", "sofort"]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=auf", "website"]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=für", "mark"]	5	4	pVCC
+["nsubj", null, "obj", "zugang", "obl=in", null]	5	4	pVCC
+["nsubj", "microsoft", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "ferngespräch"]	4	3	pVCC
+["nsubj", null, "obj", "modell"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=für", "dollar"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "deutschland"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=unter", "bezeichnung"]	4	4	pVCC
+["nsubj", null, "obj", "produkt"]	4	3	pVCC
+["nsubj", null, "obj", "rechner"]	4	3	pVCC
+["nsubj", null, "obj", "software"]	4	3	pVCC
+["nsubj", null, "obj", "tarif"]	4	3	pVCC
+["nsubj", "unknown", "obj", null]	4	3	pVCC
+["nsubj", "unternehmen", "obj", null, "obl=in", null]	4	4	pVCC
+["Acc", "sich", "nsubj", null]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl=für", null, "obl=in", null]	3	4	pVCC
+["nsubj", "dienst", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "gerät"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=für", "dm"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=unter", "name"]	3	4	pVCC
+["nsubj", null, "obj", "ortsgespräch"]	3	3	pVCC
+["nsubj", null, "obj", "pc"]	3	3	pVCC
+["nsubj", null, "obj", "variante"]	3	3	pVCC
+["nsubj", null, "obj", "version", "obl=in", null, "obl=zu", "download"]	3	6	pVCC
+["nsubj", null, "obj", "zugang", "obl=mit", null]	3	4	pVCC
+["nsubj", "site", "obj", null]	3	3	pVCC
+["iobj", null, "nsubj", null, "obj", "inhalt"]	2	4	pVCC
+["nsubj", "hersteller", "obj", "version", "obl=zu", "download"]	2	6	pVCC
+["nsubj", "mobilcom", "obj", "ferngespräch"]	2	4	pVCC
+["nsubj", null, "obj", "dienst", "obl=über", "internet"]	2	5	pVCC
+["nsubj", null, "obj", "flatrate", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", "leistung", "obl=zu", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=ab", "oktober", "obl=in", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=für", "mark", "obl=in", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=in", "usa"]	2	4	pVCC
+["nsubj", null, "obj", "version", "obl=auf", "website", "obl=zu", "download"]	2	7	pVCC
+["nsubj", null, "obj", "zugang", "obl=in", "kooperation"]	2	5	pVCC
+["nsubj", "telekom", "obj", null, "obl=ab", null]	2	4	pVCC

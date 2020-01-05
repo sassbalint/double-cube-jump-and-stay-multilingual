@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	68	2	pVCC
+["nsubj", null, "obj", "support"]	5	3	pVCC
+["nsubj", "adobe", "obj", null]	3	3	pVCC
+["nsubj", "aol", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "anteil"]	3	3	pVCC
+["nsubj", null, "obj", "führung"]	3	3	pVCC
+["nsubj", null, "obj", "unknown"]	3	3	pVCC

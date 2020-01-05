@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	26	2	pVCC
+["nsubj", null, "obj", "firma"]	4	3	pVCC
+["nsubj", "t-online", "obj", null]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl", null, "obl=als", null]	2	4	pVCC
+["nsubj", null, "obl", null, "obl=von", null]	2	3	pVCC

@@ -1,0 +1,5 @@
+["nsubj", null, "xcomp", null]	43	2	pVCC
+["nsubj", null, "obl", "ci"]	4	3	pVCC
+["nsubj", null, "xcomp", "am"]	4	3	pVCC
+["nsubj", null, "xcomp", "siiw"]	3	3	pVCC
+["nsubj", null, "obl", "ci", "xcomp", null]	2	4	pVCC

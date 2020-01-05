@@ -1,0 +1,8 @@
+["nsubj", null]	45	1	pVCC
+["nsubj", null, "obj", null]	12	2	pVCC
+["nsubj", "flertall"]	8	2	pVCC
+["nsubj", "mindretall"]	8	2	pVCC
+["nsubj", "utvalg"]	6	2	pVCC
+["iobj", null, "nsubj", null, "xcomp=å", null]	3	3	pVCC
+["nsubj", "mindretall", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "folkekirke", "xcomp", "modell"]	2	5	pVCC

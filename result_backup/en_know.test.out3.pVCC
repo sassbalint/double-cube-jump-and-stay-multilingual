@@ -1,0 +1,4 @@
+["nsubj", null]	427	1	pVCC
+["nsubj", null, "obj", "name", "obl=by", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=for", "year"]	2	4	pVCC
+["nsubj", "people", "obj", null]	2	3	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	32	2	pVCC
+["nsubj", null, "obj", "lücke"]	7	3	pVCC
+["nsubj", null, "obj", "vertrag"]	5	3	pVCC
+["nsubj", "unknown", "obj", null]	3	3	pVCC

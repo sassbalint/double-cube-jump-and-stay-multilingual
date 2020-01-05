@@ -1,0 +1,20 @@
+["nsubj", null, "xcomp", null]	265	2	pVCC
+["nsubj", null, "xcomp", "missen"]	22	3	pVCC
+["nsubj", null, "xcomp", "terugbellen"]	13	3	pVCC
+["nsubj", null, "xcomp", "zeggen"]	13	3	pVCC
+["nsubj", null, "xcomp", "weten"]	12	3	pVCC
+["nsubj", null, "xcomp", "hebben"]	8	3	pVCC
+["nsubj", null, "xcomp", "zien"]	8	3	pVCC
+["nsubj", null, "xcomp", "gaan"]	7	3	pVCC
+["nsubj", null, "xcomp", "blijven"]	6	3	pVCC
+["nsubj", null, "xcomp", "geven"]	6	3	pVCC
+["nsubj", null, "xcomp", "maken"]	5	3	pVCC
+["nsubj", "heer"]	4	2	pVCC
+["nsubj", null, "xcomp", "beginnen"]	4	3	pVCC
+["nsubj", null, "xcomp", "betalen"]	4	3	pVCC
+["nsubj", null, "xcomp", "laten"]	4	3	pVCC
+["nsubj", "gemeentebestuur", "xcomp", null]	3	3	pVCC
+["nsubj", null, "xcomp", "doen"]	3	3	pVCC
+["nsubj", null, "xcomp", "kopen"]	3	3	pVCC
+["nsubj", null, "xcomp", "lezen"]	3	3	pVCC
+["nsubj", null, "xcomp", "praten"]	3	3	pVCC

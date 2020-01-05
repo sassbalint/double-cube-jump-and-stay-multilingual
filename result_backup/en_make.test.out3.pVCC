@@ -1,0 +1,18 @@
+["nsubj", null, "obj", null]	261	2	pVCC
+["nsubj", null, "obj", null, "xcomp", null]	88	3	pVCC
+["nsubj", null, "xcomp", "sure"]	40	3	pVCC
+["nsubj", null, "obj", "change"]	14	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "feel"]	9	4	pVCC
+["nsubj", null, "obj", "decision"]	5	3	pVCC
+["nsubj", null, "obj", "noise"]	5	3	pVCC
+["nsubj", null, "xcomp", "aware"]	5	3	pVCC
+["nsubj", null, "obj", "adjustment", "obl=on", "basis"]	4	5	pVCC
+["nsubj", null, "obj", "money"]	4	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "look"]	4	4	pVCC
+["nsubj", null, "obj", "$"]	3	3	pVCC
+["nsubj", null, "obj", "call"]	3	3	pVCC
+["nsubj", null, "obj", "day", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obj", "progress"]	3	3	pVCC
+["nsubj", null, "obj", "trip"]	3	3	pVCC
+["nsubj", null, "xcomp", "possible"]	3	3	pVCC
+["nsubj", "leader", "obj", "statement"]	2	4	pVCC

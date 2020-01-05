@@ -1,0 +1,4 @@
+["nsubj", null, "xcomp=å", null]	82	2	pVCC
+["nsubj", null, "xcomp=å", "brenne"]	7	3	pVCC
+["nsubj", null, "xcomp=å", "bli"]	4	3	pVCC
+["nsubj", null, "obl=på", "tidspunkt", "xcomp=å", null]	3	4	pVCC

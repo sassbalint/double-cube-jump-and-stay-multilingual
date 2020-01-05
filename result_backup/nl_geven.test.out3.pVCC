@@ -1,0 +1,8 @@
+["nsubj", null, "obj", null]	150	2	pVCC
+["iobj", null, "nsubj", null, "obj", null]	47	3	pVCC
+["nsubj", null, "obj", "woord"]	10	3	pVCC
+["iobj", null, "nsubj", null, "obj", "kans"]	8	4	pVCC
+["nsubj", null, "obj", "naam"]	7	3	pVCC
+["iobj", "kind", "nsubj", null, "obj", null]	4	4	pVCC
+["iobj", null, "nsubj", null, "obj", "boek"]	3	4	pVCC
+["nsubj", null, "obj", "leiding"]	3	3	pVCC

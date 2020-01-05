@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	52	2	pVCC
+["nsubj", null, "obj", "liv"]	6	3	pVCC
+["nsubj", null, "obj", "evne"]	4	3	pVCC
+["nsubj", null, "obj", "liv", "obl=i", "forlis"]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=for", "år"]	2	4	pVCC

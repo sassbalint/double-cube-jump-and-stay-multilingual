@@ -1,0 +1,10 @@
+["nsubj", null]	101	1	pVCC
+["nsubj", null, "obj", null]	49	2	pVCC
+["Acc", "se", "Nom", null, "nsubj", null, "xcomp", null]	23	5	pVCC
+["iobj", null, "nsubj", null, "obj", null]	17	3	pVCC
+["nsubj", null, "obj", "peníze"]	6	3	pVCC
+["iobj", null, "nsubj", null, "obj", "přednost"]	3	4	pVCC
+["Dat", "se", "nsubj", null, "obj", null]	2	4	pVCC
+["iobj", "se", "nsubj", null, "xcomp", null]	2	4	pVCC
+["nsubj", "který", "obj", null]	2	3	pVCC
+["nsubj", null, "obj", "branka", "obl=v", null]	2	4	pVCC

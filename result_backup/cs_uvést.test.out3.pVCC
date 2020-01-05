@@ -1,0 +1,10 @@
+["nsubj", null]	78	1	pVCC
+["nsubj", null, "obj", null]	28	2	pVCC
+["nsubj", null, "obj", "ten"]	12	3	pVCC
+["nsubj", null, "obj", null, "obl=v", null]	7	3	pVCC
+["nsubj", "ředitel"]	5	2	pVCC
+["nsubj", "ministr"]	4	2	pVCC
+["nsubj", "mluvčí"]	3	2	pVCC
+["nsubj", null, "obj", "údaj"]	3	3	pVCC
+["nsubj", null, "obj", "ten", "obl=v", "rozhovor"]	2	5	pVCC
+["nsubj", null, "obl=pro", "ln"]	2	3	pVCC

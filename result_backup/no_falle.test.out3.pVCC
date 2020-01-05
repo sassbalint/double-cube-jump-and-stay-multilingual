@@ -1,0 +1,5 @@
+["nsubj", null]	55	1	pVCC
+["nsubj", "pris"]	5	2	pVCC
+["nsubj", "ord"]	3	2	pVCC
+["nsubj", null, "obl=fra", null, "obl=med", null]	2	3	pVCC
+["nsubj", null, "obl", "prosent"]	2	3	pVCC

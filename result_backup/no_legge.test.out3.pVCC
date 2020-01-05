@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null]	72	2	pVCC
+["nsubj", null, "obl=til", "grunn"]	14	3	pVCC
+["nsubj", null, "obj", "seg"]	10	3	pVCC
+["nsubj", null, "obj", "vekt"]	9	3	pVCC
+["nsubj", "regjeringen"]	6	2	pVCC
+["nsubj", null, "obj", "skjul"]	4	3	pVCC
+["nsubj", null, "obj", "forhold"]	3	3	pVCC
+["nsubj", null, "obj", "merke"]	3	3	pVCC
+["nsubj", null, "obj", "vekt", "obl=på", null]	3	4	pVCC
+["nsubj", null, "obl=på", "måte"]	3	3	pVCC
+["nsubj", "regjeringen", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=fram=for", "stortinget"]	2	4	pVCC

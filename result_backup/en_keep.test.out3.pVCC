@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	93	2	pVCC
+["nsubj", null, "obj", null, "xcomp", null]	43	3	pVCC
+["nsubj", null, "obl=in", "mind"]	6	3	pVCC
+["nsubj", null, "obj", "eye"]	4	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "open"]	3	4	pVCC
+["nsubj", null, "obj", "cage", "xcomp", null]	2	4	pVCC

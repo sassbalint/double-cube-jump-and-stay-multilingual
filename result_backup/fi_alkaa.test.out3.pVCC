@@ -1,0 +1,10 @@
+["nsubj", null]	184	1	pVCC
+["nsubj", null, "xcomp", null]	102	2	pVCC
+["nsubj", null, "obl", null]	53	2	pVCC
+["nsubj", "mies", "xcomp", null]	4	3	pVCC
+["nsubj", null, "xcomp", "epäillä"]	4	3	pVCC
+["nsubj", "matka"]	3	2	pVCC
+["nsubj", null, "obl", "osa"]	3	3	pVCC
+["nsubj", null, "xcomp", "käyttää"]	3	3	pVCC
+["nsubj", null, "xcomp", "tulla"]	3	3	pVCC
+["nsubj", "sota", "obl", null]	2	3	pVCC

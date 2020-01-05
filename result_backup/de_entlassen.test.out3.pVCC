@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	23	2	pVCC
+["nsubj", null, "obj", "mitarbeiter"]	13	3	pVCC
+["nsubj", "hersteller", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "prozent"]	3	3	pVCC

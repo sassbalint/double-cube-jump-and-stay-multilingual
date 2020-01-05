@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	54	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	30	3	pVCC
+["Tra", null, "nsubj", null, "obj", null, "obl", null]	13	4	pVCC
+["nsubj", null, "obj", "isännöitsijä"]	3	3	pVCC
+["nsubj", null, "obj", "maa"]	3	3	pVCC
+["Tra", null, "nsubj", null, "obj", null, "obl", "vuosi"]	3	5	pVCC
+["nsubj", null, "obj", null, "obl", "peruste"]	2	4	pVCC

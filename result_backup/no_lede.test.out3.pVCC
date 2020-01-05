@@ -1,0 +1,17 @@
+["nsubj", null]	53	1	pVCC
+["nsubj", null, "obl=med", null]	20	2	pVCC
+["nsubj", null, "obj", null]	17	2	pVCC
+["nsubj", null, "obl=i", null]	16	2	pVCC
+["nsubj", null, "obl=i", null, "obl=med", null]	9	3	pVCC
+["nsubj", "obama", "obl=med", null]	8	3	pVCC
+["nsubj", null, "obl=med", "prosent"]	7	3	pVCC
+["nsubj", null, "obl=i", null, "obl=med", "prosent"]	4	4	pVCC
+["nsubj", "obama", "obl=med", "prosent"]	4	4	pVCC
+["nsubj", "obama", "obl=i", null, "obl=med", null]	3	4	pVCC
+["nsubj", "barack", "obl=i", null, "obl=med", null]	2	4	pVCC
+["nsubj", "mitt", "obl=i", null, "obl=med", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "periode"]	2	4	pVCC
+["nsubj", null, "obl=ifølge", "cnn", "obl=med", "prosent"]	2	5	pVCC
+["nsubj", "obama", "obl=med", "stemme"]	2	4	pVCC
+["nsubj", "romney", "obl=i", null, "obl=med", null]	2	4	pVCC
+["nsubj", "thorbjørn", "obj", "utenrikskomité"]	2	4	pVCC

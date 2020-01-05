@@ -1,0 +1,10 @@
+["nsubj", null]	74	1	pVCC
+["nsubj", null, "obj", null]	37	2	pVCC
+["nsubj", "sprecher"]	10	2	pVCC
+["nsubj", null, "obl=gegenüber", "heise"]	9	3	pVCC
+["nsubj", null, "obl=gegenüber", "c't"]	7	3	pVCC
+["nsubj", null, "obj", "existenz"]	4	3	pVCC
+["nsubj", null, "obl=auf", "nachfrage"]	4	3	pVCC
+["nsubj", "sprecherin", "obl=gegenüber", null]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=gegenüber", "c't"]	3	4	pVCC
+["nsubj", "sprecher", "obj", null, "obl=gegenüber", "heise"]	2	5	pVCC

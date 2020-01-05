@@ -1,0 +1,24 @@
+["nsubj", null, "obj", null]	99	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	33	3	pVCC
+["nsubj", null, "obj", null, "obl=zu", "verfügung"]	28	4	pVCC
+["Acc", "sich", "nsubj", null]	14	3	pVCC
+["nsubj", null, "obj", "antrag"]	10	3	pVCC
+["iobj", null, "nsubj", null, "obj", null, "obl=zu", "verfügung"]	9	5	pVCC
+["nsubj", null, "obj", null, "obl=in", "rechnung"]	7	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "netz"]	6	4	pVCC
+["Acc", "sich", "nsubj", "frage"]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=unter", "strafe"]	5	4	pVCC
+["nsubj", null, "obj", "unknown"]	5	3	pVCC
+["iobj", null, "nsubj", null, "obj", null, "obl=in", "rechnung"]	4	5	pVCC
+["nsubj", null, "obj", null, "obl=auf", "server"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "web"]	4	4	pVCC
+["nsubj", null, "obl=auf", "seite"]	4	3	pVCC
+["nsubj", null, "obj", "anzeige"]	3	3	pVCC
+["nsubj", null, "obl=in", "frage"]	3	3	pVCC
+["Acc", "sich", "nsubj", null, "obj", "diskussion"]	2	5	pVCC
+["iobj", null, "nsubj", "provider", "obj", null, "obl=in", "rechnung"]	2	6	pVCC
+["iobj", null, "nsubj", "telekom", "obj", null]	2	4	pVCC
+["nsubj", "firma", "obj", null]	2	3	pVCC
+["nsubj", null, "obj", null, "obl=auf", "server", "obl=zu", "verfügung"]	2	6	pVCC
+["nsubj", null, "obj", "version", "obl=zu", null]	2	4	pVCC
+["nsubj", null, "obl=mit", null, "obl=unter", "beweis"]	2	4	pVCC

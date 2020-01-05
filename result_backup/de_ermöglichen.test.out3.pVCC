@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	94	2	pVCC
+["Nom", null, "nsubj", null, "xcomp=zu", null]	17	3	pVCC
+["nsubj", null, "obj", "surfen"]	4	3	pVCC
+["nsubj", null, "obj", "überwachung"]	3	3	pVCC
+["nsubj", null, "obj", "zugriff"]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl=ab", "sofort"]	2	4	pVCC
+["nsubj", "unknown", "obj", null]	2	3	pVCC

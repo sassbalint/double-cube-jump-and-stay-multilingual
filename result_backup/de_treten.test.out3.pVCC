@@ -1,0 +1,6 @@
+["nsubj", null]	27	1	pVCC
+["Dat=in", "kraft", "nsubj", null]	7	3	pVCC
+["nsubj", null, "obl=an", null]	7	2	pVCC
+["Dat=in", "kraft", "nsubj", null, "obl=an", null]	3	4	pVCC
+["Dat=in", "kraft", "nsubj", null, "obl=in", null]	3	4	pVCC
+["nsubj", "gesetz", "obl=an", "september"]	2	4	pVCC

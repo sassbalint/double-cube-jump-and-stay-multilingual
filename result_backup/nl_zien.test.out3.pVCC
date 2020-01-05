@@ -1,0 +1,8 @@
+["nsubj", null, "obj", null]	137	2	pVCC
+["nsubj", null, "obj", "kans", "xcomp=te", null]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "er"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "staan"]	3	4	pVCC
+["nsubj", null, "obj", "kans", "obl=in", null, "xcomp=te", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl", "jaar"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=op", "televisie"]	2	4	pVCC
+["nsubj", null, "obl=tot", null, "obl=van", null]	2	3	pVCC

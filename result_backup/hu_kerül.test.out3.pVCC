@@ -1,0 +1,7 @@
+["nsubj", null]	24	1	pVCC
+["Ill", null, "nsubj", null]	11	2	pVCC
+["Ine", null, "nsubj", null]	6	2	pVCC
+["Sub", null, "nsubj", null]	6	2	pVCC
+["Ill", null, "Sup", null, "nsubj", null]	3	3	pVCC
+["Nom", null, "Sub", null, "nsubj", null]	3	3	pVCC
+["Ine", null, "nsubj", null, "obl=alá", "kalapács"]	2	4	pVCC

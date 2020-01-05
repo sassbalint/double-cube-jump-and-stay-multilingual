@@ -1,0 +1,41 @@
+["nsubj", null, "xcomp", null]	405	2	pVCC
+["nsubj", "který", "xcomp", null]	20	3	pVCC
+["nsubj", "ten", "xcomp", null]	14	3	pVCC
+["nsubj", null, "xcomp", "mít"]	10	3	pVCC
+["Acc", "se", "Nom", null, "nsubj", null, "xcomp", null]	9	5	pVCC
+["nsubj", null, "xcomp", "stát"]	8	3	pVCC
+["nsubj", null, "xcomp", "dovolit"]	7	3	pVCC
+["nsubj", null, "xcomp", "dojít"]	6	3	pVCC
+["nsubj", null, "xcomp", "vést"]	6	3	pVCC
+["nsubj", "firma", "xcomp", null]	5	3	pVCC
+["nsubj", null, "xcomp", "rozhodnout"]	5	3	pVCC
+["nsubj", "člověk", "xcomp", null]	4	3	pVCC
+["nsubj", "notář", "xcomp", null]	4	3	pVCC
+["nsubj", null, "obl=v", "případ", "xcomp", null]	4	4	pVCC
+["nsubj", null, "xcomp", "existovat"]	4	3	pVCC
+["nsubj", null, "xcomp", "přijít"]	4	3	pVCC
+["nsubj", null, "xcomp", "říci"]	4	3	pVCC
+["nsubj", null, "xcomp", "začít"]	4	3	pVCC
+["nsubj", null, "xcomp", "způsobit"]	4	3	pVCC
+["nsubj", "stát", "xcomp", null]	4	3	pVCC
+["Nom", "ten", "nsubj", null]	3	3	pVCC
+["nsubj", "armáda", "xcomp", null]	3	3	pVCC
+["nsubj", "elektrárna", "xcomp", null]	3	3	pVCC
+["nsubj", null, "obl=v", null, "xcomp", "být"]	3	4	pVCC
+["nsubj", null, "xcomp", "dostat"]	3	3	pVCC
+["nsubj", null, "xcomp", "hrát"]	3	3	pVCC
+["nsubj", null, "xcomp", "nastat"]	3	3	pVCC
+["nsubj", null, "xcomp", "omezit"]	3	3	pVCC
+["nsubj", null, "xcomp", "ovlivnit"]	3	3	pVCC
+["nsubj", null, "xcomp", "pomoci"]	3	3	pVCC
+["nsubj", null, "xcomp", "reagovat"]	3	3	pVCC
+["nsubj", null, "xcomp", "vydělat"]	3	3	pVCC
+["nsubj", null, "xcomp", "získat"]	3	3	pVCC
+["nsubj", null, "xcomp", "znamenat"]	3	3	pVCC
+["nsubj", "občan", "xcomp", null]	3	3	pVCC
+["nsubj", "výrobce", "xcomp", null]	3	3	pVCC
+["Nom", "nutný", "nsubj", null, "xcomp", null]	2	4	pVCC
+["Nom", "sám", "nsubj", null, "xcomp", null]	2	4	pVCC
+["nsubj", null, "obl=bez", null, "xcomp", "existovat"]	2	4	pVCC
+["nsubj", null, "obl=v", null, "xcomp", "seznámit"]	2	4	pVCC
+["nsubj", "vlna", "xcomp", null]	2	3	pVCC

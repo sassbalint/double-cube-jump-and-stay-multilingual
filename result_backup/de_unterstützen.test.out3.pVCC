@@ -1,0 +1,11 @@
+["nsubj", null, "obj", null]	107	2	pVCC
+["Nom", null, "nsubj", null, "obl=von", null]	7	3	pVCC
+["nsubj", null, "obj", "standard"]	6	3	pVCC
+["nsubj", null, "obj", "unknown"]	5	3	pVCC
+["nsubj", "software", "obj", null]	5	3	pVCC
+["nsubj", "unknown", "obj", null]	5	3	pVCC
+["nsubj", "programm", "obj", null]	4	3	pVCC
+["nsubj", "chipsatz", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "format"]	3	3	pVCC
+["nsubj", "version", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=nach", "angabe"]	2	4	pVCC

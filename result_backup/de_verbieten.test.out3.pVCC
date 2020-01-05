@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	28	2	pVCC
+["nsubj", "gericht", "obj", null, "obl=in", null, "xcomp=zu", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=per", "gesetz"]	2	4	pVCC
+["nsubj", "richter", "obj", null]	2	3	pVCC

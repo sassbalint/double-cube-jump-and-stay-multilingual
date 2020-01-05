@@ -1,0 +1,56 @@
+["nsubj", null, "xcomp", null]	764	2	pVCC
+["nsubj", null, "xcomp", "god"]	21	3	pVCC
+["nsubj", null, "xcomp", "vanskelig"]	17	3	pVCC
+["nsubj", null, "xcomp", "kjent"]	13	3	pVCC
+["nsubj", null, "xcomp", "stå"]	12	3	pVCC
+["nsubj", null, "xcomp", "enig"]	11	3	pVCC
+["nsubj", null, "xcomp", "stor"]	11	3	pVCC
+["nsubj", null, "xcomp", "sitte"]	10	3	pVCC
+["nsubj", null, "xcomp", "klar"]	7	3	pVCC
+["nsubj", null, "xcomp", "tydelig"]	7	3	pVCC
+["nsubj", "norge", "xcomp", null]	6	3	pVCC
+["nsubj", null, "xcomp", "liten"]	6	3	pVCC
+["nsubj", null, "xcomp", "rik"]	6	3	pVCC
+["nsubj", null, "xcomp", "syk"]	6	3	pVCC
+["nsubj", null, "xcomp", "til"]	6	3	pVCC
+["nsubj", "resultat", "xcomp", null]	6	3	pVCC
+["nsubj", null, "xcomp", "år"]	5	3	pVCC
+["nsubj", null, "xcomp", "del"]	5	3	pVCC
+["nsubj", null, "xcomp", "gammel"]	5	3	pVCC
+["nsubj", null, "xcomp", "hvordan"]	5	3	pVCC
+["nsubj", null, "xcomp", "president"]	5	3	pVCC
+["nsubj", null, "xcomp", "slik"]	5	3	pVCC
+["nsubj", null, "xcomp", "vond"]	5	3	pVCC
+["nsubj", "ting", "xcomp", null]	5	3	pVCC
+["nsubj", "barn", "xcomp", null]	4	3	pVCC
+["nsubj", "den", "xcomp", "rettssubjekt"]	4	4	pVCC
+["nsubj", "justin", "xcomp", null]	4	3	pVCC
+["nsubj", "mange", "xcomp", null]	4	3	pVCC
+["nsubj", null, "obl=i", null, "xcomp", "kjent"]	4	4	pVCC
+["nsubj", null, "obl=med", "år", "xcomp", null]	4	4	pVCC
+["nsubj", null, "xcomp", "feil"]	4	3	pVCC
+["nsubj", null, "xcomp", "mye"]	4	3	pVCC
+["nsubj", null, "xcomp", "opplevelse"]	4	3	pVCC
+["nsubj", null, "xcomp", "populær"]	4	3	pVCC
+["nsubj", null, "xcomp", "problem"]	4	3	pVCC
+["nsubj", null, "xcomp", "tre"]	4	3	pVCC
+["nsubj", null, "xcomp", "voksen"]	4	3	pVCC
+["nsubj", "bil", "xcomp", null]	3	3	pVCC
+["nsubj", "kina", "xcomp", null]	3	3	pVCC
+["nsubj", null, "obl", "år", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obl=etter", "hver", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obl=i", "år", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obl=til", "slutt", "xcomp", null]	3	4	pVCC
+["nsubj", null, "xcomp", "aktuell"]	3	3	pVCC
+["nsubj", null, "xcomp", "bekymre"]	3	3	pVCC
+["nsubj", null, "xcomp", "bo"]	3	3	pVCC
+["nsubj", null, "xcomp", "kjedelig"]	3	3	pVCC
+["nsubj", null, "xcomp", "leder"]	3	3	pVCC
+["nsubj", null, "xcomp", "med"]	3	3	pVCC
+["nsubj", null, "xcomp", "menneske"]	3	3	pVCC
+["nsubj", null, "xcomp", "overraske"]	3	3	pVCC
+["nsubj", null, "xcomp", "sånn"]	3	3	pVCC
+["nsubj", null, "xcomp", "suksess"]	3	3	pVCC
+["nsubj", null, "xcomp", "symbol"]	3	3	pVCC
+["nsubj", null, "xcomp", "verdensberømt"]	3	3	pVCC
+["nsubj", null, "obl=i", "påvente", "xcomp", "ligge"]	2	5	pVCC

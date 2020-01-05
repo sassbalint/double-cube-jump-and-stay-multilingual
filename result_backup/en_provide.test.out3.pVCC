@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	69	2	pVCC
+["nsubj", null, "obj", "service"]	5	3	pVCC
+["nsubj", null, "obj", "food"]	4	3	pVCC
+["iobj", null, "nsubj", null, "obj", "$"]	2	4	pVCC

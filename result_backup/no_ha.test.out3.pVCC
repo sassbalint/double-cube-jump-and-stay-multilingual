@@ -1,0 +1,134 @@
+["nsubj", null, "obj", null]	1243	2	pVCC
+["nsubj", null, "obj", "ansvar"]	35	3	pVCC
+["nsubj", null, "obj", "problem"]	20	3	pVCC
+["nsubj", null, "obj", "rett"]	19	3	pVCC
+["nsubj", null, "obj", "tid"]	18	3	pVCC
+["nsubj", null, "obj", "betydning"]	15	3	pVCC
+["nsubj", null, "obj", "tro"]	14	3	pVCC
+["nsubj", null, "obj", "lyst"]	13	3	pVCC
+["nsubj", null, "obj", "mye"]	12	3	pVCC
+["nsubj", null, "obj", "valgmannstemme"]	12	3	pVCC
+["nsubj", "obama", "obj", null]	12	3	pVCC
+["nsubj", "stat", "obj", null]	12	3	pVCC
+["nsubj", "norge", "obj", null]	11	3	pVCC
+["nsubj", null, "obj", "sjanse"]	11	3	pVCC
+["nsubj", null, "obj", "barn"]	10	3	pVCC
+["nsubj", null, "obj", "mulighet"]	10	3	pVCC
+["nsubj", null, "obj", "råd"]	10	3	pVCC
+["nsubj", null, "obj", "plan"]	9	3	pVCC
+["nsubj", null, "obj", "forhold"]	8	3	pVCC
+["nsubj", null, "obj", null, "obl=på", "seg"]	8	4	pVCC
+["nsubj", null, "obj", "effekt"]	7	3	pVCC
+["nsubj", null, "obj", "informasjon"]	7	3	pVCC
+["nsubj", null, "obj", "krav"]	7	3	pVCC
+["nsubj", null, "obj", null, "obl=i", "norge"]	7	4	pVCC
+["nsubj", null, "obj", "plikt"]	7	3	pVCC
+["nsubj", null, "xcomp=å", "gjøre"]	7	3	pVCC
+["nsubj", null, "obj", "behov"]	6	3	pVCC
+["nsubj", null, "obj", "historie"]	6	3	pVCC
+["nsubj", null, "obj", null, "obl=i", "år"]	6	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "dag"]	6	4	pVCC
+["nsubj", null, "obj", "poeng"]	6	3	pVCC
+["nsubj", null, "obj", "respekt"]	6	3	pVCC
+["nsubj", null, "obj", "stemme"]	6	3	pVCC
+["nsubj", null, "obj", "syn"]	6	3	pVCC
+["nsubj", null, "xcomp", "vanskelig"]	6	3	pVCC
+["nsubj", "forelder", "obj", null]	5	3	pVCC
+["nsubj", "mange", "obj", null]	5	3	pVCC
+["nsubj", "menneske", "obj", null]	5	3	pVCC
+["nsubj", null, "obj", "anledning"]	5	3	pVCC
+["nsubj", null, "obj", "evne"]	5	3	pVCC
+["nsubj", null, "obj", "innflytelse"]	5	3	pVCC
+["nsubj", null, "obj", "kontakt"]	5	3	pVCC
+["nsubj", null, "obj", "kontroll"]	5	3	pVCC
+["nsubj", null, "obj", "mot"]	5	3	pVCC
+["nsubj", null, "obj", null, "obl=i", "tillegg"]	5	4	pVCC
+["nsubj", null, "obj", "rettighet"]	5	3	pVCC
+["nsubj", null, "obj", "rolle"]	5	3	pVCC
+["nsubj", null, "obj", "spørsmål", "obl=til", null]	5	4	pVCC
+["nsubj", "prosent", "obj", null]	5	3	pVCC
+["nsubj", "usa"]	5	2	pVCC
+["nsubj", "israel", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "bil"]	4	3	pVCC
+["nsubj", null, "obj", "dag"]	4	3	pVCC
+["nsubj", null, "obj", "forståelse"]	4	3	pVCC
+["nsubj", null, "obj", "frihet"]	4	3	pVCC
+["nsubj", null, "obj", "glede"]	4	3	pVCC
+["nsubj", null, "obj", "hensikt"]	4	3	pVCC
+["nsubj", null, "obj", "kompetanse"]	4	3	pVCC
+["nsubj", null, "obj", "navn"]	4	3	pVCC
+["nsubj", null, "obj", "nedgang"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=i", "tilfelle"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=med", "seg"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=på", "plass"]	4	4	pVCC
+["nsubj", null, "obj", "ord"]	4	3	pVCC
+["nsubj", null, "obj", "penge"]	4	3	pVCC
+["nsubj", null, "obj", "posisjon"]	4	3	pVCC
+["nsubj", null, "obj", "samarbeid"]	4	3	pVCC
+["nsubj", null, "obj", "sammenheng"]	4	3	pVCC
+["nsubj", null, "obj", "sex"]	4	3	pVCC
+["nsubj", null, "obj", "tradisjon"]	4	3	pVCC
+["nsubj", null, "obj", "utfordring"]	4	3	pVCC
+["nsubj", null, "obj", "vond"]	4	3	pVCC
+["nsubj", null, "xcomp", "god"]	4	3	pVCC
+["nsubj", "barn", "obj", null]	3	3	pVCC
+["nsubj", "cathrine", "obj", null]	3	3	pVCC
+["nsubj", "den", "obj", null, "obl=i", null]	3	4	pVCC
+["nsubj", "folk", "obj", null]	3	3	pVCC
+["nsubj", "jehovas", "obj", null]	3	3	pVCC
+["nsubj", "kunstner", "obj", null]	3	3	pVCC
+["nsubj", "mamma", "obj", null]	3	3	pVCC
+["nsubj", "mitt", "obj", null]	3	3	pVCC
+["nsubj", "myndighet", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "ambisjon"]	3	3	pVCC
+["nsubj", null, "obj", "arbeid"]	3	3	pVCC
+["nsubj", null, "obj", "avtale"]	3	3	pVCC
+["nsubj", null, "obj", "bruk"]	3	3	pVCC
+["nsubj", null, "obj", "data"]	3	3	pVCC
+["nsubj", null, "obj", "dialog"]	3	3	pVCC
+["nsubj", null, "obj", "erfaring"]	3	3	pVCC
+["nsubj", null, "obj", "ferie"]	3	3	pVCC
+["nsubj", null, "obj", "flaks"]	3	3	pVCC
+["nsubj", null, "obj", "flertall"]	3	3	pVCC
+["nsubj", null, "obj", "grunn"]	3	3	pVCC
+["nsubj", null, "obj", "hus"]	3	3	pVCC
+["nsubj", null, "obj", "hytte"]	3	3	pVCC
+["nsubj", null, "obj", "innbygger"]	3	3	pVCC
+["nsubj", null, "obj", "kraft"]	3	3	pVCC
+["nsubj", null, "obj", "ledelse"]	3	3	pVCC
+["nsubj", null, "obj", "litt"]	3	3	pVCC
+["nsubj", null, "obj", "makt"]	3	3	pVCC
+["nsubj", null, "obj", "mål"]	3	3	pVCC
+["nsubj", null, "obj", "mareritt"]	3	3	pVCC
+["nsubj", null, "obj", "medlem"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=for", "år"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "forhold"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "sammenheng"]	3	4	pVCC
+["nsubj", null, "obj", "oppfatning"]	3	3	pVCC
+["nsubj", null, "obj", "plass"]	3	3	pVCC
+["nsubj", null, "obj", "politikk"]	3	3	pVCC
+["nsubj", null, "obj", "profil"]	3	3	pVCC
+["nsubj", null, "obj", "ressurs"]	3	3	pVCC
+["nsubj", null, "obj", "rett", "obl=i", null]	3	4	pVCC
+["nsubj", null, "obj", "samtale"]	3	3	pVCC
+["nsubj", null, "obj", "språk"]	3	3	pVCC
+["nsubj", null, "obj", "støtte"]	3	3	pVCC
+["nsubj", null, "obj", "system"]	3	3	pVCC
+["nsubj", "obama", "obj", "valgmannstemme", "obl=mot", null]	3	5	pVCC
+["nsubj", "olav", "obj", null]	3	3	pVCC
+["nsubj", "politiker", "obj", null]	3	3	pVCC
+["nsubj", "politi", "obj", null]	3	3	pVCC
+["nsubj", "regjeringen", "obj", null]	3	3	pVCC
+["nsubj", "selskap", "obj", null]	3	3	pVCC
+["nsubj", "sverige", "obj", null]	3	3	pVCC
+["nsubj", "sysselmann", "obj", null]	3	3	pVCC
+["nsubj", "amerikaner", "obj", "ambassade"]	2	4	pVCC
+["nsubj", "fn", "obl=i", null]	2	3	pVCC
+["nsubj", "kirke", "obj", null]	2	3	pVCC
+["nsubj", "lege", "obj", "plikt"]	2	4	pVCC
+["nsubj", null, "obj", "hånd", "obl=i", null, "xcomp", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl", "lørdag", "obl=på", null]	2	5	pVCC
+["nsubj", null, "obj", null, "xcomp", "ligge"]	2	4	pVCC
+["nsubj", null, "obj", "oppslutning", "obl=i", "gjennomsnitt"]	2	5	pVCC
+["nsubj", "parti", "obj", "oppslutning", "obl=på", null]	2	5	pVCC
+["nsubj", "samfunn", "obj", null]	2	3	pVCC

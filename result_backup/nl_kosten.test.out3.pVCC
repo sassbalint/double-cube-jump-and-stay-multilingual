@@ -1,0 +1,7 @@
+["nsubj", null, "obl", null]	39	2	pVCC
+["iobj", null, "nsubj", null, "obl", null]	14	3	pVCC
+["nsubj", null, "obl", "fortuin"]	9	3	pVCC
+["nsubj", null, "obl", "hoeveel"]	7	3	pVCC
+["iobj", null, "nsubj", null, "obl", "fortuin"]	5	4	pVCC
+["iobj", null, "nsubj", null, "obl", "moeite"]	4	4	pVCC
+["nsubj", null, "obl", "flo"]	4	3	pVCC

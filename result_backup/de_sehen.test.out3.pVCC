@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null]	142	2	pVCC
+["nsubj", null, "obj", "sich"]	10	3	pVCC
+["nsubj", null, "obl=in", "telepolis"]	6	3	pVCC
+["nsubj", null, "obj", "bericht"]	4	3	pVCC
+["nsubj", null, "obj", "unknown"]	4	3	pVCC
+["nsubj", null, "obj", "potential"]	3	3	pVCC
+["nsubj", "analyst", "obj", null]	2	3	pVCC
+["nsubj", "foto", "obl=bei", null, "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", "artikel", "obl=zu", null]	2	4	pVCC
+["nsubj", null, "obj", "chance", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obl", "anfang"]	2	3	pVCC
+["nsubj", "unknown", "obj", null]	2	3	pVCC

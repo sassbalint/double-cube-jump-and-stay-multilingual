@@ -1,0 +1,14 @@
+["nsubj", null]	522	1	pVCC
+["nsubj", null, "obl=tot", "conclusie"]	8	3	pVCC
+["nsubj", null, "xcomp=te", "staan"]	6	3	pVCC
+["nsubj", null, "obl=naar", "voren"]	5	3	pVCC
+["nsubj", "einde"]	4	2	pVCC
+["nsubj", null, "obl=aan", "start"]	4	3	pVCC
+["nsubj", null, "obl=bij", "daar"]	4	3	pVCC
+["nsubj", null, "xcomp=aan", "macht"]	4	3	pVCC
+["nsubj", null, "xcomp=aan", "orde"]	4	3	pVCC
+["nsubj", null, "xcomp=te", "liggen"]	4	3	pVCC
+["case", "van", "nsubj", null]	3	3	pVCC
+["nsubj", null, "obl=in", null, "obl=tot", "conclusie"]	3	4	pVCC
+["nsubj", "bericht", "obl=uit", "londen"]	2	4	pVCC
+["nsubj", null, "obl=met", null, "xcomp=in", "contact"]	2	4	pVCC

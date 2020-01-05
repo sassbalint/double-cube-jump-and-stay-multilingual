@@ -1,0 +1,36 @@
+["nsubj", null, "obj", null]	369	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	156	3	pVCC
+["nsubj", null, "obj", "työ"]	19	3	pVCC
+["nsubj", null, "obl", "vuosi"]	16	3	pVCC
+["nsubj", null, "obj", null, "obl", "vuosi"]	9	4	pVCC
+["nsubj", null, "obj", "päätös"]	8	3	pVCC
+["nsubj", null, "obj", "muutos"]	7	3	pVCC
+["nsubj", null, "obj", "yhteis#työ"]	7	3	pVCC
+["nsubj", null, "obj", "työ", "obl", null]	6	4	pVCC
+["nsubj", null, "obl", "mieli", "xcomp", null]	6	4	pVCC
+["nsubj", null, "obj", "sopimus"]	5	3	pVCC
+["nsubj", null, "obj", "virhe"]	5	3	pVCC
+["nsubj", null, "obl", "assosiaatio"]	5	3	pVCC
+["nsubj", "komissio"]	4	2	pVCC
+["nsubj", null, "obj", "asia"]	4	3	pVCC
+["nsubj", null, "obj", "ehdotus"]	4	3	pVCC
+["nsubj", null, "obj", "maali", "obl", null]	4	4	pVCC
+["nsubj", null, "obj", "muutos", "obl", null]	4	4	pVCC
+["nsubj", null, "obj", null, "obl", "asia"]	4	4	pVCC
+["nsubj", null, "obj", "rikos", "obl", null]	4	4	pVCC
+["nsubj", null, "obj", "tutkimus", "obl", null]	4	4	pVCC
+["nsubj", null, "obj", "valinta"]	4	3	pVCC
+["Par", "hyvä", "nsubj", null]	4	3	pVCC
+["nsubj", "gallagher", "obj", null, "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "elo#kuva"]	3	3	pVCC
+["nsubj", null, "obj", "ilmoitus"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "laitos"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl", "suomi"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl", "tapaus"]	3	4	pVCC
+["nsubj", null, "obj", "päätelmä", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "visualisointi", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "yhteis#työ", "obl=kanssa", null]	3	4	pVCC
+["Ins", null, "nsubj", null, "obj", "vertailu"]	2	4	pVCC
+["Nom", null, "nsubj", null, "obj", null, "obl", null, "obl=mukaan", null]	2	5	pVCC
+["nsubj", "äiti", "obj", null]	2	3	pVCC
+["nsubj", null, "obj", null, "obl", "yhteys"]	2	4	pVCC

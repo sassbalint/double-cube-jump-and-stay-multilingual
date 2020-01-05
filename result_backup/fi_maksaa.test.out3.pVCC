@@ -1,0 +1,7 @@
+["nsubj", null]	73	1	pVCC
+["nsubj", null, "obl", null]	37	2	pVCC
+["nsubj", null, "obj", null]	36	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	20	3	pVCC
+["nsubj", "koti#talous"]	4	2	pVCC
+["nsubj", null, "obj", "hinta", "obl", null]	3	4	pVCC
+["nsubj", null, "obj", "euro", "obl", null]	2	4	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	70	2	pVCC
+["nsubj", null, "obj", "kurtul"]	4	3	pVCC
+["nsubj", null, "obj", "yardım"]	3	3	pVCC
+["nsubj", null, "obj", "iş", "obl", null]	2	4	pVCC

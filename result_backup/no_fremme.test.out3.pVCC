@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	27	2	pVCC
+["nsubj", null, "obj", "forslag"]	10	3	pVCC
+["nsubj", null, "obj", "krav"]	3	3	pVCC
+["nsubj", "regjeringen", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=til", "vår"]	2	4	pVCC

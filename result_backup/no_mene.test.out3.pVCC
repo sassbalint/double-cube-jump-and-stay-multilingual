@@ -1,0 +1,13 @@
+["nsubj", null]	260	1	pVCC
+["nsubj", "mange"]	6	2	pVCC
+["nsubj", "utvalg"]	6	2	pVCC
+["nsubj", "flertall"]	5	2	pVCC
+["nsubj", null, "xcomp", "være"]	5	3	pVCC
+["nsubj", "cnn"]	4	2	pVCC
+["nsubj", "nbc"]	4	2	pVCC
+["nsubj", "gjevjon"]	3	2	pVCC
+["nsubj", null, "obj", "alvor"]	3	3	pVCC
+["nsubj", null, "xcomp", "riktig"]	3	3	pVCC
+["nsubj", null, "xcomp", "viktig"]	3	3	pVCC
+["nsubj", "utvalg", "xcomp", null]	3	3	pVCC
+["nsubj", "erik", "xcomp", null]	2	3	pVCC

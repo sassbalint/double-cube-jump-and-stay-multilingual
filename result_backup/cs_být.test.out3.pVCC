@@ -1,0 +1,47 @@
+["nsubj", null]	572	1	pVCC
+["nsubj", null, "obl=v", null]	174	2	pVCC
+["nsubj", "ten"]	45	2	pVCC
+["nsubj", "výhra"]	22	2	pVCC
+["nsubj", "který"]	21	2	pVCC
+["nsubj", "ten", "obl=v", null]	10	3	pVCC
+["nsubj", "který", "obl=v", null]	9	3	pVCC
+["nsubj", "problém"]	9	2	pVCC
+["nsubj", "zájem"]	8	2	pVCC
+["nsubj", "hodně"]	7	2	pVCC
+["nsubj", null, "obl=k", "dispozice"]	7	3	pVCC
+["nsubj", null, "obl=v", "zájem"]	7	3	pVCC
+["nsubj", null, "obl", "rok"]	6	3	pVCC
+["nsubj", "otázka"]	6	2	pVCC
+["nsubj", "výhra", "obl=v", null]	6	3	pVCC
+["nsubj", "který", "obl=na", null]	5	3	pVCC
+["nsubj", null, "obl=na", "místo"]	5	3	pVCC
+["nsubj", null, "obl=na", "ten"]	5	3	pVCC
+["nsubj", null, "obl=v", "rozpor"]	5	3	pVCC
+["nsubj", null, "obl=v", "ten"]	5	3	pVCC
+["nsubj", "důvod"]	4	2	pVCC
+["nsubj", null, "obl=k", "dispozice", "obl=v", null]	4	4	pVCC
+["nsubj", null, "obl=v", "případ"]	4	3	pVCC
+["nsubj", null, "obl=v", "země"]	4	3	pVCC
+["nsubj", "problém", "obl=v", null]	4	3	pVCC
+["nsubj", "procento"]	4	2	pVCC
+["nsubj", "zájem", "obl=v", null]	4	3	pVCC
+["nsubj", "člověk"]	3	2	pVCC
+["nsubj", "doba"]	3	2	pVCC
+["nsubj", "dostatek"]	3	2	pVCC
+["nsubj", "hodně", "obl=v", null]	3	3	pVCC
+["nsubj", "místo"]	3	2	pVCC
+["nsubj", null, "obl", "měsíc"]	3	3	pVCC
+["nsubj", null, "obl=na", "snímek"]	3	3	pVCC
+["nsubj", null, "obl=na", "svět"]	3	3	pVCC
+["nsubj", null, "obl=na", "trh"]	3	3	pVCC
+["nsubj", null, "obl=pod", "tlak"]	3	3	pVCC
+["nsubj", null, "obl=v", "doba"]	3	3	pVCC
+["nsubj", null, "obl=v", "hra"]	3	3	pVCC
+["nsubj", null, "obl=v", "republika"]	3	3	pVCC
+["nsubj", "podnik"]	3	2	pVCC
+["nsubj", "problém", "obl=s", null]	3	3	pVCC
+["nsubj", "rozdíl", "obl=mezi", null]	3	3	pVCC
+["Nom", null, "nsubj", null, "obl", "rok", "obl=v", null]	2	5	pVCC
+["nsubj", "milión", "obl=v", "země"]	2	4	pVCC
+["nsubj", "nedostatek", "obl=v", null]	2	3	pVCC
+["nsubj", null, "obl", null, "obl=k", "dispozice"]	2	4	pVCC

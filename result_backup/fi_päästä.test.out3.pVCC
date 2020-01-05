@@ -1,0 +1,6 @@
+["nsubj", null, "obl", null]	84	2	pVCC
+["Ill", null, "nsubj", null]	35	2	pVCC
+["Ill", "tutustua", "nsubj", null]	4	3	pVCC
+["Ade", "painaa", "nsubj", null, "obl", null]	3	4	pVCC
+["nsubj", null, "obl", "yhteis#ymmärrys"]	3	3	pVCC
+["Ill", null, "nsubj", "vastustaja"]	2	3	pVCC

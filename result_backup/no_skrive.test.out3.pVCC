@@ -1,0 +1,10 @@
+["nsubj", null]	173	1	pVCC
+["nsubj", null, "obj", null]	60	2	pVCC
+["nsubj", null, "obj", "bok"]	5	3	pVCC
+["nsubj", null, "obj", "innlegg"]	5	3	pVCC
+["nsubj", "the"]	5	2	pVCC
+["nsubj", null, "obj", "brev"]	4	3	pVCC
+["nsubj", null, "obj", "tekst"]	4	3	pVCC
+["nsubj", null, "obl=i", "brev"]	4	3	pVCC
+["nsubj", "avis"]	3	2	pVCC
+["nsubj", null, "obl=under", "bilde"]	3	3	pVCC

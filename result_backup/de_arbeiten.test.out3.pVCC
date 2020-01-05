@@ -1,0 +1,16 @@
+["nsubj", null]	147	1	pVCC
+["nsubj", null, "obl=mit", null]	50	2	pVCC
+["nsubj", null, "obl=an", null]	43	2	pVCC
+["nsubj", "unknown"]	6	2	pVCC
+["nsubj", "software"]	5	2	pVCC
+["nsubj", "apple", "obl=an", null]	4	3	pVCC
+["nsubj", null, "obl=an", "verfahren"]	4	3	pVCC
+["nsubj", null, "obl=nach", "angabe"]	4	3	pVCC
+["nsubj", null, "obl=unter", "windows"]	4	3	pVCC
+["nsubj", null, "obl=an", "lösung"]	3	3	pVCC
+["nsubj", null, "obl=an", null, "obl=seit", "jahr"]	3	4	pVCC
+["nsubj", null, "obl=in", "umgebung"]	3	3	pVCC
+["nsubj", "apple", "obl=an", null, "obl=unter", null]	2	4	pVCC
+["nsubj", "google", "obl=an", null]	2	3	pVCC
+["nsubj", "mitarbeiter", "obl=an", null]	2	3	pVCC
+["nsubj", "prozessor", "obl=in", null]	2	3	pVCC

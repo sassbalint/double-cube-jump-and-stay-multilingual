@@ -1,0 +1,7 @@
+["nsubj", null]	124	1	pVCC
+["nsubj", null, "obj", null]	47	2	pVCC
+["nsubj", null, "obj", "rol"]	17	3	pVCC
+["nsubj", null, "obj", "hoofdrol"]	5	3	pVCC
+["nsubj", null, "obj", "rol", "obl=in", null]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "film"]	3	4	pVCC
+["nsubj", null, "obj", "spel"]	3	3	pVCC

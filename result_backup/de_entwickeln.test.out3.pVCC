@@ -1,0 +1,21 @@
+["nsubj", null, "obj", null]	100	2	pVCC
+["Acc", "sich", "nsubj", null]	20	3	pVCC
+["Acc", "sich", "nsubj", null, "obl=zu", null]	10	4	pVCC
+["Nom", null, "nsubj", null, "obl=in", null]	7	3	pVCC
+["nsubj", null, "obj", "technik"]	6	3	pVCC
+["Nom", null, "nsubj", null, "obl=von", null]	5	3	pVCC
+["nsubj", null, "obj", "lösung"]	5	3	pVCC
+["nsubj", "unknown", "obj", null]	5	3	pVCC
+["Nom", null, "nsubj", null, "obl=in", "zusammenarbeit"]	4	4	pVCC
+["nsubj", null, "obj", "anwendung"]	4	3	pVCC
+["nsubj", null, "obj", "prozessor"]	4	3	pVCC
+["nsubj", null, "obj", "standard"]	4	3	pVCC
+["nsubj", null, "obl=in", "monat"]	4	3	pVCC
+["nsubj", "unternehmen", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "browser", "obl=für", null]	3	4	pVCC
+["nsubj", null, "obj", "möglichkeit"]	3	3	pVCC
+["nsubj", null, "obj", "programm"]	3	3	pVCC
+["nsubj", null, "obj", "projekt"]	3	3	pVCC
+["nsubj", null, "obj", "system"]	3	3	pVCC
+["nsubj", null, "obj", "technik", "obl=als", null]	2	4	pVCC
+["nsubj", null, "obl=vor", "jahr"]	2	3	pVCC

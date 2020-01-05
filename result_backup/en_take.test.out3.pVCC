@@ -1,0 +1,16 @@
+["nsubj", null, "obj", null]	308	2	pVCC
+["nsubj", null, "obj", "time"]	26	3	pVCC
+["nsubj", null, "obj", "care", "obl=of", null]	20	4	pVCC
+["nsubj", null, "obj", "office"]	8	3	pVCC
+["nsubj", null, "obj", "minute"]	6	3	pVCC
+["nsubj", null, "obj", "place"]	5	3	pVCC
+["nsubj", "bush", "obj", "office"]	4	4	pVCC
+["nsubj", null, "obj", "hour"]	4	3	pVCC
+["nsubj", null, "obj", "look"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=to", "vet"]	4	4	pVCC
+["Nom", null, "iobj", null, "nsubj", null, "obj", null]	3	4	pVCC
+["nsubj", null, "obj", "chance"]	3	3	pVCC
+["nsubj", null, "obj", "life"]	3	3	pVCC
+["nsubj", null, "obj", "line"]	3	3	pVCC
+["iobj", null, "nsubj", null, "obj", "while"]	2	4	pVCC
+["nsubj", null, "obj", "care", "obl=for", "egm", "obl=of", null]	2	6	pVCC

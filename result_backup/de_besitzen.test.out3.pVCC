@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	75	2	pVCC
+["nsubj", "karte", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "cache"]	3	3	pVCC
+["nsubj", null, "obj", "lizenz"]	3	3	pVCC
+["nsubj", null, "obj", "stelle"]	3	3	pVCC
+["nsubj", "rechner", "obj", null]	3	3	pVCC

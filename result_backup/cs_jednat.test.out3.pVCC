@@ -1,0 +1,11 @@
+["nsubj", null]	52	1	pVCC
+["Loc=o", null, "nsubj", null]	22	2	pVCC
+["Ins=s", null, "nsubj", null]	19	2	pVCC
+["nsubj", null, "obl=v", null]	15	2	pVCC
+["Acc", "se", "Acc=o", null, "nsubj", null]	8	4	pVCC
+["Ins=s", null, "Loc=o", null, "nsubj", null]	8	3	pVCC
+["Loc=o", null, "nsubj", null, "obl=v", null]	8	3	pVCC
+["Ins=s", "ministr", "Loc=o", null, "nsubj", null]	3	4	pVCC
+["Ins=s", null, "Loc=o", null, "nsubj", null, "obl=v", null]	3	4	pVCC
+["Loc=o", "řešení", "nsubj", null]	3	3	pVCC
+["nsubj", "komise"]	3	2	pVCC

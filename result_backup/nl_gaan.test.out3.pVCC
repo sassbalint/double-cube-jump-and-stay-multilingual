@@ -1,0 +1,21 @@
+["nsubj", null]	389	1	pVCC
+["nsubj", null, "xcomp", null]	161	2	pVCC
+["nsubj", null, "obl=naar", "huis"]	22	3	pVCC
+["nsubj", null, "xcomp", "doen"]	10	3	pVCC
+["nsubj", null, "xcomp", "paren"]	8	3	pVCC
+["nsubj", null, "xcomp", "goed"]	7	3	pVCC
+["nsubj", null, "xcomp", "verliezen"]	7	3	pVCC
+["nsubj", null, "obl=naar", "school"]	6	3	pVCC
+["nsubj", null, "xcomp", "akkoord"]	6	3	pVCC
+["nsubj", null, "xcomp", "spelen"]	6	3	pVCC
+["nsubj", null, "xcomp", "kosten"]	4	3	pVCC
+["iobj", null, "nsubj", null, "xcomp", "goed"]	3	4	pVCC
+["nsubj", "beurs"]	3	2	pVCC
+["nsubj", "kind", "obl=naar", null]	3	3	pVCC
+["nsubj", null, "obl=door", null, "xcomp", "verliezen"]	3	4	pVCC
+["nsubj", null, "obl=naar", "beneden"]	3	3	pVCC
+["nsubj", null, "obl=naar", "buitenland"]	3	3	pVCC
+["nsubj", null, "xcomp", "maken"]	3	3	pVCC
+["nsubj", null, "xcomp", "zitten"]	3	3	pVCC
+["nsubj", "telefoon"]	3	2	pVCC
+["nsubj", null, "obl", "hier", "xcomp", null]	2	4	pVCC

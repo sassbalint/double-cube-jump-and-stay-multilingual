@@ -1,0 +1,3 @@
+["nsubj", null, "obj", null]	31	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	11	3	pVCC
+["nsubj", "harjoittaja", "obj", "ennakko#maksu", "obl", null]	2	5	pVCC

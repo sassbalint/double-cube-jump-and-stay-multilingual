@@ -1,0 +1,4 @@
+["nsubj", null]	26	1	pVCC
+["nsubj", null, "obl=in", null]	10	2	pVCC
+["nsubj", "moeder"]	4	2	pVCC
+["nsubj", null, "obl=op", "leeftijd"]	3	3	pVCC

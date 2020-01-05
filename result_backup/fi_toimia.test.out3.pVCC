@@ -1,0 +1,8 @@
+["nsubj", null, "obl", null]	123	2	pVCC
+["nsubj", null, "obl", "puheen#johtaja"]	12	3	pVCC
+["nsubj", null, "obl", "vuosi"]	11	3	pVCC
+["nsubj", null, "obl", "tapa"]	6	3	pVCC
+["nsubj", null, "obl", "ala"]	4	3	pVCC
+["nsubj", null, "obl", "taso"]	4	3	pVCC
+["nsubj", null, "obl", "yli#opisto"]	3	3	pVCC
+["nsubj", "vuorio", "obl", null]	3	3	pVCC

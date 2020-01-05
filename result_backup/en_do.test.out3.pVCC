@@ -1,0 +1,13 @@
+["nsubj", null, "obj", null]	326	2	pVCC
+["nsubj", null, "obj", "job"]	23	3	pVCC
+["nsubj", null, "obj", "work"]	22	3	pVCC
+["nsubj", null, "obj", "thing"]	16	3	pVCC
+["nsubj", null, "obj", "business"]	5	3	pVCC
+["nsubj", "bush", "obj", null]	4	3	pVCC
+["iobj", null, "nsubj", null, "obj", "favor"]	3	4	pVCC
+["nsubj", null, "obj", "best"]	3	3	pVCC
+["nsubj", null, "obj", "damage"]	3	3	pVCC
+["nsubj", null, "obj", "deal"]	3	3	pVCC
+["nsubj", null, "obj", "lot"]	3	3	pVCC
+["nsubj", "guy", "obj", null]	2	3	pVCC
+["nsubj", null, "obl", "with"]	2	3	pVCC

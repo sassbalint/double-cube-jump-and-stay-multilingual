@@ -1,0 +1,17 @@
+["nsubj", null]	206	1	pVCC
+["nsubj", null, "obl=in", null]	73	2	pVCC
+["nsubj", null, "obl=in", "runde"]	6	3	pVCC
+["nsubj", null, "obl=in", "berufung"]	4	3	pVCC
+["nsubj", null, "obl=in", "offensive"]	4	3	pVCC
+["nsubj", null, "obl=in", "revision"]	4	3	pVCC
+["nsubj", null, "obl=an", "börse"]	3	3	pVCC
+["nsubj", null, "obl=an", "start", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obl=in", "betrieb"]	3	3	pVCC
+["nsubj", null, "obl=in", "internet"]	3	3	pVCC
+["nsubj", null, "obl=in", "netz"]	3	3	pVCC
+["nsubj", null, "obl=um", "prinzip"]	3	3	pVCC
+["nsubj", "preis", "obl=an", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=aus", "weg"]	2	4	pVCC
+["nsubj", null, "obl=in", "linie", "obl=um", null]	2	4	pVCC
+["nsubj", null, "obl=in", null, "obl=über", "bühne"]	2	4	pVCC
+["nsubj", "unknown", "obl=in", null, "obl=mit", null]	2	4	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null]	47	1	pVCC
+["nsubj", null, "obj", null]	27	2	pVCC
+["nsubj", "datenschützer"]	4	2	pVCC
+["nsubj", null, "obj", "entwurf"]	4	3	pVCC

@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	21	2	pVCC
+["nsubj", null, "obj", "umsatz"]	6	3	pVCC
+["Acc", "sich", "nsubj", null, "obl=auf", null, "obl=von", null]	3	5	pVCC
+["nsubj", null, "obj", null, "obl=um", "prozent"]	3	4	pVCC

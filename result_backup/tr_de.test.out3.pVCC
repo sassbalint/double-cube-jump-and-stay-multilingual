@@ -1,0 +1,28 @@
+["nsubj", null, "obj", null]	237	2	pVCC
+["nsubj", null, "obj", "ol"]	10	3	pVCC
+["nsubj", "kerem"]	7	2	pVCC
+["nsubj", null, "obj", "gel"]	7	3	pVCC
+["nsubj", null, "obj", "git"]	6	3	pVCC
+["nsubj", null, "obj", "bak"]	5	3	pVCC
+["nsubj", null, "obj", "bil"]	5	3	pVCC
+["nsubj", null, "obj", "evet"]	5	3	pVCC
+["nsubj", null, "obj", "gir"]	5	3	pVCC
+["nsubj", null, "obj", "iste"]	5	3	pVCC
+["nsubj", "adam", "obj", null]	4	3	pVCC
+["nsubj", "kadın", "obj", null]	4	3	pVCC
+["nsubj", "kerem", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "iyi"]	4	3	pVCC
+["nsubj", null, "obj", "var"]	4	3	pVCC
+["nsubj", "baba"]	3	2	pVCC
+["nsubj", "jul", "obj", null]	3	3	pVCC
+["nsubj", "maryline", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "çalış"]	3	3	pVCC
+["nsubj", null, "obj", "düşün"]	3	3	pVCC
+["nsubj", null, "obj", "gör"]	3	3	pVCC
+["nsubj", null, "obj", "oku"]	3	3	pVCC
+["nsubj", null, "obj", "yap"]	3	3	pVCC
+["nsubj", null, "obj", "yet"]	3	3	pVCC
+["Nom", "abla", "nsubj", null, "obj", null]	2	4	pVCC
+["nsubj", "katana", "obj", null]	2	3	pVCC
+["nsubj", "kemal", "obj", null]	2	3	pVCC
+["nsubj", "sebze", "obj", "yeşil"]	2	4	pVCC

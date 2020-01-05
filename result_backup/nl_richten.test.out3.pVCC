@@ -1,0 +1,5 @@
+["nsubj", null]	26	1	pVCC
+["nsubj", null, "obl=op", null]	13	2	pVCC
+["nsubj", null, "obj", null]	8	2	pVCC
+["Acc", "zich", "nsubj", null, "obl=op", null]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	3	3	pVCC

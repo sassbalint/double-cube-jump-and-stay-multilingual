@@ -1,0 +1,33 @@
+["nsubj", null]	287	1	pVCC
+["nsubj", null, "obl=zu", null]	102	2	pVCC
+["nsubj", null, "obl=in", null]	80	2	pVCC
+["nsubj", null, "obl=auf", "markt"]	34	3	pVCC
+["nsubj", null, "obl=zu", "ergebnis"]	20	3	pVCC
+["nsubj", null, "obl=auf", "markt", "obl=in", null]	18	4	pVCC
+["nsubj", null, "obl=zu", "einsatz"]	15	3	pVCC
+["nsubj", null, "obl", null, "obl=auf", "markt"]	9	4	pVCC
+["nsubj", null, "obl=in", "genuß"]	7	3	pVCC
+["nsubj", null, "obl", "ende"]	6	3	pVCC
+["nsubj", "unknown"]	6	2	pVCC
+["nsubj", null, "obl=als", null, "obl=zu", "einsatz"]	5	4	pVCC
+["nsubj", null, "obl=in", "jahr"]	5	3	pVCC
+["nsubj", "firma"]	4	2	pVCC
+["nsubj", null, "obl=für", "dollar", "obl=in", null]	4	4	pVCC
+["nsubj", null, "obl=in", "frage"]	4	3	pVCC
+["nsubj", null, "obl=in", "herbst"]	4	3	pVCC
+["nsubj", null, "obl", "anfang", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obl=an", "licht"]	3	3	pVCC
+["nsubj", null, "obl", "ende", "obl=auf", "markt"]	3	5	pVCC
+["nsubj", null, "obl=in", "woche"]	3	3	pVCC
+["nsubj", null, "obl=zu", "ausfall"]	3	3	pVCC
+["nsubj", null, "xcomp=zu", "stehen"]	3	3	pVCC
+["Nom", null, "nsubj", null, "obj", null, "obl=auf", "spur"]	2	5	pVCC
+["nsubj", "bericht", "obl=zu", null]	2	3	pVCC
+["nsubj", "gerät", "obl=für", null, "obl=in", null]	2	4	pVCC
+["nsubj", null, "obl=bei", null, "obl=zu", "problem"]	2	4	pVCC
+["nsubj", null, "obl=für", "mark", "obl=in", "handel"]	2	5	pVCC
+["nsubj", null, "obl", "mitte", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obl=nach", "angabe", "obl=zu", null]	2	4	pVCC
+["nsubj", null, "obl", null, "obl=auf", "markt", "obl=in", "deutschland"]	2	6	pVCC
+["nsubj", null, "obl=statt", "rage", "obl=zu", "einsatz"]	2	5	pVCC
+["nsubj", "prozessor", "obl=in", null]	2	3	pVCC

@@ -1,0 +1,21 @@
+["nsubj", null, "obj", null]	185	2	pVCC
+["nsubj", null, "xcomp", null]	77	2	pVCC
+["iobj", null, "nsubj", null, "xcomp", null]	21	3	pVCC
+["nsubj", null, "xcomp", "duidelijk"]	10	3	pVCC
+["Acc", "zich", "nsubj", null]	7	3	pVCC
+["nsubj", null, "obj", "indruk"]	7	3	pVCC
+["nsubj", null, "xcomp", "mogelijk"]	7	3	pVCC
+["nsubj", null, "obj", "gebruik", "obl=van", null]	6	4	pVCC
+["Acc", "zich", "nsubj", null, "xcomp", null]	4	4	pVCC
+["iobj", null, "nsubj", null, "xcomp", "mogelijk"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=van", "daar"]	4	4	pVCC
+["case", "met", "nsubj", null]	3	3	pVCC
+["iobj", null, "nsubj", null, "obj", null, "xcomp", "gemakkelijk"]	3	5	pVCC
+["iobj", null, "nsubj", null, "xcomp", "duidelijk"]	3	4	pVCC
+["nsubj", null, "obj", "bezwaar", "obl=tegen", null]	3	4	pVCC
+["nsubj", null, "obj", "fout"]	3	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "aantrekkelijk"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "attent"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "groot"]	3	4	pVCC
+["Acc", "zich", "nsubj", null, "obj", "zorg", "obl=over", null]	2	6	pVCC
+["nsubj", null, "obj", null, "obl=in", null, "xcomp", "duidelijk"]	2	5	pVCC

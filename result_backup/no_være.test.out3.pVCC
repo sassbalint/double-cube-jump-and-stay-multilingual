@@ -1,0 +1,25 @@
+["nsubj", null]	582	1	pVCC
+["nsubj", "tvil"]	14	2	pVCC
+["nsubj", "grunn"]	12	2	pVCC
+["nsubj", null, "obl=i", "dag"]	12	3	pVCC
+["nsubj", "spørsmål"]	10	2	pVCC
+["nsubj", "mange"]	9	2	pVCC
+["nsubj", "mye"]	7	2	pVCC
+["nsubj", "ting"]	7	2	pVCC
+["nsubj", "bilde"]	6	2	pVCC
+["nsubj", "fare"]	5	2	pVCC
+["nsubj", null, "obl", "gang"]	4	3	pVCC
+["nsubj", null, "obl=i", "norge"]	4	3	pVCC
+["nsubj", "folk"]	3	2	pVCC
+["nsubj", "forskjell", "obl=i", null]	3	3	pVCC
+["nsubj", null, "obl=av", "oppfatning"]	3	3	pVCC
+["nsubj", null, "obl=i", "københavn"]	3	3	pVCC
+["nsubj", null, "obl=i", "stortinget"]	3	3	pVCC
+["nsubj", null, "obl=i", "tillegg"]	3	3	pVCC
+["nsubj", null, "obl=på", "plass"]	3	3	pVCC
+["nsubj", null, "obl=ved", "side"]	3	3	pVCC
+["nsubj", "rom"]	3	2	pVCC
+["nsubj", "vei"]	3	2	pVCC
+["nsubj", null, "obl=for", null, "obl=til", "salg"]	2	4	pVCC
+["nsubj", null, "obl=for", "salg", "obl=i", "lindesnes"]	2	5	pVCC
+["nsubj", "plass", "obl=i", null]	2	3	pVCC

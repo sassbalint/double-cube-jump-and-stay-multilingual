@@ -1,0 +1,3 @@
+["nsubj", null, "obl=med", null]	20	2	pVCC
+["nsubj", null, "obl=med", "parti"]	3	3	pVCC
+["nsubj", "språkrådet", "obl=om", null]	2	3	pVCC

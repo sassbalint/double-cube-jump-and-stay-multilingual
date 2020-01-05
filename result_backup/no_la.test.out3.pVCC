@@ -1,0 +1,6 @@
+["iobj", null, "nsubj", null, "xcomp", null]	60	3	pVCC
+["iobj", "seg", "nsubj", null, "xcomp", null]	11	4	pVCC
+["iobj", null, "nsubj", null, "xcomp", "gå"]	6	4	pVCC
+["iobj", null, "nsubj", null, "xcomp", "ligge"]	4	4	pVCC
+["iobj", null, "nsubj", null, "xcomp", "bli"]	3	4	pVCC
+["nsubj", null, "xcomp", "vente"]	3	3	pVCC

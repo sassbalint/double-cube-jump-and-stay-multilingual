@@ -1,0 +1,7 @@
+["nsubj", null]	45	1	pVCC
+["nsubj", null, "obl=in", null]	26	2	pVCC
+["nsubj", null, "obl=bis", null, "obl=in", null, "obl=von", null]	6	4	pVCC
+["nsubj", null, "obl=in", "san"]	4	3	pVCC
+["nsubj", "veranstaltung"]	4	2	pVCC
+["nsubj", "verhandlung"]	3	2	pVCC
+["nsubj", "treffen", "obl=in", null]	2	3	pVCC

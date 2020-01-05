@@ -1,0 +1,4 @@
+["nsubj", null]	29	1	pVCC
+["nsubj", null, "xcomp", null]	11	2	pVCC
+["Gen", null, "Ine", null, "nsubj", null]	2	3	pVCC
+["Sub", null, "nsubj", "szükség"]	2	3	pVCC

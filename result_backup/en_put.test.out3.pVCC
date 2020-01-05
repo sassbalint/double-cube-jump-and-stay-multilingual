@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	103	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	40	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "cage"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "place"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "water"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=on", "row"]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "room"]	2	4	pVCC

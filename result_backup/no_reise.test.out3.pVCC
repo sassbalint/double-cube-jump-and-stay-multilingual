@@ -1,0 +1,10 @@
+["nsubj", null]	59	1	pVCC
+["nsubj", null, "obl=til", null]	17	2	pVCC
+["nsubj", null, "obj", null]	16	2	pVCC
+["nsubj", null, "obl=i", null, "obl=til", null]	5	3	pVCC
+["nsubj", null, "obj", "seg"]	4	3	pVCC
+["nsubj", null, "obj", "spørsmål"]	4	3	pVCC
+["nsubj", null, "obj", "spørsmål", "obl=i", null]	2	4	pVCC
+["nsubj", null, "obl=for", null, "obl=rundt=i", null]	2	3	pVCC
+["nsubj", null, "obl=i", null, "obl=med", null, "obl=til", null]	2	4	pVCC
+["nsubj", null, "obl=rundt", "land"]	2	3	pVCC

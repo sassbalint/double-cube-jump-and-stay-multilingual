@@ -1,0 +1,8 @@
+["nsubj", null]	218	1	pVCC
+["nsubj", null, "obl=i", null]	60	2	pVCC
+["nsubj", "liv"]	5	2	pVCC
+["nsubj", "folk"]	4	2	pVCC
+["nsubj", null, "obl=på", "scene"]	4	3	pVCC
+["nsubj", "land"]	3	2	pVCC
+["nsubj", null, "obl=i", "kø"]	3	3	pVCC
+["nsubj", "shabana", "xcomp", "brud"]	2	4	pVCC

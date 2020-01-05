@@ -1,0 +1,8 @@
+["nsubj", null]	173	1	pVCC
+["nsubj", null, "obl=i", null]	62	2	pVCC
+["nsubj", null, "obl=i", "dag"]	5	3	pVCC
+["nsubj", null, "obl=på", "sofa"]	5	3	pVCC
+["nsubj", null, "obl=på", "bord"]	4	3	pVCC
+["nsubj", "øy"]	4	2	pVCC
+["nsubj", null, "obl=i", "seng"]	3	3	pVCC
+["nsubj", "mamma", "obl=på", "sofa"]	2	4	pVCC

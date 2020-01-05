@@ -1,0 +1,7 @@
+["nsubj", null]	476	1	pVCC
+["nsubj", null, "obl", null]	217	2	pVCC
+["nsubj", null, "obl", "mieli"]	30	3	pVCC
+["Ine", "käyttää", "nsubj", null]	7	3	pVCC
+["Ine", "olla", "nsubj", null]	7	3	pVCC
+["nsubj", "päivä"]	5	2	pVCC
+["nsubj", null, "obl", "suhde"]	3	3	pVCC

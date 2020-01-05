@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null]	27	2	pVCC
+["nsubj", null, "obj", "version"]	9	3	pVCC
+["nsubj", "world", "obj", null]	6	3	pVCC
+["nsubj", "gruppe", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=als", "unknown"]	3	4	pVCC
+["nsubj", null, "obl=zu", "download"]	3	3	pVCC
+["nsubj", "microsoft", "obj", "version", "obl=nach", null]	2	5	pVCC
+["nsubj", null, "obj", null, "obl=als", "empfehlung"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=unter", "name"]	2	4	pVCC
+["nsubj", null, "obl=ab", "jahr"]	2	3	pVCC
+["nsubj", null, "obl=auf", "server"]	2	3	pVCC
+["nsubj", "world", "obj", null, "obl=an", "august"]	2	5	pVCC

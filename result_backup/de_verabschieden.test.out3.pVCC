@@ -1,0 +1,9 @@
+["nsubj", null, "obj", null]	28	2	pVCC
+["nsubj", null, "obj", "linie"]	4	3	pVCC
+["nsubj", null, "obj", "sich", "obl=von", null]	4	4	pVCC
+["nsubj", "parlament", "obj", null]	4	3	pVCC
+["Nom", "linie", "nsubj", null]	3	3	pVCC
+["nsubj", "ausschuß", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "gesetz"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "dezember"]	3	4	pVCC
+["nsubj", "versammlung", "obj", "entwurf"]	2	4	pVCC

@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	29	2	pVCC
+["nsubj", null, "obj", "bericht"]	3	3	pVCC
+["nsubj", null, "obj", "entwurf"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=in", null, "obl=zu", null]	3	4	pVCC
+["nsubj", null, "obj", "zahl"]	3	3	pVCC
+["iobj", null, "nsubj", null, "obj", null, "obl", "ende"]	2	5	pVCC
+["nsubj", "world", "obj", null, "obl=als", "proposed"]	2	5	pVCC

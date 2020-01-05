@@ -1,0 +1,31 @@
+["nsubj", null, "obj", null]	361	2	pVCC
+["nsubj", null, "obj", "version"]	15	3	pVCC
+["nsubj", null, "obj", "problem"]	13	3	pVCC
+["Acc", "sich", "nsubj", null]	8	3	pVCC
+["nsubj", null, "obj", "unknown"]	8	3	pVCC
+["nsubj", null, "obj", "möglichkeit"]	7	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "deutschland"]	7	4	pVCC
+["nsubj", null, "obj", "programm"]	6	3	pVCC
+["nsubj", null, "obj", "hinweis"]	5	3	pVCC
+["nsubj", null, "obj", "rechner"]	5	3	pVCC
+["nsubj", null, "xcomp=zu", "kaufen"]	5	3	pVCC
+["Acc", "sich", "nsubj", null, "obl=mit", null]	4	4	pVCC
+["nsubj", null, "obj", "bericht"]	4	3	pVCC
+["nsubj", null, "obj", "information"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "jahr"]	4	4	pVCC
+["nsubj", null, "obj", "spekulation"]	4	3	pVCC
+["nsubj", null, "obj", "version", "obl=in", null]	4	4	pVCC
+["nsubj", null, "obl=in", "auftrag"]	4	3	pVCC
+["nsubj", null, "obj", "angebot"]	3	3	pVCC
+["nsubj", null, "obj", "auskunft"]	3	3	pVCC
+["nsubj", null, "obj", "entwarnung"]	3	3	pVCC
+["nsubj", null, "obj", "erklärung"]	3	3	pVCC
+["nsubj", null, "obj", "garantie"]	3	3	pVCC
+["nsubj", null, "obj", "modell"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=in", "usa"]	3	4	pVCC
+["nsubj", null, "obj", "pc"]	3	3	pVCC
+["nsubj", null, "obj", "problem", "obl=bei", null]	3	4	pVCC
+["nsubj", null, "obj", "standard"]	3	3	pVCC
+["nsubj", null, "obj", "system"]	3	3	pVCC
+["nsubj", null, "obj", "überlegung"]	3	3	pVCC
+["iobj", "gerücht", "nsubj", null, "obj", "nahrung"]	2	5	pVCC

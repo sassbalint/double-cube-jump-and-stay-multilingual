@@ -1,0 +1,61 @@
+["nsubj", null, "obj", null]	622	2	pVCC
+["nsubj", null, "obj", "lov"]	10	3	pVCC
+["nsubj", null, "obj", "tak"]	10	3	pVCC
+["nsubj", null, "obj", "tilbud"]	8	3	pVCC
+["nsubj", null, "obj", "hjelp"]	7	3	pVCC
+["nsubj", null, "obj", null, "obl=med", "seg"]	7	4	pVCC
+["nsubj", null, "obj", "oppmerksomhet"]	7	3	pVCC
+["nsubj", null, "obj", "svar"]	7	3	pVCC
+["nsubj", null, "obj", "tilgang"]	7	3	pVCC
+["nsubj", null, "obj", "beskjed"]	6	3	pVCC
+["nsubj", null, "obj", "gjennomslag"]	6	3	pVCC
+["nsubj", null, "obj", "kritikk"]	6	3	pVCC
+["nsubj", null, "obj", null, "obl=i", "sted"]	6	4	pVCC
+["nsubj", null, "obj", "støtte"]	6	3	pVCC
+["nsubj", null, "obj", "barn"]	5	3	pVCC
+["nsubj", null, "obj", "folk"]	5	3	pVCC
+["nsubj", null, "obj", "innflytelse"]	5	3	pVCC
+["nsubj", null, "obj", "konsekvens"]	5	3	pVCC
+["nsubj", null, "obj", null, "obl", "gang"]	5	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "norge"]	5	4	pVCC
+["nsubj", null, "obj", "plass"]	5	3	pVCC
+["nsubj", null, "obj", "telefon"]	5	3	pVCC
+["nsubj", "barn", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "betydning"]	4	3	pVCC
+["nsubj", null, "obj", "debatt"]	4	3	pVCC
+["nsubj", null, "obj", "krone"]	4	3	pVCC
+["nsubj", null, "obj", "lederverv"]	4	3	pVCC
+["nsubj", null, "obj", "mulighet"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl=på", "plass"]	4	4	pVCC
+["nsubj", null, "obj", "opphold"]	4	3	pVCC
+["nsubj", null, "obj", "posisjon"]	4	3	pVCC
+["nsubj", null, "obj", "problem"]	4	3	pVCC
+["nsubj", null, "obj", "stemme"]	4	3	pVCC
+["nsubj", "cathrine", "obj", null]	3	3	pVCC
+["nsubj", "kvinne", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "ansvar"]	3	3	pVCC
+["nsubj", null, "obj", "bilde"]	3	3	pVCC
+["nsubj", null, "obj", "bukt"]	3	3	pVCC
+["nsubj", null, "obj", "flertall"]	3	3	pVCC
+["nsubj", null, "obj", "gjennomslag", "obl=i", null]	3	4	pVCC
+["nsubj", null, "obj", "informasjon"]	3	3	pVCC
+["nsubj", null, "obj", "like"]	3	3	pVCC
+["nsubj", null, "obj", "mange"]	3	3	pVCC
+["nsubj", null, "obj", "melding"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "fredag"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=på", "seg"]	3	4	pVCC
+["nsubj", null, "obj", "øye", "obl=på", "løve"]	3	5	pVCC
+["nsubj", null, "obj", "pris", "obl=for", null]	3	4	pVCC
+["nsubj", null, "obj", "rett"]	3	3	pVCC
+["nsubj", null, "obj", "støtte", "obl=av", null]	3	4	pVCC
+["nsubj", null, "obj", "tillit"]	3	3	pVCC
+["nsubj", null, "xcomp", "betale"]	3	3	pVCC
+["nsubj", "obama", "obj", null]	3	3	pVCC
+["nsubj", "ord", "obj", null]	3	3	pVCC
+["iobj", null, "nsubj", "mange", "obj", "opphold"]	2	5	pVCC
+["iobj", "seg", "nsubj", null, "obj", "ekstrajobb"]	2	5	pVCC
+["nsubj", "ansatt", "obj", "sum"]	2	4	pVCC
+["nsubj", "blokk", "obj", "mandat"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "løp"]	2	4	pVCC
+["nsubj", null, "obj", "puck", "obl=foran", null]	2	4	pVCC
+["nsubj", null, "obj", "spark", "obl=etter", null]	2	4	pVCC

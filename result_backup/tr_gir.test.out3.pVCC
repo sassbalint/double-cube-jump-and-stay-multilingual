@@ -1,0 +1,4 @@
+["nsubj", null]	83	1	pVCC
+["nsubj", null, "obl", null]	46	2	pVCC
+["nsubj", null, "obl", "içeri"]	14	3	pVCC
+["case", "için", "nsubj", null, "obl", "seçim"]	2	5	pVCC

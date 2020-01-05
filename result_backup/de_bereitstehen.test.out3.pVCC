@@ -1,0 +1,4 @@
+["nsubj", null, "obl=zu", "download"]	19	3	pVCC
+["nsubj", null, "obl=auf", "server", "obl=zu", "download"]	6	5	pVCC
+["nsubj", "version", "obl=auf", "server", "obl=zu", "download"]	3	6	pVCC
+["nsubj", null, "obl=für", "linux", "obl=zu", "download"]	2	5	pVCC

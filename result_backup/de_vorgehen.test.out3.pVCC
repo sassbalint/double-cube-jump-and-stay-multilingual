@@ -1,0 +1,4 @@
+["nsubj", null, "obl=gegen", null]	27	2	pVCC
+["nsubj", null, "obl=gegen", "kriminalität"]	4	3	pVCC
+["nsubj", null, "obl=gegen", null, "obl=in", "zukunft"]	3	4	pVCC
+["nsubj", "apple", "obl=mit", null]	2	3	pVCC

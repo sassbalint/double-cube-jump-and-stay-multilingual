@@ -1,0 +1,5 @@
+["nsubj", null]	163	1	pVCC
+["nsubj", "stad"]	5	2	pVCC
+["nsubj", null, "xcomp", "lezen"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=op", "tafel"]	2	4	pVCC
+["nsubj", "prijs", "xcomp", null]	2	3	pVCC

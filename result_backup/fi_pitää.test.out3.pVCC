@@ -1,0 +1,13 @@
+["nsubj", null, "obj", null]	157	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	84	3	pVCC
+["Ess", null, "nsubj", null, "obj", null]	40	3	pVCC
+["nsubj", null, "obj", "huoli", "obl", null]	7	4	pVCC
+["nsubj", null, "obj", "paikka"]	7	3	pVCC
+["nsubj", null, "obj", null, "obl", "taso"]	4	4	pVCC
+["nsubj", null, "obj", "puhe"]	4	3	pVCC
+["nsubj", "mies", "obl", null]	3	3	pVCC
+["nsubj", null, "obj", "näkymä"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "silmä"]	3	4	pVCC
+["nsubj", null, "obl", "mieli"]	3	3	pVCC
+["Ess", null, "nsubj", null, "obj", "hinta"]	2	4	pVCC
+["nsubj", "prosentti", "obj", null, "obl", null]	2	4	pVCC

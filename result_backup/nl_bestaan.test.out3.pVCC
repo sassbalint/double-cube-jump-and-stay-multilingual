@@ -1,0 +1,4 @@
+["nsubj", null]	113	1	pVCC
+["nsubj", null, "obl=uit", null]	36	2	pVCC
+["nsubj", "belangstelling"]	4	2	pVCC
+["nsubj", "kans"]	3	2	pVCC

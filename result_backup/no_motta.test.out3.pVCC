@@ -1,0 +1,4 @@
+["nsubj", null, "obj", null]	24	2	pVCC
+["nsubj", null, "obj", null, "obl=fra", null]	7	3	pVCC
+["nsubj", null, "obj", null, "obl=for", null, "obl=i", null]	2	4	pVCC
+["nsubj", "stortinget", "obj", "meddelelse", "obl", "mandag"]	2	6	pVCC

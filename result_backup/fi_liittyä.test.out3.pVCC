@@ -1,0 +1,5 @@
+["nsubj", null, "obl", null]	138	2	pVCC
+["nsubj", null, "obl", "asia"]	7	3	pVCC
+["nsubj", "belgia", "obl", null]	4	3	pVCC
+["nsubj", null, "obl", "ala"]	4	3	pVCC
+["nsubj", null, "obl", "vuosi"]	3	3	pVCC

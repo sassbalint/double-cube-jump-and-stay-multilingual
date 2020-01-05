@@ -1,0 +1,5 @@
+["nsubj", null, "obl", null]	33	2	pVCC
+["nsubj", null, "obl", "lang"]	10	3	pVCC
+["nsubj", null, "obl", "jaar"]	4	3	pVCC
+["nsubj", null, "obl", "ure"]	4	3	pVCC
+["nsubj", null, "obl", "minuut"]	3	3	pVCC

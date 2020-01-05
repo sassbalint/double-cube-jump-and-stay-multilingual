@@ -1,0 +1,16 @@
+["nsubj", null]	583	1	pVCC
+["nsubj", null, "obl=to", "school"]	6	3	pVCC
+["nsubj", null, "xcomp=to", "go"]	6	3	pVCC
+["nsubj", null, "obl=to", "bathroom"]	4	3	pVCC
+["nsubj", null, "obl=to", "place"]	4	3	pVCC
+["nsubj", "one"]	4	2	pVCC
+["nsubj", "thing"]	4	2	pVCC
+["nsubj", null, "obl=in", "nest"]	3	3	pVCC
+["nsubj", null, "obl=to", "ireland"]	3	3	pVCC
+["nsubj", null, "obl=to", "island"]	3	3	pVCC
+["nsubj", null, "obl=to", "website"]	3	3	pVCC
+["nsubj", null, "xcomp", "crazy"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "get"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "hire"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "take"]	3	3	pVCC
+["nsubj", "snake", "obl=for", null, "obl=off", "food"]	2	5	pVCC

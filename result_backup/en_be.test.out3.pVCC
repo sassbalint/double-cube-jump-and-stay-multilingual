@@ -1,0 +1,18 @@
+["nsubj", null]	748	1	pVCC
+["nsubj", "problem"]	21	2	pVCC
+["nsubj", "reason"]	13	2	pVCC
+["nsubj", "lot"]	12	2	pVCC
+["nsubj", "people"]	9	2	pVCC
+["nsubj", "plenty"]	7	2	pVCC
+["nsubj", "option"]	5	2	pVCC
+["nsubj", "sign"]	5	2	pVCC
+["nsubj", "answer"]	4	2	pVCC
+["nsubj", null, "obl=in", "country"]	4	3	pVCC
+["nsubj", "place"]	4	2	pVCC
+["nsubj", "charge"]	3	2	pVCC
+["nsubj", "job"]	3	2	pVCC
+["nsubj", null, "obl=in", "world"]	3	3	pVCC
+["nsubj", null, "xcomp=to", "part"]	3	3	pVCC
+["nsubj", "plan"]	3	2	pVCC
+["nsubj", "bear", "obl=in", null]	2	3	pVCC
+["nsubj", "wolf", "obl=in", null]	2	3	pVCC

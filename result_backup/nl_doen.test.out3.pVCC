@@ -1,0 +1,14 @@
+["nsubj", null, "obj", null]	198	2	pVCC
+["nsubj", null, "obj", null, "obl=aan", "er"]	6	4	pVCC
+["nsubj", null, "obj", "dingen"]	4	3	pVCC
+["nsubj", null, "obj", null, "obl", "jaar"]	4	4	pVCC
+["nsubj", null, "obj", "uitspraak"]	4	3	pVCC
+["nsubj", null, "obj", "best"]	3	3	pVCC
+["nsubj", null, "obj", "dat"]	3	3	pVCC
+["nsubj", null, "obj", "mededeling"]	3	3	pVCC
+["nsubj", null, "obj", "poging"]	3	3	pVCC
+["nsubj", null, "obj", "voorstel"]	3	3	pVCC
+["nsubj", null, "obj", "werk"]	3	3	pVCC
+["nsubj", "heer", "obj", null, "obl=bij", null]	2	4	pVCC
+["nsubj", null, "obj", "afstand", "obl=van", null]	2	4	pVCC
+["nsubj", null, "obj", "suggestie", "obl=in", null]	2	4	pVCC

@@ -1,0 +1,106 @@
+["nsubj", null, "obj", null]	561	2	pVCC
+["nsubj", null, "xcomp", null]	286	2	pVCC
+["nsubj", "který"]	86	2	pVCC
+["nsubj", "který", "obj", null]	50	3	pVCC
+["nsubj", "který", "xcomp", null]	30	3	pVCC
+["nsubj", null, "obj", "zájem"]	23	3	pVCC
+["Acc", "se", "Nom", null, "nsubj", null, "xcomp", null]	22	5	pVCC
+["nsubj", null, "obj", "právo"]	20	3	pVCC
+["nsubj", null, "obj", "možnost"]	14	3	pVCC
+["nsubj", null, "obj", "vliv"]	10	3	pVCC
+["nsubj", "ten", "obj", null]	10	3	pVCC
+["nsubj", "který", "obj", null, "obl=v", null]	9	4	pVCC
+["nsubj", null, "obj", "který"]	9	3	pVCC
+["nsubj", null, "obj", "ten"]	9	3	pVCC
+["nsubj", null, "obj", null, "obl=k", "dispozice"]	8	4	pVCC
+["nsubj", null, "obj", "šance"]	8	3	pVCC
+["nsubj", null, "xcomp", "mít"]	8	3	pVCC
+["nsubj", null, "xcomp", "stát"]	8	3	pVCC
+["nsubj", "člověk", "obj", null]	7	3	pVCC
+["nsubj", null, "obj", "pocit"]	7	3	pVCC
+["nsubj", null, "obj", "význam"]	7	3	pVCC
+["nsubj", null, "obj", "čas"]	6	3	pVCC
+["nsubj", null, "obj", "podíl"]	6	3	pVCC
+["nsubj", null, "xcomp", "být"]	6	3	pVCC
+["nsubj", null, "obj", "akcie"]	5	3	pVCC
+["nsubj", null, "obj", "hodně"]	5	3	pVCC
+["nsubj", null, "obj", "hodnota"]	5	3	pVCC
+["nsubj", null, "obj", "informace"]	5	3	pVCC
+["nsubj", null, "obj", "naděje"]	5	3	pVCC
+["nsubj", null, "obj", "nárok"]	5	3	pVCC
+["nsubj", null, "obj", null, "obl=v", "doba"]	5	4	pVCC
+["nsubj", null, "obj", "problém"]	5	3	pVCC
+["nsubj", "stát", "xcomp", null]	5	3	pVCC
+["nsubj", "vláda", "xcomp", null]	5	3	pVCC
+["Nom", "ten", "nsubj", null]	4	3	pVCC
+["nsubj", "dik"]	4	2	pVCC
+["nsubj", "který", "obl=v", null, "xcomp", null]	4	4	pVCC
+["nsubj", null, "obj", "cena"]	4	3	pVCC
+["nsubj", null, "obj", "charakter"]	4	3	pVCC
+["nsubj", null, "obj", "jistota"]	4	3	pVCC
+["nsubj", null, "obj", "který", "obl=v", null]	4	4	pVCC
+["nsubj", null, "obj", "pravda"]	4	3	pVCC
+["nsubj", null, "obl", "rok"]	4	3	pVCC
+["nsubj", null, "xcomp", "jmenovat"]	4	3	pVCC
+["nsubj", null, "xcomp", "přijít"]	4	3	pVCC
+["nsubj", null, "xcomp", "řešit"]	4	3	pVCC
+["nsubj", null, "xcomp", "říci"]	4	3	pVCC
+["nsubj", "opatření"]	4	2	pVCC
+["nsubj", "společnost"]	4	2	pVCC
+["nsubj", "ten", "xcomp", null]	4	3	pVCC
+["nsubj", "většina", "obj", null]	4	3	pVCC
+["nsubj", "zákon", "xcomp", null]	4	3	pVCC
+["nsubj", "jednotka", "obj", null]	3	3	pVCC
+["nsubj", "klient", "obj", null]	3	3	pVCC
+["nsubj", "mužstvo"]	3	2	pVCC
+["nsubj", "muž", "xcomp", null]	3	3	pVCC
+["nsubj", null, "obj", "chuť"]	3	3	pVCC
+["nsubj", null, "obj", "dítě"]	3	3	pVCC
+["nsubj", null, "obj", "dojem"]	3	3	pVCC
+["nsubj", null, "obj", "dost"]	3	3	pVCC
+["nsubj", null, "obj", "dostatek"]	3	3	pVCC
+["nsubj", null, "obj", "forma"]	3	3	pVCC
+["nsubj", null, "obj", "následek"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=na", "konto"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=u", "se"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=v", "německo"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=v", "ruka"]	3	4	pVCC
+["nsubj", null, "obj", "obava"]	3	3	pVCC
+["nsubj", null, "obj", "peníze"]	3	3	pVCC
+["nsubj", null, "obj", "představa"]	3	3	pVCC
+["nsubj", null, "obj", "řada"]	3	3	pVCC
+["nsubj", null, "obj", "radost"]	3	3	pVCC
+["nsubj", null, "obj", "slovo"]	3	3	pVCC
+["nsubj", null, "obj", "smlouva"]	3	3	pVCC
+["nsubj", null, "obl=v", "případ", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obl=v", "rok", "xcomp", null]	3	4	pVCC
+["nsubj", null, "xcomp", "hledat"]	3	3	pVCC
+["nsubj", null, "xcomp", "platit"]	3	3	pVCC
+["nsubj", null, "xcomp", "podílet"]	3	3	pVCC
+["nsubj", null, "xcomp", "pomoci"]	3	3	pVCC
+["nsubj", null, "xcomp", "zabývat"]	3	3	pVCC
+["nsubj", null, "xcomp", "zajistit"]	3	3	pVCC
+["nsubj", null, "xcomp", "zůstat"]	3	3	pVCC
+["nsubj", "omezení"]	3	2	pVCC
+["nsubj", "poslanec", "xcomp", null]	3	3	pVCC
+["nsubj", "stát", "obj", null]	3	3	pVCC
+["nsubj", "tým", "obj", null]	3	3	pVCC
+["nsubj", "vědec"]	3	2	pVCC
+["Acc", "se", "Nom", "který", "nsubj", null, "obl=v", null, "xcomp", null]	2	7	pVCC
+["Acc", "se", "Nom", "který", "nsubj", null, "xcomp", "konat"]	2	7	pVCC
+["Acc", "se", "nsubj", null, "obl=podle", "názor", "xcomp", null]	2	6	pVCC
+["iobj", "rád", "nsubj", null, "obj", null]	2	4	pVCC
+["Nom", null, "nsubj", null, "obl=v", "praha", "xcomp", null]	2	5	pVCC
+["nsubj", "akcionář", "obj", null]	2	3	pVCC
+["nsubj", "každý", "obj", null, "obl=v", null]	2	4	pVCC
+["nsubj", "komise", "xcomp", null]	2	3	pVCC
+["nsubj", null, "obj", "rok", "obl=za", "se"]	2	5	pVCC
+["nsubj", null, "obj", "svazek", "obl=k", "dispozice"]	2	5	pVCC
+["nsubj", null, "obl=na", null, "xcomp", "objevit"]	2	4	pVCC
+["nsubj", null, "obl", null, "obl=na", null, "xcomp", null]	2	4	pVCC
+["nsubj", null, "obl", null, "xcomp", "konat"]	2	4	pVCC
+["nsubj", null, "obl=v", "budoucno", "xcomp", null]	2	4	pVCC
+["nsubj", "pan", "obj", null]	2	3	pVCC
+["nsubj", "smlouva", "obj", "podepsaný"]	2	4	pVCC
+["nsubj", "vztah", "obj", null]	2	3	pVCC
+["nsubj", "žena", "xcomp", null]	2	3	pVCC

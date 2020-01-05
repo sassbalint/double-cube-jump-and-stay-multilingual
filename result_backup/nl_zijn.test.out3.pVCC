@@ -1,0 +1,13 @@
+["nsubj", null]	422	1	pVCC
+["nsubj", "sprake", "obl=van", null]	15	3	pVCC
+["nsubj", "er"]	6	2	pVCC
+["nsubj", "mogelijkheid"]	5	2	pVCC
+["nsubj", null, "obl", "dag"]	4	3	pVCC
+["nsubj", null, "obl=in", "jaar"]	4	3	pVCC
+["nsubj", null, "obl=in", "nederland"]	4	3	pVCC
+["nsubj", "reden"]	4	2	pVCC
+["nsubj", null, "obl=bij", "er"]	3	3	pVCC
+["nsubj", null, "obl=in", "wereld"]	3	3	pVCC
+["nsubj", "vrouw"]	3	2	pVCC
+["nsubj", "woord"]	3	2	pVCC
+["nsubj", "plaats", "obl=in", null, "obl=voor", null]	2	4	pVCC

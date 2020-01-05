@@ -1,0 +1,13 @@
+["nsubj", null, "obj", null]	189	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	103	3	pVCC
+["nsubj", null, "obj", null, "obl", "aika"]	6	4	pVCC
+["nsubj", null, "obj", "puheen#vuoro"]	4	3	pVCC
+["nsubj", "prosentti", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "risperidon"]	3	3	pVCC
+["nsubj", null, "obj", "tilasto#tieto", "obl", null]	3	4	pVCC
+["nsubj", null, "obl", "valmistus"]	3	3	pVCC
+["nsubj", null, "obl", "yhteisö"]	3	3	pVCC
+["nsubj", null, "obj", "nimitys", "obl", null]	2	4	pVCC
+["nsubj", null, "obj", null, "obl", "kirja#kieli"]	2	4	pVCC
+["nsubj", null, "obj", "raha", "obl", null]	2	4	pVCC
+["Par", null, "nsubj", null, "obj", null, "obl", "määritys"]	2	5	pVCC

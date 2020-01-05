@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null, "obl", null]	174	3	pVCC
+["nsubj", null, "obj", null, "obl", "huomio"]	91	4	pVCC
+["nsubj", null, "obj", null, "obl", "käyttö"]	17	4	pVCC
+["nsubj", null, "obj", "yhteys"]	9	3	pVCC
+["nsubj", null, "obj", "kanta", "obl", null]	6	4	pVCC
+["nsubj", null, "obj", "asia"]	4	3	pVCC
+["nsubj", null, "obj", "kenkä"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl", "käsi"]	3	4	pVCC
+["Ine", "tarvita", "nsubj", null, "obj", null, "obl", "huomio"]	2	6	pVCC
+["nsubj", "komissio", "obj", null]	2	3	pVCC
+["nsubj", null, "obj", "askel", "obl", null]	2	4	pVCC
+["nsubj", null, "obj", "kuva", "obl", null]	2	4	pVCC

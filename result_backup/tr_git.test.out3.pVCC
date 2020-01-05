@@ -1,0 +1,5 @@
+["nsubj", null]	122	1	pVCC
+["nsubj", null, "obl", null]	55	2	pVCC
+["nsubj", null, "obl", "diyarbakır"]	5	3	pVCC
+["case", "diye", "nsubj", null, "obl", null]	3	4	pVCC
+["nsubj", null, "obl", "i̇stanbul"]	3	3	pVCC

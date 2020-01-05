@@ -1,0 +1,18 @@
+["nsubj", null]	588	1	pVCC
+["nsubj", null, "obj", null]	190	2	pVCC
+["case", "için", "nsubj", null]	8	3	pVCC
+["case", "diye", "nsubj", null]	5	3	pVCC
+["Loc", "iç", "nsubj", null]	5	3	pVCC
+["nsubj", null, "obl", "yer"]	5	3	pVCC
+["case", "gibi", "nsubj", null]	4	3	pVCC
+["case", "için", "nsubj", null, "obj", null]	4	4	pVCC
+["nsubj", "ad", "obj", null]	3	3	pVCC
+["nsubj", "ev"]	3	2	pVCC
+["nsubj", null, "obj", "aşık"]	3	3	pVCC
+["nsubj", null, "obj", "baba"]	3	3	pVCC
+["nsubj", null, "obj", "konu"]	3	3	pVCC
+["nsubj", null, "obl", "ev"]	3	3	pVCC
+["nsubj", null, "obl", "hayat"]	3	3	pVCC
+["nsubj", "kişi", "obl", null]	2	3	pVCC
+["nsubj", null, "obj", null, "obl", "durum"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl", "iş"]	2	4	pVCC

@@ -1,0 +1,18 @@
+["nsubj", null]	182	1	pVCC
+["iobj", "ln", "nsubj", null]	17	3	pVCC
+["nsubj", null, "obj", "ten"]	17	3	pVCC
+["iobj", null, "nsubj", null, "obj", "ten"]	7	4	pVCC
+["nsubj", "předseda"]	7	2	pVCC
+["nsubj", "mluvčí"]	6	2	pVCC
+["nsubj", "ředitel"]	6	2	pVCC
+["nsubj", "ministr"]	5	2	pVCC
+["iobj", null, "nsubj", "místopředseda"]	4	3	pVCC
+["nsubj", "poslanec"]	4	2	pVCC
+["iobj", "ln", "nsubj", null, "obj", "ten"]	3	5	pVCC
+["iobj", null, "nsubj", "starosta"]	3	3	pVCC
+["nsubj", "holáň"]	3	2	pVCC
+["nsubj", null, "obl=v", "rozhovor"]	3	3	pVCC
+["nsubj", "trenér"]	3	2	pVCC
+["iobj", null, "nsubj", "jeden"]	2	3	pVCC
+["iobj", null, "nsubj", "místopředseda", "obj", "ten"]	2	5	pVCC
+["nsubj", "velitel", "obj", null]	2	3	pVCC

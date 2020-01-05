@@ -1,0 +1,14 @@
+["nsubj", null, "obj", null]	381	2	pVCC
+["nsubj", null, "obj", null, "xcomp", "do"]	10	4	pVCC
+["nsubj", null, "obj", "one"]	6	3	pVCC
+["nsubj", null, "obj", "answer"]	4	3	pVCC
+["nsubj", null, "obj", "visa"]	4	3	pVCC
+["nsubj", null, "xcomp=to", "know"]	4	3	pVCC
+["nsubj", null, "xcomp", "used"]	4	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "fix"]	3	4	pVCC
+["nsubj", null, "obj", null, "xcomp", "sign"]	3	4	pVCC
+["nsubj", null, "obj", "order", "xcomp", null]	3	4	pVCC
+["nsubj", null, "obj", "treatment"]	3	3	pVCC
+["nsubj", null, "obl=in", "touch", "obl=with", null]	3	4	pVCC
+["nsubj", null, "xcomp", "ready"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=on", "phone"]	2	4	pVCC

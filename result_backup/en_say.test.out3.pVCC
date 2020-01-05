@@ -1,0 +1,6 @@
+["nsubj", null]	455	1	pVCC
+["nsubj", "official"]	10	2	pVCC
+["nsubj", "bush"]	3	2	pVCC
+["nsubj", null, "obj", "word"]	3	3	pVCC
+["nsubj", "officer"]	3	2	pVCC
+["nsubj", "paul"]	3	2	pVCC

@@ -1,0 +1,14 @@
+["nsubj", null]	183	1	pVCC
+["nsubj", "sprecher"]	19	2	pVCC
+["nsubj", "chef"]	6	2	pVCC
+["nsubj", null, "obl=in", "gespräch"]	5	3	pVCC
+["nsubj", "schmid"]	5	2	pVCC
+["nsubj", "sprecher", "obl=in", null]	5	3	pVCC
+["nsubj", "geschäftsführer"]	4	2	pVCC
+["nsubj", null, "obl=an", "mittwoch"]	4	3	pVCC
+["nsubj", null, "obl=gegenüber", "heise"]	4	3	pVCC
+["nsubj", "sprecherin"]	4	2	pVCC
+["nsubj", "unknown"]	4	2	pVCC
+["nsubj", "vorsitzend"]	4	2	pVCC
+["nsubj", null, "obl=an", "mittwoch", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obl=bei", "konferenz"]	2	3	pVCC

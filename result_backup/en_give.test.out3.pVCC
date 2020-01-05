@@ -1,0 +1,9 @@
+["iobj", null, "nsubj", null, "obj", null]	154	3	pVCC
+["iobj", null, "nsubj", null, "obj", "call"]	17	4	pVCC
+["iobj", null, "nsubj", null, "obj", "time"]	7	4	pVCC
+["iobj", null, "nsubj", null, "obj", "chance"]	6	4	pVCC
+["iobj", "nasa", "nsubj", null, "obj", null]	3	4	pVCC
+["iobj", null, "nsubj", null, "obj", "name"]	3	4	pVCC
+["nsubj", null, "obj", "indication"]	3	3	pVCC
+["nsubj", null, "obj", "opportunity"]	3	3	pVCC
+["iobj", null, "nsubj", null, "obj", "star"]	2	4	pVCC

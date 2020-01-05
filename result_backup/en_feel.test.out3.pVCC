@@ -1,0 +1,8 @@
+["nsubj", null]	146	1	pVCC
+["nsubj", null, "xcomp", null]	61	2	pVCC
+["nsubj", null, "xcomp", "comfortable"]	5	3	pVCC
+["nsubj", null, "xcomp", "confident"]	5	3	pVCC
+["nsubj", null, "xcomp", "better"]	3	3	pVCC
+["nsubj", null, "xcomp", "safer"]	3	3	pVCC
+["nsubj", null, "xcomp", "secure"]	3	3	pVCC
+["nsubj", null, "obl=by", "end", "xcomp", null]	2	4	pVCC

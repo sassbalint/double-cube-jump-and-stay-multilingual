@@ -1,0 +1,5 @@
+["nsubj", null, "obl", null]	74	2	pVCC
+["nsubj", null, "obl", "suhde"]	26	3	pVCC
+["nsubj", null, "obl", "kysymys"]	5	3	pVCC
+["nsubj", "mies", "obl", null]	3	3	pVCC
+["nsubj", null, "obl", "pyyntö"]	3	3	pVCC

@@ -1,0 +1,5 @@
+["nsubj", null]	66	1	pVCC
+["nsubj", null, "obl", null]	34	2	pVCC
+["nsubj", null, "obl", "prosentti"]	6	3	pVCC
+["nsubj", "myynti", "obl", null]	4	3	pVCC
+["nsubj", "liike#vaihto", "obl", null]	3	3	pVCC

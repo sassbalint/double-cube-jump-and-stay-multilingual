@@ -1,0 +1,5 @@
+["nsubj", null, "obj", null]	50	2	pVCC
+["nsubj", null, "obj", null, "obl=für", null, "obl=in", null]	4	4	pVCC
+["nsubj", null, "obj", "computer"]	3	3	pVCC
+["nsubj", null, "obj", "rechner"]	3	3	pVCC
+["iobj", "sich", "nsubj", null, "obj", null]	2	4	pVCC

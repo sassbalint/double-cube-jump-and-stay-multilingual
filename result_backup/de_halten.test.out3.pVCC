@@ -1,0 +1,10 @@
+["nsubj", null, "obj", null]	83	2	pVCC
+["Acc", "sich", "nsubj", null]	21	3	pVCC
+["Acc", "sich", "nsubj", null, "xcomp", "bedecken"]	9	5	pVCC
+["nsubj", null, "obj", "prozent"]	6	3	pVCC
+["nsubj", null, "obj", "ausschau", "obl=nach", null]	4	4	pVCC
+["nsubj", null, "obj", null, "obl=in", "hand"]	4	4	pVCC
+["Acc", "sich", "nsubj", null, "obl=in", "grenze"]	3	5	pVCC
+["nsubj", null, "obj", "schritt"]	3	3	pVCC
+["nsubj", "aol", "obj", null]	2	3	pVCC
+["nsubj", null, "obj", "einzug", "obl=in", null]	2	4	pVCC

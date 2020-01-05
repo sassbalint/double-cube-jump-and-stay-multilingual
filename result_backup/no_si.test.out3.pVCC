@@ -1,0 +1,48 @@
+["nsubj", null]	1070	1	pVCC
+["nsubj", null, "obl=til", "ntb"]	13	3	pVCC
+["nsubj", "olav"]	13	2	pVCC
+["nsubj", "cathrine"]	11	2	pVCC
+["nsubj", null, "obj", "nei"]	10	3	pVCC
+["nsubj", null, "obl=til", "dagbladet.no"]	9	3	pVCC
+["nsubj", "statsminister"]	9	2	pVCC
+["nsubj", null, "obj", "ja"]	8	3	pVCC
+["nsubj", null, "obl=til", "vg"]	8	3	pVCC
+["nsubj", "erik"]	6	2	pVCC
+["nsubj", "geir"]	6	2	pVCC
+["nsubj", "solberg"]	6	2	pVCC
+["nsubj", "finansminister"]	5	2	pVCC
+["nsubj", "jonas"]	5	2	pVCC
+["nsubj", "martin"]	5	2	pVCC
+["nsubj", "morten"]	5	2	pVCC
+["nsubj", null, "obj", "ting"]	5	3	pVCC
+["nsubj", null, "obl=i", "dag"]	5	3	pVCC
+["nsubj", null, "obl=til", "klassekampen"]	5	3	pVCC
+["nsubj", "gunnar"]	4	2	pVCC
+["nsubj", "harald"]	4	2	pVCC
+["nsubj", "kristensen"]	4	2	pVCC
+["nsubj", null, "obj", "ja", "obl=til", null]	4	4	pVCC
+["nsubj", null, "obj", "mye"]	4	3	pVCC
+["nsubj", null, "obl=til", "aftenposten"]	4	3	pVCC
+["nsubj", null, "obl=til", "bt.no"]	4	3	pVCC
+["nsubj", "tommy"]	4	2	pVCC
+["nsubj", "annen"]	3	2	pVCC
+["nsubj", "arne"]	3	2	pVCC
+["nsubj", "chaabane"]	3	2	pVCC
+["nsubj", "gaarde"]	3	2	pVCC
+["nsubj", "grimstad"]	3	2	pVCC
+["nsubj", "john"]	3	2	pVCC
+["nsubj", "kjus"]	3	2	pVCC
+["nsubj", "mann"]	3	2	pVCC
+["nsubj", "maria"]	3	2	pVCC
+["nsubj", null, "obj", null, "obl", "gang"]	3	4	pVCC
+["nsubj", null, "obj", "som"]	3	3	pVCC
+["nsubj", null, "obl=på", "telefon"]	3	3	pVCC
+["nsubj", null, "obl=til", "aftenposten.no"]	3	3	pVCC
+["nsubj", null, "obl=til", "avis"]	3	3	pVCC
+["nsubj", null, "obl=til", "dagbladet"]	3	3	pVCC
+["nsubj", null, "obl=til", "fvn.no"]	3	3	pVCC
+["nsubj", null, "obl=til", "nrk"]	3	3	pVCC
+["nsubj", null, "obl=til", "smp.no"]	3	3	pVCC
+["nsubj", null, "obl=under", "pressekonferanse"]	3	3	pVCC
+["nsubj", "bernt", "obl=til", null]	2	3	pVCC
+["nsubj", "leder", "obl=i", null]	2	3	pVCC

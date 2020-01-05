@@ -1,0 +1,6 @@
+["nsubj", null, "obj", null]	35	2	pVCC
+["nsubj", null, "obj", "lizenz"]	7	3	pVCC
+["nsubj", null, "obj", "prozent"]	3	3	pVCC
+["nsubj", "apple", "obj", "lizenz"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=für", "mark"]	2	4	pVCC
+["nsubj", null, "obj", "recht", "obl=von", null]	2	4	pVCC

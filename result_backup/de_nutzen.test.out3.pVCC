@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null]	106	2	pVCC
+["nsubj", null, "obj", "angebot"]	6	3	pVCC
+["nsubj", null, "obj", "zugang"]	6	3	pVCC
+["nsubj", null, "obj", "internet"]	5	3	pVCC
+["nsubj", null, "obj", "unknown"]	5	3	pVCC
+["nsubj", "kunde", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "dienst"]	3	3	pVCC
+["nsubj", null, "obj", "netz"]	3	3	pVCC
+["nsubj", null, "obj", "site"]	3	3	pVCC
+["nsubj", null, "obj", "teil"]	3	3	pVCC
+["nsubj", "prozent", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=für", "zwecke"]	2	4	pVCC

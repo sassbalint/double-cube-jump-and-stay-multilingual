@@ -1,0 +1,12 @@
+["nsubj", null]	214	1	pVCC
+["nsubj", null, "obj", null]	89	2	pVCC
+["nsubj", null, "obj", "seg"]	24	3	pVCC
+["nsubj", null, "obj", "seg", "xcomp=å", null]	14	4	pVCC
+["nsubj", "prognose"]	9	2	pVCC
+["nsubj", "tall"]	9	2	pVCC
+["nsubj", null, "obj", "side"]	4	3	pVCC
+["nsubj", null, "xcomp=å", "bli"]	4	3	pVCC
+["nsubj", null, "obj", "handlekraft"]	3	3	pVCC
+["nsubj", null, "obj", "nedgang"]	3	3	pVCC
+["nsubj", null, "obj", "interesse", "obl=i", null]	2	4	pVCC
+["nsubj", "valgdagsmåling", "obl=i", null]	2	3	pVCC

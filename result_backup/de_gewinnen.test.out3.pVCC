@@ -1,0 +1,7 @@
+["nsubj", null, "obj", null]	34	2	pVCC
+["nsubj", null, "obj", null, "obl=in", null]	9	3	pVCC
+["nsubj", null, "obj", null, "obl=mit", null]	9	3	pVCC
+["nsubj", null, "obj", "kunde"]	6	3	pVCC
+["nsubj", null, "obj", "partner"]	4	3	pVCC
+["nsubj", null, "obj", "kunde", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obj", "partner", "obl=für", null]	2	4	pVCC

@@ -1,0 +1,9 @@
+["nsubj", null, "obj", null]	63	2	pVCC
+["nsubj", null, "obj", "prijs"]	6	3	pVCC
+["nsubj", "film", "obj", null]	4	3	pVCC
+["nsubj", null, "obj", "medaille"]	3	3	pVCC
+["nsubj", null, "obj", "wedstrijd"]	3	3	pVCC
+["nsubj", "feyenoord", "obj", "beker", "obl=in", null]	2	5	pVCC
+["nsubj", null, "obj", "oscar", "obl=in", null]	2	4	pVCC
+["nsubj", null, "obj", "prijs", "obl=tijdens", "montreal"]	2	5	pVCC
+["nsubj", null, "obl=in", null, "obl=met", null, "obl=van", null]	2	4	pVCC

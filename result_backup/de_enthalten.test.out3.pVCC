@@ -1,0 +1,12 @@
+["nsubj", null, "obj", null]	118	2	pVCC
+["nsubj", null, "obj", "unknown"]	8	3	pVCC
+["Nom", null, "nsubj", null, "obl=in", null]	6	3	pVCC
+["nsubj", "version", "obj", null]	5	3	pVCC
+["nsubj", null, "obj", "funktion"]	4	3	pVCC
+["nsubj", null, "obj", "hinweis"]	3	3	pVCC
+["nsubj", null, "obj", null, "obl=neben", "browser"]	3	4	pVCC
+["nsubj", null, "obj", "nummer"]	3	3	pVCC
+["nsubj", null, "obl=in", "preis"]	3	3	pVCC
+["nsubj", null, "obl=in", "version"]	3	3	pVCC
+["nsubj", "seite", "obj", null]	3	3	pVCC
+["nsubj", "website", "obj", null]	3	3	pVCC

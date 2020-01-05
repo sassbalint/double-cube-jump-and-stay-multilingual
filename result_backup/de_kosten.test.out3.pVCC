@@ -1,0 +1,17 @@
+["nsubj", null, "obj", null]	117	2	pVCC
+["nsubj", null, "obj", "dollar"]	30	3	pVCC
+["nsubj", null, "obj", "mark"]	29	3	pVCC
+["nsubj", null, "obj", "pfennig"]	15	3	pVCC
+["nsubj", "lizenz", "obj", null]	8	3	pVCC
+["nsubj", "minute", "obj", null]	7	3	pVCC
+["nsubj", null, "obj", "dm"]	7	3	pVCC
+["nsubj", null, "obj", "euro"]	6	3	pVCC
+["nsubj", "zugang", "obj", null]	6	3	pVCC
+["nsubj", "minute", "obj", "pfennig"]	4	4	pVCC
+["nsubj", "version", "obj", null]	4	3	pVCC
+["nsubj", "ferngespräch", "obj", null]	3	3	pVCC
+["nsubj", "gerät", "obj", null, "obl=in", null]	3	4	pVCC
+["nsubj", "gespräch", "obj", null]	3	3	pVCC
+["nsubj", "minute", "obj", "pfennig", "obl=zwischen", "21"]	2	6	pVCC
+["nsubj", null, "obj", null, "obl=in", null, "obl=mit", "mbyte"]	2	5	pVCC
+["nsubj", "unknown", "obj", null]	2	3	pVCC

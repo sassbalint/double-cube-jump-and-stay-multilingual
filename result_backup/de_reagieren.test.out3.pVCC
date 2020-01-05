@@ -1,0 +1,4 @@
+["nsubj", null]	53	1	pVCC
+["Acc=auf", null, "nsubj", null, "obl=mit", null]	4	3	pVCC
+["nsubj", "unknown"]	4	2	pVCC
+["Acc=auf", null, "nsubj", "börse"]	2	3	pVCC

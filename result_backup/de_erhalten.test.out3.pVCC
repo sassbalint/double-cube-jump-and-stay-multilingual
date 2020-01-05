@@ -1,0 +1,20 @@
+["nsubj", null, "obj", null]	182	2	pVCC
+["nsubj", "kunde", "obj", null]	11	3	pVCC
+["nsubj", null, "obj", "zugang"]	10	3	pVCC
+["nsubj", null, "obj", "information"]	8	3	pVCC
+["nsubj", null, "obj", "zugriff"]	8	3	pVCC
+["nsubj", null, "obj", "preis"]	6	3	pVCC
+["nsubj", "firma", "obj", null]	5	3	pVCC
+["nsubj", "besitzer", "obj", null]	4	3	pVCC
+["nsubj", "mitarbeiter", "obj", null]	3	3	pVCC
+["nsubj", null, "obj", "adresse"]	3	3	pVCC
+["nsubj", null, "obj", "bestätigung"]	3	3	pVCC
+["nsubj", null, "obj", "geld"]	3	3	pVCC
+["nsubj", null, "obj", "lizenz"]	3	3	pVCC
+["nsubj", null, "obj", "nachricht"]	3	3	pVCC
+["nsubj", null, "obj", null, "xcomp", "aufrecht"]	3	4	pVCC
+["nsubj", null, "obj", "rechner"]	3	3	pVCC
+["nsubj", null, "obj", "unknown"]	3	3	pVCC
+["nsubj", null, "obj", "unterstützung", "obl=von", null]	3	4	pVCC
+["nsubj", null, "obj", "version"]	3	3	pVCC
+["nsubj", "unternehmen", "obj", null]	3	3	pVCC

@@ -1,0 +1,16 @@
+["nsubj", null]	455	1	pVCC
+["nsubj", null, "obj", null]	171	2	pVCC
+["nsubj", null, "obl=på", "tv"]	5	3	pVCC
+["nsubj", null, "xcomp", "være"]	5	3	pVCC
+["nsubj", "folk"]	4	2	pVCC
+["nsubj", "mange"]	4	2	pVCC
+["nsubj", null, "obj", "behov"]	4	3	pVCC
+["nsubj", null, "obj", "film"]	4	3	pVCC
+["nsubj", null, "obl=i", "dag"]	4	3	pVCC
+["nsubj", null, "obj", "problem"]	3	3	pVCC
+["nsubj", null, "obl=på", null, "xcomp", "del"]	3	4	pVCC
+["nsubj", null, "obj", null, "obl=i", "sammenheng"]	2	4	pVCC
+["nsubj", null, "obj", null, "obl=om", "år"]	2	4	pVCC
+["nsubj", null, "obj", "seg", "xcomp", "tjene"]	2	5	pVCC
+["nsubj", null, "obl=for", "seg", "xcomp=å", null]	2	4	pVCC
+["nsubj", "regjeringen", "xcomp", null]	2	3	pVCC

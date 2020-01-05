@@ -1,0 +1,5 @@
+["nsubj", null]	98	1	pVCC
+["nsubj", null, "obl=in", null]	42	2	pVCC
+["nsubj", "cat"]	4	2	pVCC
+["nsubj", null, "obl=for", "year", "obl=in", null]	3	4	pVCC
+["nsubj", null, "obl=in", "house"]	3	3	pVCC

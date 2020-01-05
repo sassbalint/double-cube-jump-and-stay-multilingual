@@ -1,0 +1,6 @@
+["nsubj", null, "obl", null]	33	2	pVCC
+["Tra", null, "nsubj", null]	19	2	pVCC
+["Tra", "kohde", "nsubj", null]	8	3	pVCC
+["nsubj", null, "obl", "vuosi"]	4	3	pVCC
+["Tra", "uhri", "nsubj", null]	3	3	pVCC
+["Tra", "kohde", "nsubj", null, "obl=mukaan", null]	2	4	pVCC

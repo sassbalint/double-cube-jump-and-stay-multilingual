@@ -1,0 +1,25 @@
+["nsubj", null]	523	1	pVCC
+["nsubj", null, "obj", "seg"]	9	3	pVCC
+["nsubj", null, "obl=til", "norge"]	9	3	pVCC
+["nsubj", null, "obl=i", "gang"]	7	3	pVCC
+["nsubj", null, "obl=i", "tillegg"]	7	3	pVCC
+["nsubj", null, "obl=i", "mål"]	6	3	pVCC
+["nsubj", null, "obl=med", "forslag"]	6	3	pVCC
+["nsubj", null, "obl=til", "makt"]	6	3	pVCC
+["nsubj", null, "obl", "gang"]	5	3	pVCC
+["nsubj", "melding"]	4	2	pVCC
+["nsubj", null, "obl", "år"]	4	3	pVCC
+["nsubj", null, "obl=i", "løp"]	4	3	pVCC
+["nsubj", "innspill"]	3	2	pVCC
+["nsubj", "justin"]	3	2	pVCC
+["nsubj", "mange"]	3	2	pVCC
+["nsubj", null, "obj", "seg", "obl=til", null]	3	4	pVCC
+["nsubj", null, "obl=i", "fjor"]	3	3	pVCC
+["nsubj", null, "obl=i", "kontakt"]	3	3	pVCC
+["nsubj", null, "obl=med", "uttalelse"]	3	3	pVCC
+["nsubj", null, "obl=på", "besøk"]	3	3	pVCC
+["nsubj", null, "obl=ut=av", "kontroll"]	3	3	pVCC
+["nsubj", "regjeringen", "obl=med", null]	3	3	pVCC
+["nsubj", "henvendelse", "obl=i", null]	2	3	pVCC
+["nsubj", null, "obl=hjem=fra", "skole"]	2	3	pVCC
+["nsubj", null, "obl=i", null, "obl=til", "uttrykk"]	2	4	pVCC

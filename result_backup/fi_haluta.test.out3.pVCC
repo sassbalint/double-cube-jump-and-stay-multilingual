@@ -1,0 +1,19 @@
+["nsubj", null, "xcomp", null]	150	2	pVCC
+["Nom", "puhe#mies", "nsubj", null, "xcomp", null]	12	4	pVCC
+["nsubj", null, "xcomp", "kiittää"]	6	3	pVCC
+["nsubj", null, "xcomp", "onnitella"]	5	3	pVCC
+["nsubj", null, "xcomp", "pitää"]	5	3	pVCC
+["nsubj", null, "xcomp", "tehdä"]	5	3	pVCC
+["nsubj", null, "xcomp", "korostaa"]	4	3	pVCC
+["nsubj", null, "xcomp", "sanoa"]	4	3	pVCC
+["Nom", "puhe#mies", "nsubj", null, "obl", null, "xcomp", null]	3	5	pVCC
+["nsubj", null, "obj", "seksi"]	3	3	pVCC
+["nsubj", null, "obl", "syy", "xcomp", null]	3	4	pVCC
+["nsubj", null, "xcomp", "antaa"]	3	3	pVCC
+["nsubj", null, "xcomp", "esittää"]	3	3	pVCC
+["nsubj", null, "xcomp", "käyttää"]	3	3	pVCC
+["nsubj", null, "xcomp", "kuulla"]	3	3	pVCC
+["nsubj", null, "xcomp", "osoittaa"]	3	3	pVCC
+["nsubj", null, "xcomp", "ottaa"]	3	3	pVCC
+["nsubj", "valio", "xcomp", null]	3	3	pVCC
+["nsubj", "neuvosto", "obl=mukaan", null, "xcomp", null]	2	4	pVCC

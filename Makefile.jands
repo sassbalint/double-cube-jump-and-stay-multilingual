@@ -1,0 +1,28 @@
+
+all:
+	make VERB=hagy train
+	make VERB=huz test
+	make VERB=vet test
+
+train:
+	cat $(VERB).train.json | python3 impl.py | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).train.out3
+	cat $(VERB).train.out3 | grep pVCC | sort | uniq | sort -t '	' -k2,2nr -k1,1n > $(VERB).train.out3.pVCC
+
+test:
+	cat $(VERB).test.json | python3 impl.py | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).test.out3
+	cat $(VERB).test.out3 | grep pVCC | sort | uniq | sort -t '	' -k2,2nr -k1,1n > $(VERB).test.out3.pVCC
+
+diff:
+	diff hagy.train.out3.pVCC_orig hagy.train.out3.pVCC
+	diff huz.test.out3.pVCC_orig huz.test.out3.pVCC
+	diff vet.test.out3.pVCC_orig vet.test.out3.pVCC
+
+usage:
+	@echo
+	@echo "Choose from the following:"
+	@echo "  make all"
+	@echo "  make VERB=hagy train"
+	@echo "  make VERB=huz test"
+	@echo "  make VERB=vet test"
+	@echo
+

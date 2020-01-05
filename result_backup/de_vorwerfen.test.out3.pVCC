@@ -1,0 +1,3 @@
+["nsubj", null, "obj", null]	28	2	pVCC
+["nsubj", null, "obj", null, "xcomp=zu", null]	10	3	pVCC
+["nsubj", null, "obj", "telekom"]	3	3	pVCC

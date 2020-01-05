@@ -1,0 +1,4 @@
+["nsubj", null]	69	1	pVCC
+["nsubj", null, "obl=i", null]	29	2	pVCC
+["nsubj", null, "obl=på", "hotell"]	3	3	pVCC
+["nsubj", null, "obl=med", "mor"]	2	3	pVCC

@@ -1,0 +1,28 @@
+["nsubj", null, "obj", null]	295	2	pVCC
+["iobj", null, "nsubj", null, "obj", null]	112	3	pVCC
+["nsubj", null, "obj", "svar"]	8	3	pVCC
+["iobj", null, "nsubj", null, "obj", "sjanse"]	6	4	pVCC
+["iobj", "obama", "nsubj", null, "obj", null]	6	4	pVCC
+["nsubj", null, "obj", "seg"]	6	3	pVCC
+["nsubj", null, "obj", "mulighet"]	5	3	pVCC
+["iobj", "barn", "nsubj", null, "obj", null]	4	4	pVCC
+["iobj", null, "nsubj", null, "obj", "navn"]	4	4	pVCC
+["nsubj", null, "obj", "inntrykk"]	4	3	pVCC
+["nsubj", null, "obj", "resultat"]	4	3	pVCC
+["nsubj", null, "obj", "rom"]	4	3	pVCC
+["nsubj", null, "obj", "uttrykk"]	4	3	pVCC
+["iobj", "den", "nsubj", null, "obj", null]	3	4	pVCC
+["iobj", null, "nsubj", null, "obj=for", "uttrykk"]	3	4	pVCC
+["iobj", null, "nsubj", null, "obj", "liv"]	3	4	pVCC
+["iobj", null, "nsubj", null, "obj", "opplevelse"]	3	4	pVCC
+["nsubj", null, "obj", "bidrag", "obl=til", null]	3	4	pVCC
+["nsubj", null, "obj", "gass"]	3	3	pVCC
+["nsubj", null, "obj", "håp"]	3	3	pVCC
+["nsubj", null, "obj", "ordre"]	3	3	pVCC
+["nsubj", null, "obj", "støtte"]	3	3	pVCC
+["nsubj", null, "obj", "tillatelse"]	3	3	pVCC
+["case", "for", "nsubj", null, "obj", null, "obl=til", null]	2	5	pVCC
+["iobj", null, "nsubj", null, "obj", null, "obl=ved", "side"]	2	5	pVCC
+["iobj", "obama", "nsubj", null, "obj", "seier", "obl=med", "valgmannstemme"]	2	7	pVCC
+["nsubj", null, "obj", null, "obl", "gang"]	2	4	pVCC
+["nsubj", null, "obj", "tilknytning", "obl=gjennom", "kirkelov"]	2	5	pVCC
