@@ -62,9 +62,9 @@ if len( sys.argv ) != 3:
 
 filename = sys.argv[1]
 
-LANG = None
+INPUTLANG = None
 if ( sys.argv[2] ):
-  LANG = sys.argv[2]
+  INPUTLANG = sys.argv[2]
 
 with open( filename ) as fd:
   rd = csv.reader( fd, delimiter="\t", quoting=csv.QUOTE_NONE ) # nincs quoting!
@@ -140,12 +140,12 @@ with open( filename ) as fd:
                 if ( depofdep[HEAD] == dep[ID] and (
                      depofdep[UPOS] == 'ADP' or (
                        depofdep[UPOS] == 'PART' and
-                       LANG in XCOMP_PARTICLE and
-                       depofdep[LEMMA] == XCOMP_PARTICLE[LANG]
+                       INPUTLANG in XCOMP_PARTICLE and
+                       depofdep[LEMMA] == XCOMP_PARTICLE[INPUTLANG]
                      ) ) ):
                   prep = depofdep[LEMMA].lower()
                   # 'de': német kontrakciók kezelése: am -> an :)
-                  if LANG == 'de' and prep in DE_CONTRACTIONS:
+                  if INPUTLANG == 'de' and prep in DE_CONTRACTIONS:
                     prep = DE_CONTRACTIONS[prep]
                   slot += '=' + prep
               # lemma -- névmások kezelése -- csak ez kell: 'maga', 'egymás'
