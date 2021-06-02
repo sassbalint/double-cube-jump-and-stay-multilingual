@@ -63,7 +63,7 @@ def main():
     args = get_args()
     filename = args.input_file
     INPUTLANG = args.language
-    
+
     with open(filename) as fd:
         rd = csv.reader(fd, delimiter="\t", quoting=csv.QUOTE_NONE) # nincs quoting!
         sent = [] # mondat
@@ -71,7 +71,7 @@ def main():
             if len(row) == 1 and row[0][0] == "#": # comment
                 continue
             if row: # ha nem üres sor => egy token feldolgozása
-    
+
                 # feats -> feats_dic
                 feats = row[FEATS]
                 if feats == '_':
@@ -85,7 +85,7 @@ def main():
                         print("FATAL: " + feats + ' :: {' + '}{'.join(row) + '}')
                         exit(1)
                 print(sorted(feats_dic))
-    
+
                 # feats_dic -> "slot" megállapítása + hozzárakása
                 slot = NOSLOT
                 # 0. alap dependenseket az elejére vesszük :)
@@ -116,19 +116,19 @@ def main():
                 #elif row[UPOS] in ['ADV']: # ha ez sincs, akkor hozzá: 'ADV'
                 #  slot = row[UPOS]
                 ## az első magyar tesztek alapján: inkább ne legyen ADV! :)
-    
+
                 row.append(feats_dic) # ez pontosan a 10-es (11.) mező legyen!
                 row.append(slot)     # ez pontosan a 11-es (12.) mező legyen!
                 sent.append(row)
-    
+
             else: # üres sor = mondat vége => teljes mondat feldolgozása
-    
+
                 for tok in sent:
                     print_token(tok)
-    
+
                     if tok[UPOS] == 'VERB':
                         verb_lemma = tok[LEMMA]
-    
+
                         deps = []
                         # ige bővítményei
                         # XXX ciklusok helyett: vmi jobb (dict?) adatszerk itt! :)
@@ -159,7 +159,7 @@ def main():
                             # ik hozzáadása
                             elif dep[HEAD] == tok[ID] and dep[DEPREL] in VERB_PARTICLE:
                                 verb_lemma = dep[LEMMA] + verb_lemma
-                                
+
                         # ige (+ik!) kiírása
                         # '+'-t le kell cserélni, mert csak a magyarban így van: ik+ige
                         print('stem@@' + verb_lemma.replace('+', ''), end='')
@@ -167,35 +167,35 @@ def main():
                         for x in sorted(deps):
                             print('', x, end='')
                         print()
-    
+
                 print("\n-----\n")
                 sent = []
 
 
 def get_args():
-        """Parse command line arguments."""
-        parser = argparse.ArgumentParser(
-                description=__doc__,
-                formatter_class=argparse.ArgumentDefaultsHelpFormatter
-        )
-        # string-valued argument
-        parser.add_argument(
-                '-i', '--input-file',
-                help='CoNLL(-like) input file',
-                required=True,
-                type=str,
-                default=argparse.SUPPRESS
-        )
-        # string-valued argument
-        parser.add_argument(
-                '-l', '--language',
-                help='2-letter language code for language specific tricks',
-                required=True,
-                type=str,
-                default=argparse.SUPPRESS
-        )
-        
-        return parser.parse_args()
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+    )
+    # string-valued argument
+    parser.add_argument(
+        '-i', '--input-file',
+        help='CoNLL(-like) input file',
+        required=True,
+        type=str,
+        default=argparse.SUPPRESS
+    )
+    # string-valued argument
+    parser.add_argument(
+        '-l', '--language',
+        help='2-letter language code for language specific tricks',
+        required=True,
+        type=str,
+        default=argparse.SUPPRESS
+    )
+
+    return parser.parse_args()
 
 
 if __name__ == '__main__':
