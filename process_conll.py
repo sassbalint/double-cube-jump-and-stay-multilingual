@@ -22,7 +22,7 @@ NOSLOT = '_'
 
 # ----- trükkök az annotáció jobbítására
 
-VERB_PARTICLE = [ 'compound:prt', 'compound:preverb' ] # utóbbi a magyar...
+VERB_PARTICLE = [ 'compound:prt', 'compound:preverb', 'PREVERB' ] # utóbbi a magyar...
 
 # a többi nyelvnél tán nem kell (cs, hu: kifejezetten rossz)
 XCOMP_PARTICLE = { 
@@ -109,6 +109,9 @@ with open( filename ) as fd:
         # 'advmod', 'discourse', 'amod',
         # -- #4 oszlop
         # 'aux', 'cop', 'mark', 'det', 'clf'
+        #
+        # -- e-magyar révén
+        #'INF'
       ]:
         slot = row[DEPREL]
       ## 3. ha az sincs, akkor esetleg még szófaj alapon :)

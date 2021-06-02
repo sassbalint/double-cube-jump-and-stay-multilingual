@@ -2,6 +2,7 @@
 INPUTLANG=??
 
 ORIG=_ORIG
+SUBJECT_SLOT=nsubj
 
 all: full
 
@@ -34,7 +35,7 @@ jands:
 	@echo
 	mkdir -p result
 	rm -f result/$(INPUTLANG)_*out3*
-	for V in `ls json/$(INPUTLANG)_*.test.json | sed "s/.*\///;s/\.test\.json//"`; do echo "--- $$V" ; ln json/$$V.test.json . ; make -f Makefile.jands VERB=$$V test ; rm -f $$V.test.json ; mv $$V.test.out3* result ; done > jands.out 2> jands.err
+	for V in `ls json/$(INPUTLANG)_*.test.json | sed "s/.*\///;s/\.test\.json//"`; do echo "--- $$V" ; ln json/$$V.test.json . ; make -f Makefile.jands VERB=$$V SUBJECT_SLOT=$(SUBJECT_SLOT) test ; rm -f $$V.test.json ; mv $$V.test.out3* result ; done > jands.out 2> jands.err
 
 jands_diff:
 	diffrvi result$(ORIG) result

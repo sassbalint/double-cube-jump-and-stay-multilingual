@@ -1,6 +1,7 @@
 import sys
-import fileinput
 import json
+
+SUBJECT_SLOT = sys.argv[1] # XXX
 
 # corpus lattice
 cl_vertices_f = {} # freq of vertices
@@ -87,7 +88,7 @@ def build_dc_recursively( d, fq, vertices_f, vertices_l, edges_back, edges_fwrd 
 
 # -- build the corpus lattice
 
-for line in fileinput.input():
+for line in sys.stdin:
   d = json2dict(line)
   fq = d.pop('fq', None)
 
@@ -99,9 +100,9 @@ for line in fileinput.input():
       d[k] = None
 
   # adding subjects -- hack, because Hungarian is pro-drop
-  # = if there is no NOM slot => add "NOM":None
-  if "nsubj" not in d:
-    d["nsubj"] = None
+  # = if there is no SUBJECT_SLOT => add SUBJECT_SLOT:None
+  if SUBJECT_SLOT not in d:
+    d[SUBJECT_SLOT] = None
 
   # data for the given sentence skeleton (ss):
   dvfq = {} # vertex-data: freqs

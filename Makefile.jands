@@ -1,15 +1,17 @@
 
+SUBJECT_SLOT=nsubj
+
 all:
 	make VERB=hagy train
 	make VERB=huz test
 	make VERB=vet test
 
 train:
-	cat $(VERB).train.json | python3 impl.py | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).train.out3
+	cat $(VERB).train.json | python3 impl.py $(SUBJECT_SLOT) | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).train.out3
 	cat $(VERB).train.out3 | grep pVCC | sort | uniq | sort -t '	' -k2,2nr -k1,1n > $(VERB).train.out3.pVCC
 
 test:
-	cat $(VERB).test.json | python3 impl.py | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).test.out3
+	cat $(VERB).test.json | python3 impl.py $(SUBJECT_SLOT) | sed "s/\\\\u\(....\)/\\\\x{\1}/g" | ascii2uni -a C -q > $(VERB).test.out3
 	cat $(VERB).test.out3 | grep pVCC | sort | uniq | sort -t '	' -k2,2nr -k1,1n > $(VERB).test.out3.pVCC
 
 diff:
