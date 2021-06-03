@@ -1,8 +1,8 @@
 
-INPUTLANG=??
+INPUT=??
 
 ORIG=_ORIG
-SUBJECT_SLOT=nsubj
+SUBJECT_SLOT=Nom
 
 all: full
 
@@ -27,15 +27,15 @@ result_pVCC_diff:
 # -----
 
 # 3. double-cube-jump-and-stay / impl.py
-# input: ./json/$(INPUTLANG)_$(VERB).test.json
-# output: ./result/$(INPUTLANG)_$(VERB).test.out3.pVCC
+# input: ./json/$(INPUT)_$(VERB).test.json
+# output: ./result/$(INPUT)_$(VERB).test.out3.pVCC
 jands:
 	@echo
 	@echo "3. Run jump and stay method..."
 	@echo
 	mkdir -p result
-	rm -f result/$(INPUTLANG)_*out3*
-	for V in `ls json/$(INPUTLANG)_*.test.json | sed "s/.*\///;s/\.test\.json//"`; do echo "--- $$V" ; ln json/$$V.test.json . ; make -f Makefile.jands VERB=$$V SUBJECT_SLOT=$(SUBJECT_SLOT) test ; rm -f $$V.test.json ; mv $$V.test.out3* result ; done > jands.out 2> jands.err
+	rm -f result/$(INPUT)_*out3*
+	for V in `ls json/$(INPUT)_*.test.json | sed "s/.*\///;s/\.test\.json//"`; do echo "--- $$V" ; ln json/$$V.test.json . ; make -f Makefile.jands VERB=$$V SUBJECT_SLOT=$(SUBJECT_SLOT) test ; rm -f $$V.test.json ; mv $$V.test.out3* result ; done > jands.out 2> jands.err
 
 jands_diff:
 	diffrvi result$(ORIG) result
@@ -50,15 +50,15 @@ jands_new_orig:
 # -----
 
 # 2. convert data from "old Mazsola format" to json
-# input: ./mazsdb/$(INPUTLANG)
-# output: ./json/$(INPUTLANG)_$(VERB).test.json
+# input: ./mazsdb/$(INPUT)
+# output: ./json/$(INPUT)_$(VERB).test.json
 convert2json:
 	@echo
 	@echo "2. Convert to JSON..."
 	@echo
 	mkdir -p json
-	rm -f json/$(INPUTLANG)_*.json json/$(INPUTLANG)_*.verbs
-	for i in mazsdb/$(INPUTLANG) ; do echo "--- $$i" ; ./convert2json.sh $$i ; done
+	rm -f json/$(INPUT)_*.json json/$(INPUT)_*.verbs
+	for i in mazsdb/$(INPUT) ; do echo "--- $$i" ; ./convert2json.sh $$i ; done
 
 convert2json_diff:
 	diffrvi json$(ORIG) json
@@ -73,15 +73,15 @@ convert2json_new_orig:
 # -----
 
 # 1. process conll to sentence skeletons
-# input: ./input/$(INPUTLANG)
-# output: ./mazsdb/$(INPUTLANG)
+# input: ./input/$(INPUT)
+# output: ./mazsdb/$(INPUT)
 process_conll:
 	@echo
 	@echo "1. Process CoNLL..."
 	@echo
 	mkdir -p mazsdb
-	rm -f mazsdb/$(INPUTLANG)*
-	for i in input/$(INPUTLANG) ; do echo "--- $$i" ; ./process_conll.sh $$i ; done
+	rm -f mazsdb/$(INPUT)*
+	for i in input/$(INPUT) ; do echo "--- $$i" ; ./process_conll.sh $$i ; done
 
 process_conll_diff:
 	diffrvi mazsdb$(ORIG) mazsdb

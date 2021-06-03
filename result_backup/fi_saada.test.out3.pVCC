@@ -1,9 +1,8 @@
-["nsubj", null]	587	1	pVCC
-["nsubj", null, "obj", null]	345	2	pVCC
-["nsubj", null, "obj", null, "obl", null]	175	3	pVCC
+["nsubj", null, "obj", null]	347	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	176	3	pVCC
 ["nsubj", null, "obj", "tieto"]	14	3	pVCC
+["nsubj", null, "obj", null, "obl", "vuosi"]	8	4	pVCC
 ["nsubj", null, "obj", "alku", "obl", null]	7	4	pVCC
-["nsubj", null, "obj", null, "obl", "vuosi"]	7	4	pVCC
 ["nsubj", null, "xcomp", "kuulla"]	6	3	pVCC
 ["nsubj", null, "obj", "surma"]	5	3	pVCC
 ["nsubj", null, "obj", "tieto", "obl", null]	5	4	pVCC

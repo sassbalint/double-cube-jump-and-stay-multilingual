@@ -1,5 +1,5 @@
-["nsubj", null, "obj", null]	189	2	pVCC
-["nsubj", null, "obj", null, "obl", null]	103	3	pVCC
+["nsubj", null, "obj", null]	190	2	pVCC
+["nsubj", null, "obj", null, "obl", null]	104	3	pVCC
 ["nsubj", null, "obj", null, "obl", "aika"]	6	4	pVCC
 ["nsubj", null, "obj", "puheen#vuoro"]	4	3	pVCC
 ["nsubj", "prosentti", "obj", null]	4	3	pVCC

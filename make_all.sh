@@ -1,5 +1,5 @@
 #!/bin/bash
 
-make INPUTLANG=?? SUBJECT_SLOT=nsubj
-make INPUTLANG=???? SUBJECT_SLOT=Nom
+make INPUT=?? SUBJECT_SLOT=nsubj
+make INPUT=???? SUBJECT_SLOT=Nom
 
