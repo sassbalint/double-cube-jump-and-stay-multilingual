@@ -1,8 +1,10 @@
+
 """
 This module creates "functional annotation"
 from a CoNLL(-like) treebank.
 That is: creates a Mazsola-like database
-from verbs and their direct arguments/compements/adjuncts.
+from verbs and their direct exts.
+(ext in {dependent, argument, complement, adjunct})
 """
 
 
@@ -16,23 +18,28 @@ import sys
  FEATS_DIC, SLOT) = range(12)
 
 FEAT_ITEM_SEP = '|'
-FEAT_VAL_SEP = '=' # v2.4: '=' <--> v2.0: '_'
+FEAT_VAL_SEP = '=' # UD v2.4: '=' <--> UD v2.0: '_'
 
 NOSLOT = '_'
 
+ROOT_UPOS = 'VERB'
 
-# ----- trükkök az annotáció jobbítására
 
-VERB_PARTICLE = ['compound:prt', 'compound:preverb', 'PREVERB'] # utóbbi a magyar...
+# ----- language specific tricks to improve annotation
 
-# a többi nyelvnél tán nem kell (cs, hu: kifejezetten rossz)
+VERB_PARTICLE = [
+    'compound:prt', 'compound:preverb', # UD
+    'PREVERB' # e-magyar
+]
+
+# maybe not needed for other languages (surely not needed for cs and hu)
 XCOMP_PARTICLE = {
     'de': 'zu',
     'en': 'to',
     'no': 'å'
 }
 
-# innen: http://fluentu.com/blog/german/german-contractions
+# from http://fluentu.com/blog/german/german-contractions
 DE_CONTRACTIONS = {
     'am': 'an', 'ans': 'an', 'aufs': 'auf', 'beim': 'bei',
     'durchs': 'durch', 'fürs': 'für', 'hinterm': 'hinter',
@@ -41,14 +48,15 @@ DE_CONTRACTIONS = {
     'vom': 'von', 'vors': 'vor', 'vorm': 'vor', 'zum': 'zu', 'zur': 'zu'
 }
 
-PRON_LEMMAS = [ # nincs annot! = csak lemma alapján megy
+PRON_LEMMAS = [ # based directly on lemma
     'navzájem', # cs
     'sich', 'einander', # de
     # en(each other) ??? XXX XXX XXX
     'birbiri', # tr
+    #'maga', 'egymás' # hu -- is this needed for e-magyar annotation?
 ]
 
-# ----- trükkök vége
+# ----- end of tricks
 
 
 def print_token(t):
@@ -57,22 +65,22 @@ def print_token(t):
 
 def main():
     """
-    Process sentences. Take verbs and output them together with
-    info on their direct arguments/complements/adjuncts.
+    Process sentences.
+    Take verbs and output them together with info on their direct exts.
     """
     args = get_args()
     filename = args.input_file
     INPUTLANG = args.language
 
     with open(filename) as fd:
-        rd = csv.reader(fd, delimiter="\t", quoting=csv.QUOTE_NONE) # nincs quoting!
-        sent = [] # mondat
+        rd = csv.reader(fd, delimiter="\t", quoting=csv.QUOTE_NONE) # no quoting
+        sentence = []
         for row in rd:
-            if len(row) == 1 and row[0][0] == "#": # comment
+            if len(row) == 1 and row[0][0] == "#": # comment line
                 continue
-            if row: # ha nem üres sor => egy token feldolgozása
+            if row: # line is not empty => process this token
 
-                # feats -> feats_dic
+                # feats -> feats_dic (specific format -> python data structure)
                 feats = row[FEATS]
                 if feats == '_':
                     feats_dic = {}
@@ -86,90 +94,96 @@ def main():
                         exit(1)
                 print(sorted(feats_dic))
 
-                # feats_dic -> "slot" megállapítása + hozzárakása
+                # determine "slot" = the category of the word as an ext
                 slot = NOSLOT
-                # 0. alap dependenseket az elejére vesszük :)
+
+                # 0. basic arguments
+                #    * UD: we need them here because 'Case' feature is mostly missing
+                #    * e-magyar: this step is not needed as we always have 'Case' feature
                 if row[DEPREL] in ['nsubj', 'obj', 'iobj', 'obl']:
                     slot = row[DEPREL]
-                # 1. ha nincs: a 'Case' feat már tök jó :) -- XXX tutira kell külön?
+
+                # 1. if not present: take the 'Case' feature
+                #    * UD: needed
+                #    * e-magyar: this is the main info on category
                 elif 'Case' in feats_dic:
                     slot = feats_dic['Case']
-                # 2. ha nincs: egyéb deprel = minden innen: http://ud.org/u/dep
-                elif row[DEPREL] in [
-                    # -- #1 oszlop
-                    'case',
-                    # 'vocative', 'expl', 'dislocated', 'nmod', 'appos', 'nummod',
-                    # -- #2 oszlop
-                    # 'csubj', 'ccomp',
-                    'xcomp',
-                    # 'advcl', 'acl',
-                    # -- #3 oszlop
-                    # 'advmod', 'discourse', 'amod',
-                    # -- #4 oszlop
-                    # 'aux', 'cop', 'mark', 'det', 'clf'
-                    #
-                    # -- e-magyar révén
-                    #'INF'
+
+                # 2. if not present: other deprel
+                #    * UD: case, xcomp <- http://ud.org/u/dep
+                #    * e-magyar: INF
+                elif row[DEPREL] in [ 'case', 'xcomp',
+                    #'INF',
                 ]:
                     slot = row[DEPREL]
-                ## 3. ha az sincs, akkor esetleg még szófaj alapon :)
-                #elif row[UPOS] in ['ADV']: # ha ez sincs, akkor hozzá: 'ADV'
-                #  slot = row[UPOS]
-                ## az első magyar tesztek alapján: inkább ne legyen ADV! :)
 
-                row.append(feats_dic) # ez pontosan a 10-es (11.) mező legyen!
-                row.append(slot)     # ez pontosan a 11-es (12.) mező legyen!
-                sent.append(row)
+                ## 3. if not present: maybe based on part of speech
+                ## UPOS = 'ADV' -- omitted based on experiments on Hungarian
 
-            else: # üres sor = mondat vége => teljes mondat feldolgozása
+                row.append(feats_dic) # 11th field
+                row.append(slot)      # 12th field
 
-                for tok in sent:
+                sentence.append(row)
+
+            else: # empty line = end of sentence => process the whole sentence
+
+                for tok in sentence:
                     print_token(tok)
 
-                    if tok[UPOS] == 'VERB':
-                        verb_lemma = tok[LEMMA]
+                    if tok[UPOS] != ROOT_UPOS:
+                        continue
 
-                        deps = []
-                        # ige bővítményei
-                        # XXX ciklusok helyett: vmi jobb (dict?) adatszerk itt! :)
-                        for dep in sent: # ige közvetlen bővítményei
-                            # XXX alább esetleg (debug!) a NOSLOT-t is meg lehet engedni...
-                            if dep[HEAD] == tok[ID] and dep[XPOS] != 'Punct' and dep[SLOT] != NOSLOT:
-                                slot = dep[SLOT]
-                                # bővítmény bővítményei = elöljárók berakása
-                                for depofdep in sent:
-                                    if (depofdep[HEAD] == dep[ID] and (
-                                             depofdep[UPOS] == 'ADP' or (
-                                                 depofdep[UPOS] == 'PART' and
-                                                 INPUTLANG in XCOMP_PARTICLE and
-                                                 depofdep[LEMMA] == XCOMP_PARTICLE[INPUTLANG]
-                                       ))):
-                                        prep = depofdep[LEMMA].lower()
-                                        # 'de': német kontrakciók kezelése: am -> an :)
-                                        if INPUTLANG == 'de' and prep in DE_CONTRACTIONS:
-                                            prep = DE_CONTRACTIONS[prep]
-                                        slot += '=' + prep
-                                # lemma -- névmások kezelése -- csak ez kell: 'maga', 'egymás'
-                                lemma = dep[LEMMA].lower() if (
-                                    dep[UPOS] != 'PRON' or
-                                    dep[FEATS_DIC].get('Reflex', 'notdef') == 'Yes' or # 'maga'
-                                    dep[FEATS_DIC].get('PronType', 'notdef') == 'Rcp' or # 'egymás'
-                                    dep[LEMMA] in PRON_LEMMAS) else "NULL"
-                                deps.append(slot + '@@' + lemma)
-                            # ik hozzáadása
-                            elif dep[HEAD] == tok[ID] and dep[DEPREL] in VERB_PARTICLE:
-                                verb_lemma = dep[LEMMA] + verb_lemma
+                    # we have the root (=VERB) here
+                    verb_lemma = tok[LEMMA]
 
-                        # ige (+ik!) kiírása
-                        # '+'-t le kell cserélni, mert csak a magyarban így van: ik+ige
-                        print('stem@@' + verb_lemma.replace('+', ''), end='')
-                        # bővítmények kiírása -- betűrendben
-                        for x in sorted(deps):
-                            print('', x, end='')
-                        print()
+                    deps = []
+                    # exts of the verb -- with simple loops (not slow)
+                    for dep in sentence: # direct exts
+                        if dep[HEAD] != tok[ID]:
+                            continue
+                        if dep[SLOT] != NOSLOT:
+                            slot = dep[SLOT]
+                            # exts of the exts = amend slot with prepositions/postpositions
+                            for depofdep in sentence:
+                                if depofdep[HEAD] != dep[ID]:
+                                    continue
+                                if (depofdep[UPOS] == 'ADP' or (
+                                    depofdep[UPOS] == 'PART' and
+                                    INPUTLANG in XCOMP_PARTICLE and
+                                    depofdep[LEMMA] == XCOMP_PARTICLE[INPUTLANG]
+                                )):
+                                    prep = depofdep[LEMMA].lower()
+                                    # 'de': handle german contractions: am -> an
+                                    if INPUTLANG == 'de' and prep in DE_CONTRACTIONS:
+                                        prep = DE_CONTRACTIONS[prep]
+                                    slot += '=' + prep
+                            # lemma
+                            lemma = dep[LEMMA].lower()
+                            # lemma / handle pronouns
+                            # -- only reflexive and rcp are needed as lemma
+                            if (dep[UPOS] == 'PRON' and
+                                dep[FEATS_DIC].get('Reflex', 'notdef') != 'Yes' and # 'itself'
+                                dep[FEATS_DIC].get('PronType', 'notdef') != 'Rcp' and # 'each other'
+                                dep[LEMMA] not in PRON_LEMMAS
+                            ):
+                                lemma = "NULL"
+                            deps.append(slot + '@@' + lemma)
+                        # add verb particle / preverb to the verb lemma
+                        # verb particle / preverb must be a NOSLOT!
+                        elif dep[DEPREL] in VERB_PARTICLE:
+                            verb_lemma = dep[LEMMA] + verb_lemma
+
+                    # handle special 'perverb+verb' format in UD/hu -> delete the '+'
+                    verb_lemma = verb_lemma.replace('+', '')
+
+                    # print out the verb centered construction
+                    # = verb + exts (in alphabetical order)
+                    for x in ['stem@@' + verb_lemma] + sorted(deps):
+                        print('', x, end='')
+                    print()
 
                 print("\n-----\n")
-                sent = []
+                sentence = []
 
 
 def get_args():
