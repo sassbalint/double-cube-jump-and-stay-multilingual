@@ -100,7 +100,10 @@ def main():
                 # 0. basic arguments
                 #    * UD: we need them here because 'Case' feature is mostly missing
                 #    * e-magyar: this step is not needed as we always have 'Case' feature
-                if row[DEPREL] in ['nsubj', 'obj', 'iobj', 'obl']:
+                if row[DEPREL] in [
+                    #'NEG',
+                    'nsubj', 'obj', 'iobj', 'obl'
+                ]:
                     slot = row[DEPREL]
 
                 # 1. if not present: take the 'Case' feature
@@ -112,12 +115,19 @@ def main():
                 # 2. if not present: other deprel
                 #    * UD: case, xcomp <- http://ud.org/u/dep
                 #    * e-magyar: INF
-                elif row[DEPREL] in [ 'case', 'xcomp',
-                    #'INF',
+                elif row[DEPREL] in [
+                    'case', 'xcomp',
+                    'INF',
                 ]:
                     slot = row[DEPREL]
 
-                ## 3. if not present: maybe based on part of speech
+                # 3. if not present: Hungarian postposition
+                #    * UD: not needed
+                #    * e-magyar: needed
+                elif row[XPOS] == '[/Post]':
+                    slot = 'NU'
+
+                ## 4. if not present: maybe based on part of speech
                 ## UPOS = 'ADV' -- omitted based on experiments on Hungarian
 
                 row.append(feats_dic) # 11th field
@@ -143,6 +153,7 @@ def main():
                             continue
                         if dep[SLOT] != NOSLOT:
                             slot = dep[SLOT]
+
                             # exts of the exts = amend slot with prepositions/postpositions
                             for depofdep in sentence:
                                 if depofdep[HEAD] != dep[ID]:
@@ -157,6 +168,15 @@ def main():
                                     if INPUTLANG == 'de' and prep in DE_CONTRACTIONS:
                                         prep = DE_CONTRACTIONS[prep]
                                     slot += '=' + prep
+                                # handle e-magyar Hungarian postpositions
+                                # which are annotated inversely -> should be inverted
+                                if slot == 'NU':
+                                    slot = depofdep[FEATS_DIC].get('Case', 'notdef') + '=' + dep[LEMMA]
+                                    dep[LEMMA] = depofdep[LEMMA]
+                                # adjective as second level ext (in a multilevel setting!)
+                                #if depofdep[DEPREL] == 'ATT' and depofdep[UPOS] == 'ADJ':
+                                #    deps.append(slot + '+ATT' + '@@' + depofdep[LEMMA])  
+
                             # lemma
                             lemma = dep[LEMMA].lower()
                             # lemma / handle pronouns
@@ -167,7 +187,9 @@ def main():
                                 dep[LEMMA] not in PRON_LEMMAS
                             ):
                                 lemma = "NULL"
+
                             deps.append(slot + '@@' + lemma)
+
                         # add verb particle / preverb to the verb lemma
                         # verb particle / preverb must be a NOSLOT!
                         elif dep[DEPREL] in VERB_PARTICLE:

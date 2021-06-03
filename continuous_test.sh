@@ -1,21 +1,21 @@
 #!/bin/bash
 
-if [ "$1" == "small" ]
+if [ "$1" == "large" ]
 then
-    DATA1=ns30
-    VERB1=játszik
-    SUBJ1=Nom
-
-    DATA2=hu
-    VERB2=kerül
-    SUBJ2=nsubj
-else
     DATA1=ns3s
     VERB1=megmutat
     SUBJ1=Nom
 
     DATA2=de
     VERB2=schreiben
+    SUBJ2=nsubj
+else
+    DATA1=ns30
+    VERB1=játszik
+    SUBJ1=Nom
+
+    DATA2=hu
+    VERB2=kerül
     SUBJ2=nsubj
 fi
 
