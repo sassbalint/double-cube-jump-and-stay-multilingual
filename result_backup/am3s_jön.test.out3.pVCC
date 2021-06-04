@@ -1,0 +1,7 @@
+["Nom", null]	185	1	pVCC
+["Ess", "jó", "Nom", null]	9	3	pVCC
+["Ess", null, "Ill", "szó", "Nom", null]	5	4	pVCC
+["Nom", "verzió"]	4	2	pVCC
+["Ine", "eset", "Nom", null]	3	3	pVCC
+["Nom", "hibrid"]	3	2	pVCC
+["Del", "hely", "Nom", null]	2	3	pVCC

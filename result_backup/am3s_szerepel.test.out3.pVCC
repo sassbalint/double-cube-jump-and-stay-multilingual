@@ -1,0 +1,15 @@
+["Nom", null]	85	1	pVCC
+["Nom", null, "Sup", null]	33	2	pVCC
+["Ine", null, "Nom", null]	32	2	pVCC
+["Nom", null, "Sup", "extralista"]	6	3	pVCC
+["Nom", null, "Sup", "paletta"]	6	3	pVCC
+["Ine", "kínálat", "Nom", null]	5	3	pVCC
+["Ine", "repertoár", "Nom", null]	5	3	pVCC
+["Nom", null, "Sup", "árcédula"]	4	3	pVCC
+["Nom", null, "Sup", "motorpaletta"]	4	3	pVCC
+["Ess", null, "Ins", null, "Nom", null]	3	3	pVCC
+["Ine", "program", "Nom", null]	3	3	pVCC
+["Nom", null, "Nom=között", "sok", "Sup", "extralista"]	3	5	pVCC
+["Acc", "tempó", "Nom", null]	2	3	pVCC
+["Ine", "versenynaptár", "Nom", "rali"]	2	4	pVCC
+["Nom", null, "Nom=mellett", "név"]	2	3	pVCC

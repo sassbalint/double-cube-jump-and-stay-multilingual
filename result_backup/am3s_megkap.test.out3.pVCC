@@ -1,0 +1,6 @@
+["Acc", null, "Nom", null]	58	2	pVCC
+["Acc", null, "Ess", "egy", "Nom", null]	4	4	pVCC
+["Acc", "blokk", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "modell"]	3	3	pVCC
+["Acc", "dízelmotor", "Ess", null, "Nom", null]	2	4	pVCC
+["Acc", "turbómotor", "Ine", null, "Nom", "rc"]	2	5	pVCC

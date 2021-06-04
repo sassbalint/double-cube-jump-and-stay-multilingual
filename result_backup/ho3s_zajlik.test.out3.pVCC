@@ -1,0 +1,8 @@
+["Nom", null]	37	1	pVCC
+["Ine", null, "Nom", null]	13	2	pVCC
+["Nom", null, "Sup", null]	12	2	pVCC
+["Ine", "év", "Nom", null]	3	3	pVCC
+["Ine", "időszak", "Nom", null]	3	3	pVCC
+["Nom", null, "Sup", "terület"]	3	3	pVCC
+["Nom", "háború", "Nom=között", null]	2	3	pVCC
+["Nom", "konfliktus", "Sup", null]	2	3	pVCC

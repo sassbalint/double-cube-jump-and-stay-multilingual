@@ -1,0 +1,6 @@
+["Nom", null]	38	1	pVCC
+["Acc", null, "Nom", null]	22	2	pVCC
+["Ine", null, "Nom", null]	10	2	pVCC
+["Acc", null, "Nom", null, "Sup", null]	6	3	pVCC
+["Acc", "baleset", "Nom", null, "Sup", null]	3	4	pVCC
+["Acc", "csorba", "Nom", null]	3	3	pVCC

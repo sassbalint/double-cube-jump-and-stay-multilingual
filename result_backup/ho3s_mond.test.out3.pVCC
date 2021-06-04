@@ -1,0 +1,3 @@
+["Nom", null]	60	1	pVCC
+["Acc", null, "Nom", null]	33	2	pVCC
+["Acc", "beszéd", "Nom", null]	3	3	pVCC

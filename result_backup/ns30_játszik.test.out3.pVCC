@@ -1,0 +1,8 @@
+["Nom", null]	54	1	pVCC
+["Acc", null, "Nom", null]	25	2	pVCC
+["Acc", "meccs", "Nom", null]	5	3	pVCC
+["Acc", "mérkőzés", "Nom", null]	5	3	pVCC
+["Nom", "csapat"]	5	2	pVCC
+["Ess", "jó", "Nom", null]	3	3	pVCC
+["Ine", null, "Ins", null, "Nom", null]	3	3	pVCC
+["Ins", "hiba", "Nom", null]	3	3	pVCC

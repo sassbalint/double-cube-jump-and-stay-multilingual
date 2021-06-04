@@ -1,0 +1,29 @@
+["Nom", null]	191	1	pVCC
+["Ins", null, "Nom", null]	62	2	pVCC
+["Ill", null, "Ine", null, "Nom", null]	10	3	pVCC
+["Ins", null, "Nom", "modell"]	7	3	pVCC
+["Nom", "változat"]	7	2	pVCC
+["Ill", "kereskedés", "Nom", null]	6	3	pVCC
+["Nom", null, "Sub", "hely"]	6	3	pVCC
+["Nom", null, "Sub", "magyarország"]	6	3	pVCC
+["Ill", "márkakereskedés", "Nom", null]	4	3	pVCC
+["Ine", "fél", "Nom", null]	4	3	pVCC
+["Ins", null, "Nom", "újdonság"]	4	3	pVCC
+["Ins", "tavasz", "Nom", null]	4	3	pVCC
+["Nom", "kivitel"]	4	2	pVCC
+["Nom", "megrendelés", "Sub", null]	4	3	pVCC
+["Nom", null, "Sup", "eleje"]	4	3	pVCC
+["Ela", null, "Nom", "változat"]	3	3	pVCC
+["Ill", "kereskedés", "Ine", null, "Nom", null]	3	4	pVCC
+["Ill", "kereskedés", "Nom", null, "Sup", null]	3	4	pVCC
+["Ins", "fronthajtás", "Nom", null]	3	3	pVCC
+["Ins", "futómű", "Nom", null]	3	3	pVCC
+["Ins", "kerék", "Nom", null]	3	3	pVCC
+["Ins", "motor", "Nom", null]	3	3	pVCC
+["Nom", null, "Sub", "csúcs"]	3	3	pVCC
+["Nom", "példány", "Sup", null]	3	3	pVCC
+["Nom", "verzió"]	3	2	pVCC
+["Del", "külföld", "Nom", "gépkocsi"]	2	4	pVCC
+["Ill", null, "Nom", "típus"]	2	3	pVCC
+["Ine", null, "Nom", null, "Sub", "magyarország"]	2	4	pVCC
+["Nom", "megrendelés", "Sub", "autó", "Ter", null]	2	5	pVCC

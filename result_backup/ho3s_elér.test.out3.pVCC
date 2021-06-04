@@ -1,0 +1,13 @@
+["Acc", null, "Nom", null]	131	2	pVCC
+["Acc", "siker", "Nom", null]	14	3	pVCC
+["Acc", "cél", "Nom", null]	13	3	pVCC
+["Acc", "eredmény", "Nom", null]	13	3	pVCC
+["Acc", "szint", "Nom", null]	7	3	pVCC
+["Acc", "fő", "Nom", "létszám"]	6	4	pVCC
+["Acc", "siker", "Ine", null, "Nom", null]	5	4	pVCC
+["Acc", "siker", "Nom", null, "Sup", null]	5	4	pVCC
+["Acc", "eredmény", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "képesség", "Nom", null]	4	3	pVCC
+["Acc", "eredmény", "Ins", null, "Nom", null]	3	4	pVCC
+["Acc", null, "Nom", null, "Sup", "tér"]	3	4	pVCC
+["Acc", "sebesség", "Nom", null]	3	3	pVCC

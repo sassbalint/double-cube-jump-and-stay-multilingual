@@ -1,0 +1,6 @@
+["Nom", null]	47	1	pVCC
+["Ine", null, "Nom", null]	13	2	pVCC
+["Nom", "döntés"]	12	2	pVCC
+["Del", null, "Nom", "döntés"]	5	3	pVCC
+["Nom", "döntés", "Sup", null]	3	3	pVCC
+["Dat", null, "Ela", null, "Nom", null]	2	3	pVCC

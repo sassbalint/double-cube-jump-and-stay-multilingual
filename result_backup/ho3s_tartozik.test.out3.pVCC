@@ -1,0 +1,11 @@
+["Nom", null]	94	1	pVCC
+["Ill", null, "Nom", null]	49	2	pVCC
+["Ill", "alárendeltség", "Nom", null]	9	3	pVCC
+["Ill", "hatáskör", "Nom", null]	9	3	pVCC
+["Ill", "állomány", "Nom", null]	8	3	pVCC
+["Nom", null, "Nom=közé", "feladat"]	6	3	pVCC
+["Ill", "kategória", "Nom", null]	5	3	pVCC
+["Ill", "kör", "Nom", null]	4	3	pVCC
+["Ill", "állomány", "Ine", null, "Nom", null]	2	4	pVCC
+["Ill", "feladatkör", "Ins", "szerv", "Nom", null]	2	5	pVCC
+["Ine", "év", "Nom", null, "Nom=közé", "feladat"]	2	5	pVCC

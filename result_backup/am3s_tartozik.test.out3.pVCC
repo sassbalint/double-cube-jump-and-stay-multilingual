@@ -1,0 +1,5 @@
+["Nom", null]	65	1	pVCC
+["Nom", null, "Nom=közé", null]	21	2	pVCC
+["Ill", null, "Nom", null]	17	2	pVCC
+["Ill", "szegmens", "Ine", null, "Nom", null, "Sup", null]	2	5	pVCC
+["Nom", "modell", "Nom=közé", null]	2	3	pVCC

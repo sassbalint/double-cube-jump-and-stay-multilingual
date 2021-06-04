@@ -1,0 +1,13 @@
+["Acc", null, "Nom", null]	125	2	pVCC
+["Acc", null, "Nom", null, "Sup", "sorsjegy"]	20	4	pVCC
+["Acc", "találat", "Nom", null, "Sup", "szelvény"]	19	5	pVCC
+["Acc", "találat", "Nom", null, "Sup", "sorsjegy"]	10	5	pVCC
+["Acc", "siker", "Nom", null]	9	3	pVCC
+["Acc", "győzelem", "Nom", null]	8	3	pVCC
+["Acc", "cél", "Nom", null]	4	3	pVCC
+["Acc", "győzelem", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "eredmény", "Ine", null, "Nom", null]	3	4	pVCC
+["Acc", "gól", "Nom", null]	3	3	pVCC
+["Acc", "siker", "Nom", null, "Sup", null]	3	4	pVCC
+["Acc", "győzelem", "Nom", null, "Nom=ellen", null]	2	4	pVCC
+["Acc", null, "Ins", "munka", "Nom", null]	2	4	pVCC

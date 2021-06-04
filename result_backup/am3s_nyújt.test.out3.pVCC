@@ -1,0 +1,12 @@
+["Acc", null, "Nom", null]	84	2	pVCC
+["Acc", "teljesítmény", "Nom", null]	9	3	pVCC
+["Acc", "élmény", "Nom", null]	8	3	pVCC
+["Acc", "finanszírozás", "Nom", "leasing"]	7	4	pVCC
+["Acc", "segítség", "Nom", null]	7	3	pVCC
+["Acc", "védelem", "Nom", null]	6	3	pVCC
+["Acc", null, "Nom", "mini"]	3	3	pVCC
+["Acc", "szolgáltatás", "Nom", null]	3	3	pVCC
+["Acc", "teljesítmény", "Nom", null, "Sup", null]	3	4	pVCC
+["Nom", "karosszéria"]	3	2	pVCC
+["Acc", "férőhely", "Dat", "felnőtt", "Nom", null]	2	5	pVCC
+["Acc", "segítség", "All", "elkészítés", "Nom", null]	2	5	pVCC

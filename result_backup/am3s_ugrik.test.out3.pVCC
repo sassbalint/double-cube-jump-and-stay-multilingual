@@ -1,0 +1,4 @@
+["Nom", null]	25	1	pVCC
+["Nom", null, "Sub", null]	12	2	pVCC
+["Nom", null, "Nom=alatt", "másodperc", "Sub", null]	4	4	pVCC
+["Nom", null, "Sup", "tabella"]	2	3	pVCC

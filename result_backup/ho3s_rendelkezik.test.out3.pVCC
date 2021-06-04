@@ -1,0 +1,21 @@
+["Ins", null, "Nom", null]	175	2	pVCC
+["Ins", "képesség", "Nom", null]	9	3	pVCC
+["Ins", "tapasztalat", "Nom", null]	8	3	pVCC
+["Ins", "erő", "Nom", null]	6	3	pVCC
+["Ins", null, "Nom", "honvédség"]	6	3	pVCC
+["Ins", "eszköz", "Nom", null]	4	3	pVCC
+["Ins", "többlet", "Nom", null]	4	3	pVCC
+["Del", null, "Ins", "információ", "Nom", null]	3	4	pVCC
+["Ine", "időszak", "Ins", null, "Nom", null]	3	4	pVCC
+["Ins", "fegyver", "Nom", null]	3	3	pVCC
+["Ins", "kredit", "Nom", null]	3	3	pVCC
+["Ins", null, "Nom", "munkavállaló"]	3	3	pVCC
+["Ins", null, "Nom", "szervezet"]	3	3	pVCC
+["Ins", "rendszer", "Nom", null]	3	3	pVCC
+["Ins", "végzettség", "Nom", null]	3	3	pVCC
+["Del", null, "Ins", "ismeret", "Nom", null]	2	4	pVCC
+["Del", null, "Ins", null, "Nom", "intézkedés"]	2	4	pVCC
+["Ess", null, "Ins", null, "Nom", null, "Tem", null]	2	4	pVCC
+["Ins", "erő", "Nom", "kormány"]	2	4	pVCC
+["Ins", null, "Nom", null, "Sup", "alap"]	2	4	pVCC
+["Ins", "tapasztalat", "Nom", null, "Sup", "tér"]	2	5	pVCC

@@ -1,0 +1,3 @@
+["Nom", null]	28	1	pVCC
+["Ine", null, "Nom", null]	8	2	pVCC
+["Nom", null, "Sup", "szint"]	3	3	pVCC

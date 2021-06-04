@@ -1,0 +1,11 @@
+["Acc", null, "Nom", null]	67	2	pVCC
+["Acc", "győzelem", "Nom", null]	16	3	pVCC
+["Acc", "pozíció", "Nom", null]	9	3	pVCC
+["Acc", "cím", "Nom", null]	6	3	pVCC
+["Acc", "győzelem", "Nom", null, "Sup", null]	5	4	pVCC
+["Acc", "hely", "Nom", null]	3	3	pVCC
+["Acc", null, "Ins", null, "Nom", null, "Sup", null]	3	4	pVCC
+["Acc", null, "Nom", "márka"]	3	3	pVCC
+["Acc", "tulajdonjog", "Nom", null]	3	3	pVCC
+["Nom", "pol"]	3	2	pVCC
+["Acc", "pole", "Ins", null, "Nom", null]	2	4	pVCC

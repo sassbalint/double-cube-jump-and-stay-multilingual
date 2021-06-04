@@ -1,0 +1,10 @@
+["Nom", null]	127	1	pVCC
+["Nom", null, "Sup", null]	38	2	pVCC
+["Nom", null, "Sup", "hely"]	19	3	pVCC
+["Acc", "munka", "Nom", null]	12	3	pVCC
+["Nom", null, "Sup", "él"]	8	3	pVCC
+["Ine", null, "Nom", null, "Sup", "hely"]	6	4	pVCC
+["Ine", null, "Nom", null, "Sup", "él"]	3	4	pVCC
+["Ins", null, "Nom", null, "Sub", null]	3	3	pVCC
+["Ins", null, "Nom", null, "Sup", "él"]	2	4	pVCC
+["Nom", null, "Nom=ellen", null, "Sub", "döntetlen"]	2	4	pVCC

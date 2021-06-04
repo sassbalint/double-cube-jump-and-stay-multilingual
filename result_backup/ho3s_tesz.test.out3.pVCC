@@ -1,0 +1,39 @@
+["Acc", null, "Nom", null]	263	2	pVCC
+["Acc", null, "Nom", null, "Tra", null]	111	3	pVCC
+["Acc", null, "Nom", null, "Tra", "lehető"]	42	4	pVCC
+["Acc", null, "Ine", "érdek", "Nom", null]	14	4	pVCC
+["Acc", "javaslat", "Nom", null, "Sub", null]	12	4	pVCC
+["Acc", "szer", "Nom", null, "Sub", null]	10	4	pVCC
+["Acc", "elég", "Dat", null, "Nom", null]	8	4	pVCC
+["Acc", null, "Nom", null, "Tra", "szükséges"]	8	4	pVCC
+["Nom", null, "Tra", "nyilvánvaló"]	7	3	pVCC
+["Acc", "erőfeszítés", "Ine", "érdek", "Nom", null]	6	5	pVCC
+["Acc", "említés", "Del", null, "Nom", null]	5	4	pVCC
+["Acc", "lépés", "Nom", null]	5	3	pVCC
+["Acc", null, "Nom", null, "Sub", null, "Tra", "alkalmas"]	5	5	pVCC
+["Acc", null, "Nom", null, "Sup", "sor"]	5	4	pVCC
+["Acc", "jó", "Dat", null, "Nom", null]	4	4	pVCC
+["Acc", "kérdés", "Nom", null]	4	3	pVCC
+["Acc", null, "Ess", "követő", "Nom", null]	4	4	pVCC
+["Acc", null, "Nom", "katona"]	4	3	pVCC
+["Acc", null, "Nom", null, "Sup", "terület", "Tra", null]	4	5	pVCC
+["Acc", null, "Nom", null, "Tra", "hatékony"]	4	4	pVCC
+["Acc", "vizsga", "Nom", null]	4	3	pVCC
+["Nom", null, "Tra", "egyértelmű"]	4	3	pVCC
+["Acc", "dolog", "Nom", null]	3	3	pVCC
+["Acc", "elég", "Dat", "követelmény", "Nom", null]	3	5	pVCC
+["Acc", "elég", "Dat", null, "Ine", null, "Nom", null]	3	5	pVCC
+["Acc", "élet", "Nom", null]	3	3	pVCC
+["Acc", "erőfeszítés", "Ess", null, "Ine", "érdek", "Nom", null]	3	6	pVCC
+["Acc", "használat", "Nom", null, "Tra", null]	3	4	pVCC
+["Acc", "kísérlet", "Ine", null, "Nom", null, "Sub", null]	3	5	pVCC
+["Acc", null, "Nom", null, "Tra", "lehetetlen"]	3	4	pVCC
+["Acc", null, "Nom", null, "Tra", "sebezhető"]	3	4	pVCC
+["Acc", "sok", "Cau", null, "Nom", null]	3	4	pVCC
+["Nom", null, "Sub", null, "Tra", "képes"]	3	4	pVCC
+["Nom", null, "Tra", "közkincs"]	3	3	pVCC
+["Acc", "megállapítás", "Nom", null, "Sup", "sor"]	2	5	pVCC
+["Acc", null, "Ine", "érdek", "Nom", null, "Sup", "szint"]	2	6	pVCC
+["Acc", null, "Nom", null, "Nom=között", null, "Sup", null, "Tra", null]	2	5	pVCC
+["Acc", null, "Nom", null, "Sup", "terület", "Tra", "lehető"]	2	6	pVCC
+["Acc", null, "Nom", null, "Tra", "indokolt"]	2	4	pVCC

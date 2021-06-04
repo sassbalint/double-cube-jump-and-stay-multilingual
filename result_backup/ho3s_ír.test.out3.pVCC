@@ -1,0 +1,10 @@
+["Acc", null, "Nom", null]	68	2	pVCC
+["Acc", null, "Ine", null, "Nom", null]	24	3	pVCC
+["Acc", null, "Ine", null, "Nom", null, "Sub", null]	6	4	pVCC
+["Acc", "következő", "Nom", null]	4	3	pVCC
+["Acc", "szerződés", "Nom", null]	4	3	pVCC
+["Acc", "nyilatkozat", "Nom", null]	3	3	pVCC
+["Nom", "szerző"]	3	2	pVCC
+["Acc", "név", "Ine", null, "Nom", null]	2	4	pVCC
+["Acc", "tender", "Ine", null, "Nom", null, "Sub", "beszerzés"]	2	6	pVCC
+["Acc", "tender", "Nom", null, "Nom=szerint", null]	2	4	pVCC

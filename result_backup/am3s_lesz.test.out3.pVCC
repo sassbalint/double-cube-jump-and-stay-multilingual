@@ -1,0 +1,112 @@
+["Nom", null]	986	1	pVCC
+["Nom", "elérhető"]	19	2	pVCC
+["Nom", "jó"]	17	2	pVCC
+["Nom", "modell"]	17	2	pVCC
+["Ine", "kivitel", "Nom", null]	13	3	pVCC
+["Nom", "újdonság"]	13	2	pVCC
+["Nom", "világbajnok"]	13	2	pVCC
+["Ess", "hasonló", "Nom", null]	11	3	pVCC
+["Ine", null, "Nom", "elérhető"]	11	3	pVCC
+["Nom", "kapható"]	10	2	pVCC
+["Ine", "eset", "Nom", null]	9	3	pVCC
+["Nom", "szükség", "Sub", null]	9	3	pVCC
+["Ins", null, "Nom", "modell"]	8	3	pVCC
+["Nom", "kettő"]	8	2	pVCC
+["Nom", "autó"]	7	2	pVCC
+["Nom", null, "Sup", "piac"]	7	3	pVCC
+["Nom", "verseny"]	7	2	pVCC
+["Ine", null, "Nom", "világbajnok"]	6	3	pVCC
+["INF", null, "Nom", "nehéz"]	6	3	pVCC
+["Ins", "benzinmotor", "Nom", null]	6	3	pVCC
+["Ins", "motor", "Nom", null]	6	3	pVCC
+["Ins", null, "Nom", "elérhető"]	6	3	pVCC
+["Ins", "összkerékhajtás", "Nom", null]	6	3	pVCC
+["Nom", "dolog"]	6	2	pVCC
+["Ess", "várható", "Nom", null]	5	3	pVCC
+["Ine", "haza", "Nom", null]	5	3	pVCC
+["Ine", null, "Nom", "modell"]	5	3	pVCC
+["Ins", "váltó", "Nom", null]	5	3	pVCC
+["Nom", "népszerű"]	5	2	pVCC
+["Nom", "széles"]	5	2	pVCC
+["Nom", "típus"]	5	2	pVCC
+["Nom", "változat"]	5	2	pVCC
+["Nom", "verzió"]	5	2	pVCC
+["Abl", null, "Nom", "kapható"]	4	3	pVCC
+["Dat", null, "Nom", "hely"]	4	3	pVCC
+["Ess", "biztos", "Nom", null]	4	3	pVCC
+["Ess", "követő", "Nom", null]	4	3	pVCC
+["Ess", null, "Nom", "elérhető"]	4	3	pVCC
+["Ine", "kivitel", "Nom", "elérhető"]	4	4	pVCC
+["Ine", "mezőny", "Nom", null]	4	3	pVCC
+["INF", null, "Nom", "képes"]	4	3	pVCC
+["Ins", "lóerő", "Nom", null]	4	3	pVCC
+["Ins", null, "Nom", "újdonság"]	4	3	pVCC
+["Nom", "”"]	4	2	pVCC
+["Nom", "érmes"]	4	2	pVCC
+["Nom", "év"]	4	2	pVCC
+["Nom", "gond"]	4	2	pVCC
+["Nom", "lehetőség", "Sub", null]	4	3	pVCC
+["Nom", "lóerő"]	4	2	pVCC
+["Nom", "lóerős"]	4	2	pVCC
+["Nom", "nagy"]	4	2	pVCC
+["Nom", null, "Nom=szerint", "hír"]	4	3	pVCC
+["Nom", null, "Nom=szerint", "terv"]	4	3	pVCC
+["Nom", "összkerékhajtás"]	4	2	pVCC
+["Nom", "pálya"]	4	2	pVCC
+["Nom", "probléma"]	4	2	pVCC
+["Nom", "szabadidő"]	4	2	pVCC
+["Nom", "turbómotor"]	4	2	pVCC
+["Nom", "utód"]	4	2	pVCC
+["All", null, "Nom", "szükség", "Sub", null]	3	4	pVCC
+["Dat", null, "Nom", "dolog"]	3	3	pVCC
+["Dat", null, "Nom", "vég"]	3	3	pVCC
+["Ine", "anglia", "Nom", null]	3	3	pVCC
+["Ine", "európa", "Nom", null]	3	3	pVCC
+["Ine", "jövő", "Nom", null]	3	3	pVCC
+["Ine", null, "Nom", "kapható"]	3	3	pVCC
+["Ine", null, "Nom", "újdonság"]	3	3	pVCC
+["Ine", "ország", "Nom", null]	3	3	pVCC
+["Ine", "történet", "Nom", null]	3	3	pVCC
+["Ins", "centi", "Nom", null]	3	3	pVCC
+["Ins", "mercedes", "Nom", null]	3	3	pVCC
+["Ins", null, "Nom", "világbajnok"]	3	3	pVCC
+["Nom", "„"]	3	2	pVCC
+["Nom", "biztonságos"]	3	2	pVCC
+["Nom", "érzés"]	3	2	pVCC
+["Nom", "győztes"]	3	2	pVCC
+["Nom", "hajtáslánc"]	3	2	pVCC
+["Nom", "hibrid"]	3	2	pVCC
+["Nom", "kivitel"]	3	2	pVCC
+["Nom", "márka"]	3	2	pVCC
+["Nom", "meglepő"]	3	2	pVCC
+["Nom", "megvásárolható"]	3	2	pVCC
+["Nom", "mercedes"]	3	2	pVCC
+["Nom", null, "Nom=után", "ez"]	3	3	pVCC
+["Nom", null, "Sup", "eset"]	3	3	pVCC
+["Nom", null, "Sup", "magyarország"]	3	3	pVCC
+["Nom", null, "Sup", "mód"]	3	3	pVCC
+["Nom", null, "Sup", "pálya"]	3	3	pVCC
+["Nom", null, "Sup", "sor"]	3	3	pVCC
+["Nom", "olcsó"]	3	2	pVCC
+["Nom", "partner"]	3	2	pVCC
+["Nom", "rivális"]	3	2	pVCC
+["Nom", "sík"]	3	2	pVCC
+["Nom", "tag"]	3	2	pVCC
+["Nom", "touran"]	3	2	pVCC
+["Nom", "újonc"]	3	2	pVCC
+["Nom", "utastér"]	3	2	pVCC
+["Nom", "váltó"]	3	2	pVCC
+["Nom", "vb"]	3	2	pVCC
+["Nom", "versenyképes"]	3	2	pVCC
+["Abl", "2016", "Nom", "kapható"]	2	4	pVCC
+["Del", null, "Nom", "szó"]	2	3	pVCC
+["Ela", "jóvolta", "Nom", "öblös"]	2	4	pVCC
+["Ess", "éves", "Nom", null, "Sup", "hónapos"]	2	5	pVCC
+["Ine", "250", "Nom", "ktm"]	2	4	pVCC
+["Ine", "2", "Ins", null, "Nom", null]	2	4	pVCC
+["Ine", "íz", "Nom", null, "Sup", null]	2	4	pVCC
+["Ine", "kezdet", "Ins", "benzinmotor", "Nom", null]	2	5	pVCC
+["Ine", "móka", "Nom", "rész"]	2	4	pVCC
+["Ine", null, "Nom", "dobogós", "Sup", null]	2	4	pVCC
+["INF", null, "Nom", "érdemes"]	2	3	pVCC
+["Ins", null, "Nom", "választható"]	2	3	pVCC

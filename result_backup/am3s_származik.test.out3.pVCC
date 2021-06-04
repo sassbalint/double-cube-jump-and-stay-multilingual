@@ -1,0 +1,3 @@
+["Nom", null]	23	1	pVCC
+["Ela", null, "Nom", null]	13	2	pVCC
+["Ela", "motor", "Nom", null]	3	3	pVCC

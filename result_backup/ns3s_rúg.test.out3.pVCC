@@ -1,0 +1,9 @@
+["Acc", null, "Nom", null]	23	2	pVCC
+["Acc", "labda", "Nom", null]	7	3	pVCC
+["Acc", "gól", "Nom", null]	5	3	pVCC
+["Acc", "gól", "Dat", null, "Nom", null]	2	4	pVCC
+["Acc", "labda", "Del", "méter", "Ill", null, "Nom", null]	2	6	pVCC
+["Acc", "labda", "Ins", "jobb", "Nom", null]	2	5	pVCC
+["Ill", "labda", "Ins", null, "Nom", null]	2	4	pVCC
+["Nom", null, "Sub", "kapu"]	2	3	pVCC
+["Nom", null, "Sup", "meccs"]	2	3	pVCC

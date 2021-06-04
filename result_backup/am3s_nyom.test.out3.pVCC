@@ -1,0 +1,5 @@
+["Acc", null, "Nom", null]	29	2	pVCC
+["Acc", "kg", "Nom", null, "Sup", "mérleg"]	6	5	pVCC
+["Acc", "gázpedál", "Nom", null]	4	3	pVCC
+["Acc", "kevés", "Nom", null, "Sup", "mérleg"]	4	5	pVCC
+["Acc", "gáz", "Nom", null]	3	3	pVCC

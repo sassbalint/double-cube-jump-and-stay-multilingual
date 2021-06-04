@@ -1,0 +1,6 @@
+["Acc", null, "Nom", null]	64	2	pVCC
+["Acc", "cél", "Nom", null]	3	3	pVCC
+["Acc", "feladat", "Nom", null]	3	3	pVCC
+["Acc", "megnevezés", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "dokumentum"]	3	3	pVCC
+["Acc", null, "Nom", "program"]	3	3	pVCC

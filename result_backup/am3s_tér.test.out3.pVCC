@@ -1,0 +1,6 @@
+["Nom", null]	34	1	pVCC
+["Ins", null, "Nom", null]	9	2	pVCC
+["Nom", null, "Nom=után", null]	9	2	pVCC
+["All", "maga", "Nom", null]	5	3	pVCC
+["Ill", null, "Nom", null, "Nom=után", "kihagyás"]	2	4	pVCC
+["Ins", null, "Nom", null, "Nom=után", "év", "Sub", "dakar"]	2	6	pVCC

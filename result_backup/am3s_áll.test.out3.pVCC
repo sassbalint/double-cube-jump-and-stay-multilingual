@@ -1,0 +1,37 @@
+["Nom", null]	350	1	pVCC
+["Nom", null, "Sub", null]	126	2	pVCC
+["Ine", null, "Nom", null]	95	2	pVCC
+["Nom", null, "Sub", "rendelkezés"]	54	3	pVCC
+["Nom", null, "Sub", "dobogó"]	31	3	pVCC
+["All", "rajt", "Nom", null]	23	3	pVCC
+["Ins", null, "Nom", null, "Sub", "rendelkezés"]	15	4	pVCC
+["Ine", null, "Nom", null, "Sub", "él"]	10	4	pVCC
+["All", "rajt", "Ins", null, "Nom", null]	9	4	pVCC
+["Dat", null, "Ess", "jó", "Nom", null]	9	4	pVCC
+["All", "rajt", "Ine", null, "Nom", null]	8	4	pVCC
+["Nom", null, "Sup", "hely"]	7	3	pVCC
+["Ins", "váltó", "Nom", null, "Sub", "rendelkezés"]	6	5	pVCC
+["Nom", null, "Sup", "él"]	6	3	pVCC
+["Ine", "szög", "Nom", null]	5	3	pVCC
+["Ins", "lóerő", "Nom", null, "Sub", "rendelkezés"]	5	5	pVCC
+["Nom", "autó"]	5	2	pVCC
+["Nom", "motor"]	5	2	pVCC
+["Ine", "kör", "Nom", null, "Sub", "él"]	4	5	pVCC
+["All", "rajt", "Ins", null, "Nom", null, "Sup", "verseny"]	3	6	pVCC
+["Dat", "autó", "Ess", "jó", "Nom", null]	3	5	pVCC
+["Ela", "lökhárító", "Nom", null]	3	3	pVCC
+["Ess", "kész", "Nom", null, "Sub", null]	3	4	pVCC
+["Ess", "természetes", "Nom", null]	3	3	pVCC
+["Ill", "szolgálat", "Nom", null]	3	3	pVCC
+["Ine", "háttér", "Nom", null]	3	3	pVCC
+["Ine", "íz", "Nom", null, "Sub", "dobogó"]	3	5	pVCC
+["Ine", null, "Nom", null, "Sub", "tető"]	3	4	pVCC
+["Nom", null, "Sub", "fok"]	3	3	pVCC
+["Nom", null, "Sup", "dobogó"]	3	3	pVCC
+["Nom", null, "Sup", "lista"]	3	3	pVCC
+["Ade", null, "Ine", "középpont", "Nom", null]	2	4	pVCC
+["Ill", "forgalom", "Nom", null, "Ter", "vég"]	2	5	pVCC
+["Ine", "ellentét", "Ins", "stílus", "Nom", null]	2	5	pVCC
+["Ine", "kapcsolat", "Ins", null, "Nom", null]	2	4	pVCC
+["Ine", "összetett", "Nom", null, "Sup", null]	2	4	pVCC
+["Ins", "helyezés", "Nom", null, "Sub", "él"]	2	5	pVCC

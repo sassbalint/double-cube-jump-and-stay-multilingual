@@ -1,0 +1,16 @@
+["Nom", null, "Tra", null]	174	2	pVCC
+["Nom", null, "Tra", "nyilvánvaló"]	13	3	pVCC
+["Nom", null, "Tra", "lehető"]	6	3	pVCC
+["Ess", "eredmény", "Nom", null, "Tra", null]	4	4	pVCC
+["Nom", null, "Sub", "ma", "Tra", null]	4	4	pVCC
+["Nom", null, "Sup", "sor", "Tra", null]	4	4	pVCC
+["Nom", null, "Tra", "egyértelmű"]	4	3	pVCC
+["Nom", null, "Tra", "szükséges"]	4	3	pVCC
+["Dat", null, "Nom", null, "Tra", "rész"]	3	4	pVCC
+["Ess", "követő", "Nom", null, "Tra", null]	3	4	pVCC
+["Ine", null, "Nom", null, "Tra", "nyilvánvaló"]	3	4	pVCC
+["Nom", "gyakorlat", "Tra", null]	3	3	pVCC
+["Nom", null, "Tra", "általános"]	3	3	pVCC
+["Nom", null, "Tra", "feszült"]	3	3	pVCC
+["Nom", null, "Tra", "tag"]	3	3	pVCC
+["Nom", "terület", "Tra", null]	3	3	pVCC

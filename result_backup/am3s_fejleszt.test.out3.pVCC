@@ -1,0 +1,6 @@
+["Acc", null, "Nom", null]	41	2	pVCC
+["Acc", null, "Ess", "folyamatos", "Nom", null]	4	4	pVCC
+["Ess", "közös", "Nom", null]	4	3	pVCC
+["Acc", "generáció", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "suzuki"]	3	3	pVCC
+["Acc", "rendszer", "Nom", null]	3	3	pVCC

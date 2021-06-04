@@ -1,0 +1,4 @@
+["Nom", null]	30	1	pVCC
+["Nom", null, "Sup", null]	8	2	pVCC
+["Nom", "támadás"]	3	2	pVCC
+["Ins", null, "Nom", null, "Sub", "felszámolás"]	2	4	pVCC

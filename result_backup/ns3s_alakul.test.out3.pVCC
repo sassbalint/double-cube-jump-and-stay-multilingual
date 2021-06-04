@@ -1,0 +1,4 @@
+["Nom", null]	70	1	pVCC
+["Ess", "következő", "Nom", null]	20	3	pVCC
+["Nom", "idény"]	4	2	pVCC
+["Nom", null, "Nom=szerint", "terv"]	4	3	pVCC

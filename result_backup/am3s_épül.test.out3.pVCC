@@ -1,0 +1,6 @@
+["Nom", null, "Sub", null]	38	2	pVCC
+["Nom", null, "Sub", "platform"]	15	3	pVCC
+["Nom", null, "Sub", "padlólemez"]	8	3	pVCC
+["Nom", null, "Sub", "alap"]	6	3	pVCC
+["Nom", "modell", "Sub", null]	3	3	pVCC
+["Nom", null, "Sub", "váz"]	3	3	pVCC

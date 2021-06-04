@@ -1,0 +1,14 @@
+["Nom", null]	118	1	pVCC
+["Ess", null, "Nom", null]	37	2	pVCC
+["Acc", null, "Nom", null]	35	2	pVCC
+["Ine", null, "Nom", null]	33	2	pVCC
+["Ine", null, "Nom", "katona"]	5	3	pVCC
+["Acc", "cél", "Nom", null]	4	3	pVCC
+["Acc", "érdek", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "rendszer"]	3	3	pVCC
+["Ess", "alap", "Nom", null]	3	3	pVCC
+["Ess", "modell", "Nom", null]	3	3	pVCC
+["Ine", "állomány", "Nom", null]	3	3	pVCC
+["Ine", null, "Nom", "tiszt"]	3	3	pVCC
+["Ess", null, "Ins", "információ", "Nom", null]	2	4	pVCC
+["Ine", null, "Nom", null, "Sup", "parancsnokság"]	2	4	pVCC

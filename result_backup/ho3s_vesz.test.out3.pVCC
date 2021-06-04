@@ -1,0 +1,25 @@
+["Acc", null, "Nom", null]	296	2	pVCC
+["Acc", "rész", "Ine", null, "Nom", null]	112	4	pVCC
+["Acc", "rész", "Nom", null, "Sup", null]	56	4	pVCC
+["Acc", null, "Ill", "figyelem", "Nom", null]	26	4	pVCC
+["Acc", null, "Ill", "igény", "Nom", null]	24	4	pVCC
+["Acc", "kezdet", "Nom", null]	15	3	pVCC
+["Acc", null, "Ess", "követő", "Nom", null]	6	4	pVCC
+["Acc", "rész", "Ess", "aktív", "Ine", null, "Nom", null]	5	6	pVCC
+["Acc", "kezdet", "Ins", null, "Nom", null]	4	4	pVCC
+["Acc", "eleje", "Dat", null, "Nom", null]	3	4	pVCC
+["Acc", "feladat", "Nom", null]	3	3	pVCC
+["Acc", "kezdet", "Ine", null, "Nom", null]	3	4	pVCC
+["Acc", null, "Nom", null, "Sup", "tér"]	3	4	pVCC
+["Acc", "rész", "Ess", "követő", "Nom", null, "Sup", null]	3	6	pVCC
+["Acc", "rész", "Ine", "munkálat", "Nom", "helikopter"]	3	6	pVCC
+["Acc", "anyag", "Ill", "kéz", "Nom", null]	2	5	pVCC
+["Acc", null, "Ill", "figyelem", "Nom", null, "Sup", "sor"]	2	6	pVCC
+["Acc", null, "Ill", "igény", "Ine", "érdek", "Nom", null]	2	6	pVCC
+["Acc", null, "Ine", null, "Nom", "erő"]	2	4	pVCC
+["Acc", null, "Ins", null, "Nom", null, "Sup", "alap"]	2	5	pVCC
+["Acc", "ok", "Nom", null, "Sub", "sor"]	2	5	pVCC
+["Acc", "rész", "Ess", "aktív", "Ine", "munka", "Nom", null, "Ter", null]	2	8	pVCC
+["Acc", "szolgáltatás", "Ess", null, "Ill", "igény", "Nom", null]	2	6	pVCC
+["Ess", null, "Nom", "személy"]	2	3	pVCC
+["Ill", "igény", "Nom", null, "Sup", "sor"]	2	5	pVCC

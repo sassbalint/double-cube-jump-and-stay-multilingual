@@ -1,0 +1,4 @@
+["Acc", null, "Nom", null]	22	2	pVCC
+["Acc", "repülőgép", "Nom", null]	3	3	pVCC
+["Abl", null, "Acc", null, "Ine", "érték", "Nom", null]	2	5	pVCC
+["Acc", null, "Ess", null, "Ine", null, "Nom", null]	2	4	pVCC

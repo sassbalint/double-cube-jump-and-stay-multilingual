@@ -1,0 +1,20 @@
+["Acc", null, "Nom", null]	123	2	pVCC
+["Acc", null, "Ine", null, "Nom", null]	37	3	pVCC
+["Acc", "feladat", "Nom", null]	10	3	pVCC
+["Acc", "művelet", "Nom", null]	10	3	pVCC
+["Acc", "gyakorlat", "Nom", null]	7	3	pVCC
+["Acc", "akció", "Nom", null]	4	3	pVCC
+["Acc", "feladat", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "feladat", "Nom", null, "Sup", null]	4	4	pVCC
+["Acc", "gyakorlat", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "fejlesztés", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", null, "Sup", "alap"]	3	4	pVCC
+["Acc", null, "Nom", null, "Sup", "sor"]	3	4	pVCC
+["Acc", null, "Nom", "repülőgép"]	3	3	pVCC
+["Acc", "tevékenység", "Nom", null]	3	3	pVCC
+["Acc", null, "Ess", "követő", "Ins", null, "Nom", null]	2	5	pVCC
+["Acc", null, "Ine", null, "Nom", "erő"]	2	4	pVCC
+["Acc", null, "Ine", null, "Nom", "katona"]	2	4	pVCC
+["Acc", null, "Nom", "helikopter"]	2	3	pVCC
+["Acc", "repülés", "Ins", null, "Nom", null]	2	4	pVCC
+["Acc", "támadás", "Nom", "tag"]	2	4	pVCC

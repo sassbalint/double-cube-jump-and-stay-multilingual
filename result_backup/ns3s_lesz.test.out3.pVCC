@@ -1,0 +1,62 @@
+["Nom", null]	766	1	pVCC
+["Nom", "jó"]	25	2	pVCC
+["Nom", "vég"]	17	2	pVCC
+["Nom", "bajnok"]	16	2	pVCC
+["Nom", "év"]	12	2	pVCC
+["Nom", "világbajnok"]	10	2	pVCC
+["Nom", "játékos"]	7	2	pVCC
+["Nom", "szükség"]	7	2	pVCC
+["Nom", "három"]	6	2	pVCC
+["Nom", "könnyű"]	6	2	pVCC
+["Nom", "nehéz"]	6	2	pVCC
+["Ela", "szempont", "Nom", null]	5	3	pVCC
+["Ine", "keret", "Nom", null]	5	3	pVCC
+["INF", null, "Nom", "jó"]	5	3	pVCC
+["Nom", "dolog"]	5	2	pVCC
+["Nom", "egyszerű"]	5	2	pVCC
+["Nom", "versenyző"]	5	2	pVCC
+["Nom", "vezetőedző"]	5	2	pVCC
+["Dat", "csapat", "Nom", null]	4	3	pVCC
+["Ess", "éves", "Nom", null]	4	3	pVCC
+["Ine", "január", "Nom", null]	4	3	pVCC
+["Nom", "csapat"]	4	2	pVCC
+["Nom", "edző"]	4	2	pVCC
+["Nom", "elégedett"]	4	2	pVCC
+["Nom", "esély"]	4	2	pVCC
+["Nom", "feladat"]	4	2	pVCC
+["Nom", "idő"]	4	2	pVCC
+["Nom", "képes"]	4	2	pVCC
+["Nom", "kettő"]	4	2	pVCC
+["Nom", "lehetőség"]	4	2	pVCC
+["Nom", null, "Sup", "vég"]	4	3	pVCC
+["Nom", null, "Sup", "világbajnokság"]	4	3	pVCC
+["Nom", "sok"]	4	2	pVCC
+["Nom", "szükség", "Sub", null]	4	3	pVCC
+["Nom", "válogatott"]	4	2	pVCC
+["Ess", "független", "Nom", null]	3	3	pVCC
+["Ine", "jövő", "Nom", null]	3	3	pVCC
+["Ine", null, "Nom", "jó"]	3	3	pVCC
+["Ine", null, "Nom", "szükség"]	3	3	pVCC
+["Ine", "tokió", "Nom", null]	3	3	pVCC
+["INF", null, "Nom", "képtelen"]	3	3	pVCC
+["INF", null, "Nom", "nehéz"]	3	3	pVCC
+["INF", "volna", "Nom", null]	3	3	pVCC
+["Ins", null, "Nom", "jó"]	3	3	pVCC
+["Ins", "tavasz", "Nom", null]	3	3	pVCC
+["Nom", "döntő"]	3	2	pVCC
+["Nom", "egy"]	3	2	pVCC
+["Nom", "fontos"]	3	2	pVCC
+["Nom", "gond"]	3	2	pVCC
+["Nom", "kapitány"]	3	2	pVCC
+["Nom", "kevés"]	3	2	pVCC
+["Nom", "öröm"]	3	2	pVCC
+["Nom", "találkozó"]	3	2	pVCC
+["Nom", "vb"]	3	2	pVCC
+["Nom", "vendég", "Sup", null]	3	3	pVCC
+["All", null, "Dat", null, "Nom", null, "Sup", null]	2	4	pVCC
+["Dat", null, "Nom", "házigazda"]	2	3	pVCC
+["Ess", "illető", "Nom", null, "Nom=után", null]	2	4	pVCC
+["Ine", "keret", "Nom", "változás"]	2	4	pVCC
+["Ine", null, "Nom", "siker"]	2	3	pVCC
+["INF", "elszakad", "Nom", "könnyű"]	2	4	pVCC
+["Nom", "öt", "Sup", null]	2	3	pVCC

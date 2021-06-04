@@ -1,0 +1,4 @@
+["Nom", null]	40	1	pVCC
+["Nom", null, "Nom=közé", null]	16	2	pVCC
+["Nom", null, "Nom=közé", "jó"]	4	3	pVCC
+["Nom", null, "Nom=közé", "játékos"]	3	3	pVCC

@@ -1,0 +1,24 @@
+["Acc", null, "Nom", null]	164	2	pVCC
+["Acc", "rész", "Nom", null]	41	3	pVCC
+["Acc", "rész", "Nom", null, "Sup", null]	23	4	pVCC
+["Acc", "rész", "Ine", null, "Nom", null]	17	4	pVCC
+["Acc", null, "Ill", "figyelem", "Nom", null]	11	4	pVCC
+["Acc", null, "Ess", "komoly", "Nom", null]	8	4	pVCC
+["Acc", "irány", "Nom", null, "Nom=felé", null]	7	4	pVCC
+["Acc", "irányítás", "Nom", null]	5	3	pVCC
+["Ess", "tudomás", "Nom", null]	5	3	pVCC
+["Acc", "maga", "Ill", null, "Nom", null]	4	4	pVCC
+["Acc", null, "Ill", "cél", "Nom", null]	4	4	pVCC
+["Acc", null, "Ins", "siker", "Nom", null]	4	4	pVCC
+["Acc", null, "Nom", null, "Nom=alá", "górcső"]	4	4	pVCC
+["Acc", "rész", "Ine", "fogadás", "Nom", null, "Sub", "nyeremény"]	4	7	pVCC
+["Acc", "elismerés", "Nom", null]	3	3	pVCC
+["Acc", "labda", "Nom", null]	3	3	pVCC
+["Acc", "levegő", "Nom", null]	3	3	pVCC
+["Acc", "mérkőzés", "Nom", null]	3	3	pVCC
+["Acc", null, "Ill", "igény", "Nom", null]	3	4	pVCC
+["Acc", null, "Nom", null, "Sub", "biztos"]	3	4	pVCC
+["Acc", "díj", "Nom", null, "Sup", null]	2	4	pVCC
+["Acc", "irány", "Nom", null, "Nom=felé", "törökország", "Sup", null]	2	6	pVCC
+["Acc", "maga", "Ill", "küzdelem", "Ins", null, "Nom", null]	2	6	pVCC
+["Acc", null, "Ill", "kéz", "Nom", null]	2	4	pVCC

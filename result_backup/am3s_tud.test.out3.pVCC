@@ -1,0 +1,39 @@
+["Nom", null]	650	1	pVCC
+["INF", null, "Nom", null]	341	2	pVCC
+["Acc", "sok", "Nom", null]	18	3	pVCC
+["INF", "tart", "Nom", null]	12	3	pVCC
+["INF", "nyer", "Nom", null]	9	3	pVCC
+["Acc", "lóerő", "Nom", null]	7	3	pVCC
+["INF", "lesz", "Nom", null]	7	3	pVCC
+["INF", "megy", "Nom", null]	7	3	pVCC
+["Nom", "autó"]	7	2	pVCC
+["INF", "ad", "Nom", null]	6	3	pVCC
+["Ess", "jó", "Nom", null]	5	3	pVCC
+["Ess", "magyar", "Nom", null]	5	3	pVCC
+["INF", "áll", "Nom", null]	5	3	pVCC
+["INF", "mond", "Nom", null]	5	3	pVCC
+["INF", "fut", "Nom", null]	4	3	pVCC
+["INF", "gyorsít", "Nom", null]	4	3	pVCC
+["INF", "kezd", "Nom", null]	4	3	pVCC
+["INF", "megtesz", "Nom", null]	4	3	pVCC
+["INF", null, "Nom", "autó"]	4	3	pVCC
+["INF", null, "Nom", "ember"]	4	3	pVCC
+["INF", "szolgál", "Nom", null]	4	3	pVCC
+["Nom", "tulajdonos"]	4	2	pVCC
+["Acc", "kevés", "Nom", null]	3	3	pVCC
+["Acc", "lóerő", "Ine", null, "Nom", null]	3	4	pVCC
+["Ess", "könnyű", "INF", null, "Nom", null]	3	4	pVCC
+["Ess", "pontos", "Nom", null]	3	3	pVCC
+["INF", "győz", "Nom", null, "Nom=után", null]	3	4	pVCC
+["INF", "halad", "Nom", null]	3	3	pVCC
+["INF", "hoz", "Nom", null]	3	3	pVCC
+["INF", "megnyer", "Nom", null]	3	3	pVCC
+["INF", "mutat", "Nom", null]	3	3	pVCC
+["INF", null, "Nom", "motor"]	3	3	pVCC
+["INF", "okoz", "Nom", null]	3	3	pVCC
+["INF", "segít", "Nom", null]	3	3	pVCC
+["Acc", null, "Dat", "maga", "Nom", null]	2	4	pVCC
+["Acc", null, "INF", "rögzít", "Nom", null]	2	4	pVCC
+["INF", "kezd", "Nom", "futómű"]	2	4	pVCC
+["INF", null, "Nom", "hamilton"]	2	3	pVCC
+["INF", null, "Nom", "rosberg"]	2	3	pVCC

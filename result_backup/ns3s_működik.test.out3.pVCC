@@ -1,0 +1,4 @@
+["Nom", null]	39	1	pVCC
+["Ess", null, "Nom", null]	11	2	pVCC
+["Ess", "jó", "Nom", null]	4	3	pVCC
+["Ess", null, "Nom", "védekezés"]	4	3	pVCC

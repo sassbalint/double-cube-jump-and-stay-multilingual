@@ -1,0 +1,4 @@
+["Nom", null]	31	1	pVCC
+["Nom", "mérkőzés"]	6	2	pVCC
+["Nom", null, "Nom=alatt", "idő"]	2	3	pVCC
+["Nom", "sors", "Nom=között", null]	2	3	pVCC

@@ -1,0 +1,8 @@
+["Nom", null]	76	1	pVCC
+["Ine", null, "Nom", null]	26	2	pVCC
+["Ess", null, "Nom", null]	23	2	pVCC
+["Ess", "jó", "Nom", null]	5	3	pVCC
+["Nom", "csapat"]	4	2	pVCC
+["Ess", null, "Ine", "félidő", "Nom", null]	3	4	pVCC
+["Ess", null, "Nom", null, "Sup", "tétmeccs"]	2	4	pVCC
+["Nom", null, "Ter", "kor"]	2	3	pVCC

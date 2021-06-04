@@ -1,0 +1,43 @@
+["Acc", null, "Nom", null]	336	2	pVCC
+["Acc", "hely", "Ine", null, "Nom", null]	16	4	pVCC
+["Acc", null, "Nom", "modell"]	12	3	pVCC
+["Acc", null, "Nom", "autó"]	11	3	pVCC
+["Acc", "autó", "Nom", null]	7	3	pVCC
+["Acc", "motor", "Nom", null]	7	3	pVCC
+["Acc", "név", "Nom", null]	7	3	pVCC
+["Acc", null, "Nom", "újdonság"]	7	3	pVCC
+["Acc", "válasz", "Nom", null]	7	3	pVCC
+["Acc", "büntetés", "Nom", null]	5	3	pVCC
+["Acc", "defekt", "Nom", null]	5	3	pVCC
+["Acc", "hangsúly", "Nom", null]	5	3	pVCC
+["Acc", "megjelenés", "Nom", null]	5	3	pVCC
+["Acc", null, "Cau", "pénz", "Nom", null]	5	4	pVCC
+["Acc", "váltó", "Nom", null]	5	3	pVCC
+["Acc", "blokk", "Nom", null]	4	3	pVCC
+["Acc", "kép", "Del", null, "Nom", null]	4	4	pVCC
+["Acc", null, "Nom", "kocsi"]	4	3	pVCC
+["Acc", null, "Nom", "vásárló"]	4	3	pVCC
+["Acc", "segítség", "Nom", null]	4	3	pVCC
+["Acc", "szín", "Nom", null]	4	3	pVCC
+["Acc", "válasz", "Nom", null, "Sub", null]	4	4	pVCC
+["Acc", "autó", "Cau", null, "Nom", null]	3	4	pVCC
+["Acc", "betét", "Nom", null]	3	3	pVCC
+["Acc", "elismerés", "Nom", null]	3	3	pVCC
+["Acc", "ellenfél", "Nom", null]	3	3	pVCC
+["Acc", "fejlesztés", "Nom", null]	3	3	pVCC
+["Acc", "fényezés", "Nom", null]	3	3	pVCC
+["Acc", "külső", "Nom", null]	3	3	pVCC
+["Acc", "név", "Del", null, "Nom", null]	3	4	pVCC
+["Acc", null, "Ine", "eset", "Nom", null]	3	4	pVCC
+["Acc", null, "Ine", "keret", "Nom", null]	3	4	pVCC
+["Acc", null, "Nom", "motor"]	3	3	pVCC
+["Acc", null, "Nom", "ügyfél"]	3	3	pVCC
+["Acc", null, "Nom", "vezető"]	3	3	pVCC
+["Acc", "pont", "Nom", null]	3	3	pVCC
+["Acc", "szerep", "Nom", null]	3	3	pVCC
+["Acc", "visszajelzés", "Nom", null]	3	3	pVCC
+["Acc", "büntetés", "Nom", "boxutca"]	2	4	pVCC
+["Acc", "kedvezmény", "Ela", null, "Nom", null]	2	4	pVCC
+["Acc", null, "Ine", null, "Nom", null, "Sub", "lencsevég"]	2	5	pVCC
+["Acc", null, "Ine", null, "Nom", "ülés"]	2	4	pVCC
+["Acc", "rendszer", "Ine", null, "Nom", null]	2	4	pVCC

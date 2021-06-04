@@ -1,0 +1,14 @@
+["Nom", null]	150	1	pVCC
+["Ine", null, "Nom", null]	64	2	pVCC
+["Nom", null, "Sup", "terület"]	5	3	pVCC
+["Ine", "eset", "Nom", null]	4	3	pVCC
+["Ine", "keret", "Nom", null]	4	3	pVCC
+["Ine", null, "Nom", "változás"]	4	3	pVCC
+["Nom", "beszerzés"]	4	2	pVCC
+["Nom", "esemény"]	4	2	pVCC
+["Ine", "időszak", "Nom", null]	3	3	pVCC
+["Ine", null, "Nom", "„"]	3	3	pVCC
+["Ine", null, "Nom", "előrelépés"]	3	3	pVCC
+["Nom", "mindez"]	3	2	pVCC
+["Nom", null, "Sup", "alap"]	3	3	pVCC
+["Ine", "forma", "Nom", null, "Sup", null]	2	4	pVCC

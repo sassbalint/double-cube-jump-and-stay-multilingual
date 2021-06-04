@@ -1,0 +1,15 @@
+["INF", null, "Nom", null]	190	2	pVCC
+["INF", "végrehajt", "Nom", null]	6	3	pVCC
+["INF", "ad", "Nom", null]	5	3	pVCC
+["INF", "kezel", "Nom", null]	5	3	pVCC
+["Acc", null, "Nom", null, "Nom=mögött", "maga"]	3	4	pVCC
+["INF", "hajt", "Nom", null]	3	3	pVCC
+["INF", "kialakít", "Nom", null]	3	3	pVCC
+["INF", "lesz", "Nom", null]	3	3	pVCC
+["INF", "reagál", "Nom", null]	3	3	pVCC
+["INF", "segít", "Nom", null]	3	3	pVCC
+["INF", "tart", "Nom", null]	3	3	pVCC
+["INF", "véd", "Nom", null]	3	3	pVCC
+["Nom", "erő"]	3	2	pVCC
+["INF", null, "Nom", "katona"]	2	3	pVCC
+["INF", null, "Nom", null, "Sup", "alap"]	2	4	pVCC

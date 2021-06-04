@@ -1,0 +1,5 @@
+["Acc", null, "Nom", null]	45	2	pVCC
+["Acc", "gyártósor", "Nom", null]	8	3	pVCC
+["Acc", "gyártósor", "Ins", null, "Nom", null]	4	4	pVCC
+["Acc", "csapat", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", null, "Nom=után", "szezon"]	3	4	pVCC

@@ -1,0 +1,6 @@
+["Nom", null]	157	1	pVCC
+["Nom", "veretlen"]	4	2	pVCC
+["Nom", "idő", "Sub", null]	3	3	pVCC
+["Nom", "kérdés"]	3	2	pVCC
+["Ela", null, "Ine", null, "Nom", null, "Sub", null]	2	4	pVCC
+["Nom", null, "Nom=nélkül", "pont", "Sup", null]	2	4	pVCC

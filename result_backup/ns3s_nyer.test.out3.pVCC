@@ -1,0 +1,29 @@
+["Nom", null]	272	1	pVCC
+["Acc", null, "Nom", null]	88	2	pVCC
+["Acc", null, "Ine", null, "Nom", null]	28	3	pVCC
+["Acc", "cím", "Nom", null]	11	3	pVCC
+["Ess", "megérdemelt", "Nom", null]	9	3	pVCC
+["Acc", "kupa", "Nom", null]	8	3	pVCC
+["Acc", "mérkőzés", "Nom", null]	7	3	pVCC
+["Acc", null, "Ine", null, "Ins", null, "Nom", null]	7	4	pVCC
+["Ine", "idegen", "Nom", null]	7	3	pVCC
+["Ins", "gól", "Nom", null]	6	3	pVCC
+["Nom", "csapat"]	6	2	pVCC
+["Ine", "forduló", "Nom", null]	5	3	pVCC
+["Acc", "arany", "Nom", null]	4	3	pVCC
+["Acc", "bajnokság", "Ins", null, "Nom", null]	4	4	pVCC
+["Acc", "cím", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "cím", "Ins", null, "Nom", null]	4	4	pVCC
+["Acc", "bajnoki", "Ine", null, "Nom", null]	3	4	pVCC
+["Acc", "kupa", "Ine", null, "Ins", null, "Nom", null]	3	5	pVCC
+["Acc", "meccs", "Nom", null]	3	3	pVCC
+["Acc", "sok", "Nom", null]	3	3	pVCC
+["Acc", "trófea", "Nom", null]	3	3	pVCC
+["Ess", "biztos", "Nom", null]	3	3	pVCC
+["Nom", null, "Sub", "2"]	3	3	pVCC
+["Nom", null, "Sup", "meccs"]	3	3	pVCC
+["Acc", "aranyérem", "Ine", null, "Nom", null, "Sup", null]	2	5	pVCC
+["Acc", "cím", "Ine", "sorozat", "Nom", null, "Nom=között", null]	2	6	pVCC
+["Acc", null, "Ine", null, "Nom", "öt"]	2	4	pVCC
+["Acc", null, "Nom", "junior"]	2	3	pVCC
+["Acc", "verseny", "Ine", null, "Nom", null]	2	4	pVCC

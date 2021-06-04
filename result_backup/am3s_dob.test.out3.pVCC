@@ -1,0 +1,4 @@
+["Acc", null, "Nom", null, "Sub", "piac"]	23	4	pVCC
+["Acc", null, "Ine", null, "Nom", null, "Sub", "piac"]	11	5	pVCC
+["Acc", "sok", "Nom", null, "Sup", null]	3	4	pVCC
+["Acc", null, "Ine", null, "Nom", null, "Sub", "piac", "Sup", "név"]	2	7	pVCC

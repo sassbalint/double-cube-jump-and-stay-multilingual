@@ -1,0 +1,8 @@
+["INF", null, "Nom", null]	65	2	pVCC
+["INF", "bemutat", "Nom", null]	4	3	pVCC
+["INF", "vásárol", "Nom", null]	4	3	pVCC
+["INF", "állomásozik", "Nom", null]	3	3	pVCC
+["INF", "felvált", "Nom", null]	3	3	pVCC
+["INF", "kialakít", "Nom", null]	3	3	pVCC
+["INF", "megvalósít", "Nom", null]	3	3	pVCC
+["Ess", null, "INF", null, "Ine", null, "Nom", null]	2	4	pVCC

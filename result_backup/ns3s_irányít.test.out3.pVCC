@@ -1,0 +1,4 @@
+["Acc", null, "Nom", null]	22	2	pVCC
+["Acc", "csapat", "Nom", null]	4	3	pVCC
+["Nom", "vezetőedző"]	3	2	pVCC
+["Nom", null, "Sup", "mérkőzés"]	2	3	pVCC

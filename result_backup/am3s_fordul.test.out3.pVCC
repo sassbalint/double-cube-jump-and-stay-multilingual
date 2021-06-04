@@ -1,0 +1,8 @@
+["Nom", null]	82	1	pVCC
+["Ess", "stabil", "Nom", null]	8	3	pVCC
+["Ins", "oldaldőlés", "Nom", null]	5	3	pVCC
+["Ill", "irány", "Nom", null]	4	3	pVCC
+["Ine", "íz", "Nom", null]	3	3	pVCC
+["Nom", "kerék"]	3	2	pVCC
+["Acc", null, "Ade", null, "Nom", "főtengely"]	2	4	pVCC
+["Ess", null, "Nom", "autó"]	2	3	pVCC

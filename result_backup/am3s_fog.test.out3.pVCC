@@ -1,0 +1,11 @@
+["Nom", null]	148	1	pVCC
+["INF", null, "Nom", null]	85	2	pVCC
+["Acc", null, "Nom", null]	51	2	pVCC
+["Acc", "út", "Ess", null, "Nom", null]	9	4	pVCC
+["Acc", "út", "Ess", "határozott", "Nom", null]	5	5	pVCC
+["INF", "használ", "Nom", null]	3	3	pVCC
+["Acc", "kormány", "Ine", null, "Nom", null]	2	4	pVCC
+["Acc", null, "Ine", null, "Nom", null, "Sup", null]	2	4	pVCC
+["Acc", null, "Nom", null, "Sub", "munka"]	2	4	pVCC
+["Ess", null, "Nom", "„"]	2	3	pVCC
+["INF", "tud", "Ine", null, "Nom", null]	2	4	pVCC

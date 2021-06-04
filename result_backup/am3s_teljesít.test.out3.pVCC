@@ -1,0 +1,11 @@
+["Acc", null, "Nom", null]	57	2	pVCC
+["Acc", "lóerő", "Nom", null]	21	3	pVCC
+["Acc", "lóerő", "Ine", null, "Nom", null]	6	4	pVCC
+["Acc", "táv", "Nom", null]	4	3	pVCC
+["Ess", null, "Ine", null, "Nom", null]	4	3	pVCC
+["Acc", "sprint", "Nom", null, "Nom=alatt", "másodperc"]	3	5	pVCC
+["Acc", "lóerő", "Ine", null, "Nom", "turbómotor"]	2	5	pVCC
+["Acc", "lóerő", "Ine", "típus", "Nom", "motor"]	2	6	pVCC
+["Acc", "norma", "Ess", null, "Nom", "euro"]	2	5	pVCC
+["Acc", null, "Nom", "erőforrás"]	2	3	pVCC
+["Acc", null, "Nom", "versenyző"]	2	3	pVCC

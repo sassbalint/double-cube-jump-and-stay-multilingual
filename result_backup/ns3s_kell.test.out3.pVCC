@@ -1,0 +1,37 @@
+["INF", null, "Nom", null]	435	2	pVCC
+["INF", "lesz", "Nom", null]	14	3	pVCC
+["INF", "dolgozik", "Nom", null]	10	3	pVCC
+["INF", "küzd", "Nom", null]	9	3	pVCC
+["INF", "tesz", "Nom", null]	9	3	pVCC
+["INF", "vár", "Nom", null]	8	3	pVCC
+["Nom", "idő"]	8	2	pVCC
+["INF", "dönt", "Nom", null]	7	3	pVCC
+["INF", "mond", "Nom", null]	7	3	pVCC
+["INF", "tanul", "Nom", null]	7	3	pVCC
+["Dat", "csapat", "INF", null, "Nom", null]	6	4	pVCC
+["INF", "ismer", "Nom", null]	6	3	pVCC
+["INF", "játszik", "Nom", null]	6	3	pVCC
+["INF", "talál", "Nom", null]	6	3	pVCC
+["Dat", null, "INF", "lesz", "Nom", null]	5	4	pVCC
+["Ess", "természetes", "INF", null, "Nom", null]	4	4	pVCC
+["INF", "ad", "Nom", null]	4	3	pVCC
+["INF", "figyel", "Nom", null]	4	3	pVCC
+["INF", "keres", "Nom", null]	4	3	pVCC
+["INF", "nyer", "Nom", null]	4	3	pVCC
+["INF", "tart", "Nom", null]	4	3	pVCC
+["INF", "tölt", "Nom", null]	4	3	pVCC
+["INF", "tud", "Nom", null]	4	3	pVCC
+["INF", "változik", "Nom", null]	4	3	pVCC
+["INF", "volna", "Nom", null]	4	3	pVCC
+["Dat", "kapus", "INF", null, "Nom", null]	3	4	pVCC
+["Dat", null, "INF", "ér", "Nom", null]	3	4	pVCC
+["Dat", null, "INF", "küzd", "Nom", null]	3	4	pVCC
+["Dat", null, "INF", "tesz", "Nom", null]	3	4	pVCC
+["INF", "fejlődik", "Nom", null]	3	3	pVCC
+["INF", "gondol", "Nom", null]	3	3	pVCC
+["INF", "jön", "Nom", null]	3	3	pVCC
+["INF", "lép", "Nom", null]	3	3	pVCC
+["INF", "műt", "Nom", null]	3	3	pVCC
+["INF", "próbál", "Nom", null]	3	3	pVCC
+["INF", "vált", "Nom", null]	3	3	pVCC
+["INF", "vív", "Nom", null]	3	3	pVCC

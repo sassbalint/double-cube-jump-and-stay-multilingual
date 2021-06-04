@@ -1,0 +1,26 @@
+["Nom", null]	249	1	pVCC
+["Ine", null, "Nom", null]	69	2	pVCC
+["Nom", null, "Sub", "rendelkezés"]	58	3	pVCC
+["Nom", null, "Sup", "hely"]	9	3	pVCC
+["Ill", "szolgálat", "Nom", null]	6	3	pVCC
+["Ine", null, "Nom", null, "Sup", "hely"]	5	4	pVCC
+["Nom", null, "Sup", "él"]	5	3	pVCC
+["Ela", "rész", "Nom", null]	4	3	pVCC
+["Ess", "kész", "Nom", null, "Sub", null]	4	4	pVCC
+["Ine", "kapcsolat", "Ins", null, "Nom", null]	4	4	pVCC
+["Ine", null, "Ins", "egymás", "Nom", null]	4	4	pVCC
+["Nom", null, "Sup", "alap"]	4	3	pVCC
+["Ela", null, "Ess", "követő", "Nom", null]	3	4	pVCC
+["Ela", "tiszt", "Nom", null]	3	3	pVCC
+["Ela", "zászlóalj", "Nom", null]	3	3	pVCC
+["Ine", "idő", "Nom", null]	3	3	pVCC
+["Ine", "készenlét", "Nom", null]	3	3	pVCC
+["Nom", "díszőrség"]	3	2	pVCC
+["Nom", "katona"]	3	2	pVCC
+["Nom", null, "Nom=alatt", "irányítás"]	3	3	pVCC
+["Nom", "rendszer"]	3	2	pVCC
+["Dat", null, "Ess", "kész", "Nom", null]	2	4	pVCC
+["Dat", null, "INF", null, "Ine", "jog", "Nom", null, "Sub", "fenntartás"]	2	7	pVCC
+["Dat", null, "Nom", "rész"]	2	3	pVCC
+["Ess", null, "Nom", "erő", "Sub", "rendelkezés"]	2	5	pVCC
+["Ill", "szolgálat", "Ine", null, "Nom", null]	2	4	pVCC

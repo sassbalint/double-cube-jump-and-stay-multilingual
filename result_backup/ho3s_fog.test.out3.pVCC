@@ -1,0 +1,7 @@
+["INF", null, "Nom", null]	124	2	pVCC
+["INF", "rendelkezik", "Nom", null]	5	3	pVCC
+["INF", "működik", "Nom", null]	4	3	pVCC
+["INF", null, "Nom", null, "Sup", "terület"]	4	4	pVCC
+["INF", "eredményez", "Nom", null]	3	3	pVCC
+["Acc", null, "INF", "meghatároz", "Nom", null]	2	4	pVCC
+["INF", null, "Nom", null, "Nom=szerint", "terv"]	2	4	pVCC

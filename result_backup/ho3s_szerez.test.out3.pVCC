@@ -1,0 +1,6 @@
+["Acc", null, "Nom", null]	49	2	pVCC
+["Acc", null, "Ine", null, "Nom", null]	15	3	pVCC
+["Acc", "információ", "Nom", null]	4	3	pVCC
+["Acc", "ismeret", "Nom", null]	4	3	pVCC
+["Acc", "tapasztalat", "Nom", null]	4	3	pVCC
+["Acc", null, "Del", null, "Ess", null, "Nom", null]	3	4	pVCC

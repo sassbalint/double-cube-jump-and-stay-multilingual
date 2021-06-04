@@ -1,0 +1,26 @@
+["Acc", null, "Nom", null]	286	2	pVCC
+["Acc", "probléma", "Nom", null]	16	3	pVCC
+["Acc", "kihívás", "Nom", null]	15	3	pVCC
+["Acc", "gond", "Nom", null]	7	3	pVCC
+["Acc", "fenyegetés", "Nom", null]	6	3	pVCC
+["Acc", "megoldás", "Nom", null]	6	3	pVCC
+["Acc", null, "Ine", "eset", "Nom", null]	6	4	pVCC
+["Acc", null, "Nom", null, "Sup", "sor"]	6	4	pVCC
+["Acc", "veszély", "Nom", null]	6	3	pVCC
+["Acc", "kockázat", "Nom", null]	5	3	pVCC
+["Acc", "akadály", "Nom", null]	4	3	pVCC
+["Acc", "kihívás", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "lehetőség", "Nom", null]	4	3	pVCC
+["Acc", null, "Ess", "természetes", "Nom", null]	4	4	pVCC
+["Acc", null, "Ine", "tekintet", "Nom", null]	4	4	pVCC
+["Acc", "feladat", "Nom", null]	3	3	pVCC
+["Acc", "más", "Nom", null]	3	3	pVCC
+["Acc", null, "Ela", "szempont", "Nom", null]	3	4	pVCC
+["Acc", null, "Ess", "követő", "Nom", null]	3	4	pVCC
+["Acc", null, "Ine", "önmaga", "Nom", null]	3	4	pVCC
+["Acc", null, "Nom", "alkalmazás"]	3	3	pVCC
+["Acc", null, "Nom", null, "Sup", "terület"]	3	4	pVCC
+["Acc", null, "Nom", "tevékenység"]	3	3	pVCC
+["Acc", "kihívás", "Ine", null, "Nom", "probléma"]	2	5	pVCC
+["Acc", "megoldás", "Nom", null, "Sub", "probléma"]	2	5	pVCC
+["Acc", "segítség", "Nom", null, "Sup", "sor"]	2	5	pVCC

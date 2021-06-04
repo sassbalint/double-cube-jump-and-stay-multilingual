@@ -1,0 +1,25 @@
+["Acc", null, "Nom", null]	200	2	pVCC
+["Acc", null, "Ine", null, "Nom", null]	54	3	pVCC
+["Acc", "kép", "Del", null, "Nom", null]	11	4	pVCC
+["Acc", "szerep", "Ine", null, "Nom", null]	10	4	pVCC
+["Acc", "figyelem", "Nom", null]	8	3	pVCC
+["Acc", "lehetőség", "Nom", null, "Sub", null]	8	4	pVCC
+["Acc", null, "Nom", null, "Sup", "sor"]	7	4	pVCC
+["Acc", "pont", "Nom", "pont", "Sup", "teljesítményértékelés"]	6	6	pVCC
+["Acc", null, "Ess", "követő", "Nom", null]	5	4	pVCC
+["Acc", "parancs", "Nom", null]	5	3	pVCC
+["Acc", "beosztás", "Nom", null]	4	3	pVCC
+["Acc", "megrendelés", "Nom", null]	4	3	pVCC
+["Acc", null, "Ine", "idő", "Nom", null]	4	4	pVCC
+["Acc", null, "Ine", "keret", "Nom", null]	4	4	pVCC
+["Acc", "pont", "Ine", "év", "Nom", null, "Sup", "teljesítményértékelés"]	4	7	pVCC
+["Acc", "tájékoztatás", "Del", null, "Nom", null]	4	4	pVCC
+["Acc", "támogatás", "Nom", null]	4	3	pVCC
+["Acc", "értesítés", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "csoport"]	3	3	pVCC
+["Acc", null, "Nom", "résztvevő"]	3	3	pVCC
+["Acc", "szerep", "Nom", null, "Sup", "sor"]	3	5	pVCC
+["Abl", null, "Acc", "információ", "Del", null, "Nom", null]	2	5	pVCC
+["Acc", "lehetőség", "Ess", "megfelelő", "Ine", null, "Nom", null, "Sub", null]	2	7	pVCC
+["Acc", null, "Ill", "kéz", "Nom", null, "Sup", null]	2	5	pVCC
+["Ela", null, "Nom", "végpont", "Nom=szerint", "igény"]	2	5	pVCC

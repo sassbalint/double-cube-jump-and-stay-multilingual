@@ -1,0 +1,42 @@
+["Nom", null]	335	1	pVCC
+["Ill", null, "Nom", null]	174	2	pVCC
+["Nom", null, "Sub", null]	84	2	pVCC
+["Ill", "sorozatgyártás", "Nom", null]	16	3	pVCC
+["Ill", "forgalom", "Nom", null, "Sup", "név"]	13	5	pVCC
+["Ill", "forint", "Nom", null]	12	3	pVCC
+["Ill", "helyzet", "Nom", null]	9	3	pVCC
+["Nom", "sor", "Sub", null]	9	3	pVCC
+["Nom", null, "Sub", "piac"]	8	3	pVCC
+["Ill", "gyártás", "Nom", null]	7	3	pVCC
+["Nom", null, "Sub", "hely"]	7	3	pVCC
+["Ill", null, "Nom", "motor"]	6	3	pVCC
+["Nom", "modell"]	6	2	pVCC
+["Ill", "millió", "Nom", null]	5	3	pVCC
+["Ill", "sorozatgyártás", "Ine", null, "Nom", null]	5	4	pVCC
+["Ill", "szó", "Nom", null]	5	3	pVCC
+["Ill", "gyártás", "Ine", null, "Nom", null]	4	4	pVCC
+["Ill", "középpont", "Nom", null]	4	3	pVCC
+["Ill", "motortér", "Nom", null]	4	3	pVCC
+["Ill", null, "Nom", "autó"]	4	3	pVCC
+["Ine", null, "Nom", null, "Sub", "piac"]	4	4	pVCC
+["Ins", "r", "Nom", null]	4	3	pVCC
+["Nom", null, "Sub", "megrendezés"]	4	3	pVCC
+["Nom", "példány"]	4	2	pVCC
+["Ade", null, "Ill", "sok", "Nom", null]	3	4	pVCC
+["Ill", "ft", "Nom", null]	3	3	pVCC
+["Ill", "gyártás", "Ins", null, "Nom", null]	3	4	pVCC
+["Ill", null, "Ine", "változat", "Nom", null]	3	4	pVCC
+["Ill", null, "Nom", "újdonság"]	3	3	pVCC
+["Ine", null, "Nom", "sor"]	3	3	pVCC
+["Nom", "mélynyomó"]	3	2	pVCC
+["Nom", null, "Sub", "piac", "Sup", "név"]	3	5	pVCC
+["All", null, "Nom", null, "Sup", "sor"]	2	4	pVCC
+["All", "tulajdonos", "Ins", null, "Nom", null]	2	4	pVCC
+["Ela", null, "Nom", null, "Sub", null, "Sup", "alap"]	2	5	pVCC
+["Ess", "hivatalos", "Ill", "forgalom", "Nom", null, "Sup", "név"]	2	7	pVCC
+["Ess", null, "Ill", "modell", "Nom", null]	2	4	pVCC
+["Ess", "ráadás", "Nom", null, "Sub", null]	2	4	pVCC
+["Ill", null, "Nom", "kijelző"]	2	3	pVCC
+["Ill", null, "Nom", null, "Sub", "vég"]	2	4	pVCC
+["Ill", null, "Nom", "verzió"]	2	3	pVCC
+["Nom", null, "Sub", null, "Sup", "piac"]	2	4	pVCC

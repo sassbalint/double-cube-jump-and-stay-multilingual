@@ -1,0 +1,9 @@
+["Nom", null]	73	1	pVCC
+["Ine", null, "Nom", null]	26	2	pVCC
+["Ins", null, "Nom", null]	25	2	pVCC
+["Ine", null, "Nom", "forgalmazás"]	9	3	pVCC
+["Ine", null, "Nom", "gyártás"]	4	3	pVCC
+["Nom", "munka"]	4	2	pVCC
+["Nom", "szezon"]	4	2	pVCC
+["Ade", "volvo", "Nom", "korszak"]	2	4	pVCC
+["Ins", "tavasz", "Nom", "forgalmazás"]	2	4	pVCC

@@ -1,0 +1,15 @@
+["Acc", null, "Nom", null]	108	2	pVCC
+["Acc", "cél", "Nom", null]	5	3	pVCC
+["Acc", null, "Nom", null, "Sup", "alap"]	5	4	pVCC
+["Acc", null, "Ess", "alapvető", "Nom", null]	4	4	pVCC
+["Acc", null, "Ine", "eset", "Nom", null]	4	4	pVCC
+["Acc", "jelleg", "Nom", null]	3	3	pVCC
+["Acc", "lehetőség", "Nom", null]	3	3	pVCC
+["Acc", null, "Nom", "nehéz"]	3	3	pVCC
+["Acc", null, "Nom", "rendelet"]	3	3	pVCC
+["Acc", null, "Nom", "törvény"]	3	3	pVCC
+["Acc", "pontszám", "Nom", "átlag"]	3	4	pVCC
+["Acc", "terület", "Nom", null]	3	3	pVCC
+["Acc", null, "Ine", "érdek", "Nom", null]	2	4	pVCC
+["Acc", null, "Nom", null, "Nom=szerint", "alábbi"]	2	4	pVCC
+["Acc", null, "Nom", "szabályzat"]	2	3	pVCC

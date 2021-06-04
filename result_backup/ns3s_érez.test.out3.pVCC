@@ -1,0 +1,15 @@
+["Nom", null]	140	1	pVCC
+["Acc", null, "Nom", null]	61	2	pVCC
+["Nom", "maga"]	14	2	pVCC
+["Ess", "jó", "Nom", null]	11	3	pVCC
+["Acc", "maga", "Ess", null, "Nom", null]	10	4	pVCC
+["Ess", "jó", "Nom", "maga"]	6	4	pVCC
+["Acc", "maga", "Ess", "jó", "Nom", null]	5	5	pVCC
+["Dat", null, "Nom", "maga"]	5	3	pVCC
+["Acc", "maga", "Ine", null, "Nom", null]	4	4	pVCC
+["Acc", "nyomás", "Nom", null]	4	3	pVCC
+["Ine", null, "Nom", "maga"]	4	3	pVCC
+["Acc", "szeretet", "Nom", null]	3	3	pVCC
+["Nom", "játékos"]	3	2	pVCC
+["Dat", null, "Ess", null, "Nom", "maga"]	2	4	pVCC
+["Ess", "jó", "Ine", null, "Nom", "maga"]	2	5	pVCC

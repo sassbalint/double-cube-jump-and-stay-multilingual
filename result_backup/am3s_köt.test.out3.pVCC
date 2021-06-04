@@ -1,0 +1,4 @@
+["Acc", null, "Nom", null]	17	2	pVCC
+["Acc", null, "Ins", null, "Nom", null]	6	3	pVCC
+["Acc", "megállapodás", "Nom", null]	3	3	pVCC
+["Acc", "szerződés", "Ins", null, "Nom", null]	3	4	pVCC

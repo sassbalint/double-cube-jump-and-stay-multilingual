@@ -1,0 +1,19 @@
+["Nom", null]	303	1	pVCC
+["Nom", "esély"]	7	2	pVCC
+["Nom", "mérkőzés"]	7	2	pVCC
+["Ins", null, "Nom", "elégedett"]	5	3	pVCC
+["Del", null, "Nom", "szó"]	4	3	pVCC
+["Nom", "gond"]	4	2	pVCC
+["Nom", null, "Sup", "mérkőzés"]	4	3	pVCC
+["Nom", "tanya"]	4	2	pVCC
+["Nom", "büszke", "Sub", null]	3	3	pVCC
+["Nom", "esély", "Sub", null]	3	3	pVCC
+["Nom", "fontos"]	3	2	pVCC
+["Nom", "jó"]	3	2	pVCC
+["Nom", null, "Sup", "pálya"]	3	3	pVCC
+["Nom", null, "Sup", "talaj"]	3	3	pVCC
+["Nom", null, "Sup", "torna"]	3	3	pVCC
+["Nom", "panasz", "Sub", null]	3	3	pVCC
+["Nom", "védekezés"]	3	2	pVCC
+["Ess", null, "Nom", null, "Sub", null, "Sup", "nyár"]	2	5	pVCC
+["Ine", null, "Nom", "szerencse"]	2	3	pVCC

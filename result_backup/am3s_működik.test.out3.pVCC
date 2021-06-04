@@ -1,0 +1,4 @@
+["Nom", null]	59	1	pVCC
+["Ess", null, "Nom", null]	21	2	pVCC
+["Ess", "jó", "Nom", null]	4	3	pVCC
+["Nom", null, "Nom=szerint", "ciklus"]	3	3	pVCC

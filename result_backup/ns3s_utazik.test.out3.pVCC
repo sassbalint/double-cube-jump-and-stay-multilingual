@@ -1,0 +1,4 @@
+["Nom", null]	36	1	pVCC
+["Ill", null, "Nom", null]	15	2	pVCC
+["Nom", null, "Sub", null]	13	2	pVCC
+["Ill", "spanyolország", "Nom", null]	3	3	pVCC

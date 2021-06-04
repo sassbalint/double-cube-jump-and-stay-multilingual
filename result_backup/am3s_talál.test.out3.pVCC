@@ -1,0 +1,17 @@
+["Acc", null, "Nom", null]	126	2	pVCC
+["Nom", null, "Sub", "gazda"]	13	3	pVCC
+["Ine", null, "Nom", null, "Sub", "gazda"]	7	4	pVCC
+["Acc", "hely", "Nom", null]	6	3	pVCC
+["Acc", "autó", "Nom", null]	4	3	pVCC
+["Acc", "fogás", "Nom", null, "Sup", null]	4	4	pVCC
+["Acc", "példány", "Nom", null]	4	3	pVCC
+["Ela", null, "Nom", null, "Sub", "gazda"]	4	4	pVCC
+["Acc", null, "Nom", null, "Sup", "motorpaletta"]	3	4	pVCC
+["Acc", null, "Nom", null, "Sup", "piac"]	3	4	pVCC
+["Acc", "tárolóhely", "Nom", null]	3	3	pVCC
+["Acc", "villanymotor", "Ine", null, "Nom", null]	3	4	pVCC
+["Abl", null, "Acc", "kapcsoló", "Nom", null, "Sub", "bal"]	2	6	pVCC
+["Acc", "maga", "Nom", null, "Sup", null]	2	4	pVCC
+["Acc", "megoldás", "Nom", null, "Sub", null]	2	4	pVCC
+["Acc", null, "Dat", "vétkes", "Ine", null, "Nom", null]	2	5	pVCC
+["Nom", "autó", "Sub", "gazda", "Ter", null]	2	5	pVCC

@@ -1,0 +1,15 @@
+["Nom", null]	169	1	pVCC
+["Ine", null, "Nom", null]	62	2	pVCC
+["Ine", "modell", "Nom", null]	7	3	pVCC
+["Ine", null, "Nom", "benzinmotor"]	7	3	pVCC
+["Acc", "sok", "Nom", null]	6	3	pVCC
+["Ine", null, "Nom", "motor"]	5	3	pVCC
+["Ine", null, "Nom", "turbómotor"]	4	3	pVCC
+["Ine", "orr", "Nom", null]	4	3	pVCC
+["Nom", "erőforrás"]	4	2	pVCC
+["Ine", "motortér", "Nom", null]	3	3	pVCC
+["Ine", null, "Nom", "mérnök"]	3	3	pVCC
+["Ine", null, "Nom", "villanymotor"]	2	3	pVCC
+["Ins", null, "Nom", "váltó"]	2	3	pVCC
+["Nom", "fék", "Nom=mögött", null]	2	3	pVCC
+["Nom", "motor", "Sup", "fordulat"]	2	4	pVCC
