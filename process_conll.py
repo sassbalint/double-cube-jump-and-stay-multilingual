@@ -137,33 +137,49 @@ def main():
 
             else: # empty line = end of sentence => process the whole sentence
 
-                for tok in sentence:
-                    print_token(tok)
+                for root in sentence:
+                    print_token(root)
 
-                    if tok[UPOS] != ROOT_UPOS:
+                    if root[UPOS] != ROOT_UPOS:
                         continue
 
                     # we have the root (=VERB) here
-                    verb_lemma = tok[LEMMA]
+                    verb_lemma = root[LEMMA]
 
-                    deps = []
+                    exts = []
+
+                    # add morphological info of root as separate slot
+                    #
+                    # -- VERB
+                    #if 'Mood' in root[FEATS_DIC] and root[FEATS_DIC]['Mood'] != 'Ind':
+                    #    exts.append('mood@@' + root[FEATS_DIC]['Mood'])
+                    #
+                    # -- ADJ
+                    #for feat, default_value in (('Case', 'Nom'), ('Degree', 'Pos'), ('Number', 'Sing')):
+                    #    if feat in root[FEATS_DIC] and root[FEATS_DIC][feat] != default_value:
+                    #        exts.append(f'{feat}@@{root[FEATS_DIC][feat]}')
+
                     # exts of the verb -- with simple loops (not slow)
-                    for dep in sentence: # direct exts
-                        if dep[HEAD] != tok[ID]:
+                    for ext in sentence: # direct exts
+                        if ext[HEAD] != root[ID]:
                             continue
-                        if dep[SLOT] != NOSLOT:
-                            slot = dep[SLOT]
+                        if ext[SLOT] != NOSLOT:
+                            slot = ext[SLOT]
+                    
+                            # add morphological info of ext as separate slot
+                            #if 'Number' in ext[FEATS_DIC] and ext[FEATS_DIC]['Number'] != 'Sing':
+                            #    exts.append(slot + '/number@@' + ext[FEATS_DIC]['Number'])
 
                             # exts of the exts = amend slot with prepositions/postpositions
-                            for depofdep in sentence:
-                                if depofdep[HEAD] != dep[ID]:
+                            for extofext in sentence:
+                                if extofext[HEAD] != ext[ID]:
                                     continue
-                                if (depofdep[UPOS] == 'ADP' or (
-                                    depofdep[UPOS] == 'PART' and
+                                if (extofext[UPOS] == 'ADP' or (
+                                    extofext[UPOS] == 'PART' and
                                     INPUTLANG in XCOMP_PARTICLE and
-                                    depofdep[LEMMA] == XCOMP_PARTICLE[INPUTLANG]
+                                    extofext[LEMMA] == XCOMP_PARTICLE[INPUTLANG]
                                 )):
-                                    prep = depofdep[LEMMA].lower()
+                                    prep = extofext[LEMMA].lower()
                                     # 'de': handle german contractions: am -> an
                                     if INPUTLANG == 'de' and prep in DE_CONTRACTIONS:
                                         prep = DE_CONTRACTIONS[prep]
@@ -171,36 +187,36 @@ def main():
                                 # handle e-magyar Hungarian postpositions
                                 # which are annotated inversely -> should be inverted
                                 if slot == 'NU':
-                                    slot = depofdep[FEATS_DIC].get('Case', 'notdef') + '=' + dep[LEMMA]
-                                    dep[LEMMA] = depofdep[LEMMA]
+                                    slot = extofext[FEATS_DIC].get('Case', 'notdef') + '=' + ext[LEMMA]
+                                    ext[LEMMA] = extofext[LEMMA]
                                 # adjective as second level ext (in a multilevel setting!)
-                                #if depofdep[DEPREL] == 'ATT' and depofdep[UPOS] == 'ADJ':
-                                #    deps.append(slot + '+ATT' + '@@' + depofdep[LEMMA])  
+                                #if extofext[DEPREL] == 'ATT' and extofext[UPOS] == 'ADJ':
+                                #    exts.append(slot + '+ATT' + '@@' + extofext[LEMMA])  
 
                             # lemma
-                            lemma = dep[LEMMA].lower()
+                            lemma = ext[LEMMA].lower()
                             # lemma / handle pronouns
                             # -- only reflexive and rcp are needed as lemma
-                            if (dep[UPOS] == 'PRON' and
-                                dep[FEATS_DIC].get('Reflex', 'notdef') != 'Yes' and # 'itself'
-                                dep[FEATS_DIC].get('PronType', 'notdef') != 'Rcp' and # 'each other'
-                                dep[LEMMA] not in PRON_LEMMAS
+                            if (ext[UPOS] == 'PRON' and
+                                ext[FEATS_DIC].get('Reflex', 'notdef') != 'Yes' and # 'itself'
+                                ext[FEATS_DIC].get('PronType', 'notdef') != 'Rcp' and # 'each other'
+                                ext[LEMMA] not in PRON_LEMMAS
                             ):
                                 lemma = "NULL"
 
-                            deps.append(slot + '@@' + lemma)
+                            exts.append(slot + '@@' + lemma)
 
                         # add verb particle / preverb to the verb lemma
                         # verb particle / preverb must be a NOSLOT!
-                        elif dep[DEPREL] in VERB_PARTICLE:
-                            verb_lemma = dep[LEMMA] + verb_lemma
+                        elif ext[DEPREL] in VERB_PARTICLE:
+                            verb_lemma = ext[LEMMA] + verb_lemma
 
                     # handle special 'perverb+verb' format in UD/hu -> delete the '+'
                     verb_lemma = verb_lemma.replace('+', '')
 
                     # print out the verb centered construction
                     # = verb + exts (in alphabetical order)
-                    for x in ['stem@@' + verb_lemma] + sorted(deps):
+                    for x in ['stem@@' + verb_lemma] + sorted(exts):
                         print('', x, end='')
                     print()
 
